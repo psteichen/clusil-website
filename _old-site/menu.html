@@ -1,0 +1,25 @@
+<div id="menu">
+<ul>
+<!--#if expr="$REQUEST_URI == '/'" -->
+<li><a class="here" href="/">News</a></li>
+<!--#else -->
+<li><a href="/">News</a></li>
+<!--#endif -->
+<!--#if expr="$REQUEST_URI == '/publications/'" -->
+<li><a class="here" href="/publications/">Publications</a></li>
+<!--#else -->
+<li><a href="/publications/">Publications</a></li>
+<!--#endif -->
+<!--#if expr="$REQUEST_URI == '/about/'" -->
+<li><a class="here" href="/about/">About</a></li>
+<!--#else -->
+<li><a href="/about/">About</a></li>
+<!--#endif -->
+<!--#if expr="$REQUEST_URI == '/contact/'" -->
+<li><a class="here" href="/contact/">Contact</a></li>
+<!--#else -->
+<li><a href="/contact/">Contact</a></li>
+<!--#endif -->
+<li><a href="https://cms.clusil.lu/" target=_"blank">Member's area</a></li>
+</ul>
+</div>

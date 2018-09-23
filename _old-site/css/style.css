@@ -1,0 +1,23 @@
+/* YOUR CUSTOM STYLES */
+.top-nav-collapse {
+    background-color: white !important;
+}
+/*.top-nav-collapse .navbar-brand  {
+    background-image: url("https://clusil.lu/logo-ok-clusil-2017-vecto-01.png");
+}
+.top-nav-collapse .navbar-brand img {
+    content: url("https://clusil.lu/logo-ok-clusil-2017-vecto-01.png");
+    width:7em;
+}*/
+.light-blue-skin.intro-page .navbar:not(.top-nav-collapse) {
+/*    background: white none repeat scroll 0 0 !important;*/
+}
+.between-sections {
+    margin-top: 4rem;
+}
+@media only screen and (max-height:550px){.intro{font-size:0.7rem;} h2{margin-top:6rem;}.mb-2{margin-bottom:1rem !important;}}
+@media only screen and (min-height:551px) and (max-height:700px){.intro{font-size:0.8rem;} h2{margin-top:6rem;}.mb-2{margin-bottom:1rem !important;}}
+@media only screen and (max-width:767px){.streak-large{height:800px}}
+@media only screen and (min-width:768px){.streak-large{height:450px}}
+@media only screen and (max-width:450px){.tab-content.vertical{padding-top:4rem;}}
+@media only screen and (max-width:767px){.img-fluid{max-width:50%;padding-bottom:2rem;padding-top:2rem;text-align:center;margin:auto;}}

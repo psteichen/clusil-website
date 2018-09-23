@@ -1,0 +1,285 @@
+/* global css part */
+body {
+	cursor: default;
+	margin: 5px 50px;
+	font: small/1.6em Verdana, Arial, Helvetica, sans-serif;
+	background: #333;
+	color: #000;
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+	background: rgb(6, 130, 72);
+	border-radius: 5px;
+	text-indent: 0.5em;
+	line-height: 1.8em;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	margin-top: 1em;
+}
+
+h2 {
+	font-size: 1.1em;
+	margin: 0;
+	margin-top: 0.8em;
+}
+
+a {
+	color: #00661a; 
+	font-weight: bold;
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+
+a:hover {
+	color: #333;
+	border-bottom: 1px solid;
+}
+
+a:visited {
+	color: #009926;
+}
+
+img {
+	border: 0;
+}
+
+/* www css part */
+#page {
+	min-width: 750px;
+	max-width: 1250px;
+	margin: 0 auto;
+	color: #000;
+	text-align: left;
+}
+
+#header {
+	width: 100%;
+	margin: 0 auto;
+	height: 150px;
+	background: url("/pics/header.jpg") top center no-repeat;
+	background-border-radius: 10px 0 10px 0;
+}
+#header h1 {
+	margin: 0;
+	border: none;
+}
+
+#menu {
+	background: #E3F8CE;
+	border-radius: 10px 10px 10px 0;
+	text-align: center;
+	letter-spacing: 0.1em;
+	line-height: 3em;
+	font-weight: bold;
+	border-bottom: 1px solid #009E28;
+	border-top: 1px solid #009E28;
+}
+#menu ul, #sidebar ul, #footer ul {	
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#menu li {
+	font-size: 1.1em;
+	font-variant: small-caps;
+	font-style: italic;
+	display: inline;
+	padding: 0 2.5em;
+}
+#menu li a {
+	color: rgb(6, 130, 72);
+	text-decoration: none;
+	border: none;
+}
+#menu li a:hover, #menu li a.here {
+	color: #333;
+	font-style: normal;
+	border-bottom: 1px dotted;
+}
+
+#content {
+	float: left;
+	width: 75%;
+	min-width: 400px;
+	min-height: 525px;
+	padding: 0px 10px 30px;
+	border-right: 1px solid #B0EC74;
+	background: #FBFFF0;
+}
+#content {
+	text-align: justify;
+}
+
+#cblock {
+	display: block;
+	border-bottom: 1px solid rgb(6, 130, 72);
+	margin: 5px;
+}
+
+#cblock dl {
+  margin: 10px;
+  padding: 0;
+}
+#cblock dt {
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+  font-style: italic;
+}
+#cblock dd {
+  margin: 0 10px;
+  padding: 0;
+}
+#sidebar {
+	margin: 10px 0 10px -1px;
+	padding: 5px 5px 5px 10px;
+ 	float: left;
+	width: 20%;
+	min-width: 150px;
+	font-size: 0.8em;
+	border-left: 1px solid #B0EC74;
+	background: #E3F8CE;
+	border-radius: 0 10px 10px 0;
+}
+
+#footer {
+	clear: both;
+	margin: 0;
+	padding: 1px 0;
+	background: rgb(6, 130, 72);
+/*	background: #009E28; */
+	border-radius: 0 10px 10px 10px;
+	text-align: center;
+	font-size: 0.8em;
+}
+	
+#footer li {
+	display: inline;
+	padding: 0 1em 0 0;
+}
+
+#footer a {
+	color: #fff;
+}
+
+/* intranet css part */
+#intranet {
+ 	max-width: 1200px;
+ 	min-width: 750px;
+ 	margin: 5px auto;
+ 	padding: 5px 2px;
+ 	background: #e3f8ce;
+ 	-moz-border-radius: 15px;
+ 	border-radius: 15px;
+ 	-moz-box-shadow: 5px 5px 5px rgb(6, 130, 72);
+ 	-webkit-box-shadow: 5px 5px 5px rgb(6, 130, 72);
+ 	box-shadow: 5px 5px 5px rgb(6, 130, 72);
+}
+#intranet img {
+ 	-moz-border-radius: 15px;
+ 	border-radius: 15px;
+}
+#intranet h1 {
+ 	-moz-border-radius: 10px;
+ 	border-radius: 10px;
+ 	margin: 5px;
+}
+#intranet fieldset {
+ 	margin: 5px;
+ 	-moz-border-radius: 15px;
+ 	border-radius: 15px;
+}
+#intranet table {
+	width: 650px;
+ 	margin: 5px auto;
+}
+#intranet th {
+	font-weight: normal;
+	text-align: right;
+}
+#intranet td {
+	text-align: left;
+}
+#intranet input {
+	width: 350px;
+ 	-moz-border-radius: 10px;
+ 	border-radius: 10px;
+	padding: 0px 5px;
+}
+#intranet input.readonly {
+ 	background: #e3f8ce;
+	border: 0;
+}
+#intranet textarea.readonly {
+ 	background: #e3f8ce;
+	font-style: italic;
+	border: 0;
+	resize: none;
+}
+#intranet input[type="radio"], #intranet input[type="checkbox"] {
+	width: 50px;
+}
+#intranet ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+#intranet p {
+	text-align: justify;
+}
+#intranet p.error, #intranet ul.errorlist {
+	font-style: italic;
+	font-weight: bold;
+	color: red;
+}
+#intranet p.error{
+	text-align: center;
+}
+#intranet pre {
+	padding: 0 20px;
+	text-align: left;
+}
+#intranet #submit {
+	width: 80px;
+	font-weight: bold;
+ 	-moz-border-radius: 15px;
+ 	border-radius: 15px;
+}
+#intranet #footer {
+	margin: 10px 0 0 0;
+	padding: 1px 0;
+ 	background: #e3f8ce;
+ 	color: #333;
+	text-align: center;
+	font-size: 8.5px;
+}
+#intranet #footer a {
+ 	color: #333;
+	font-size: 8.5px;
+}
+
+/* intranet webdav part */
+#intranet #dav table {
+	width: 100%;
+}
+#intranet #dav th {
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	height: 10px;
+}
+#intranet #dav td {
+	font-size: 0.9em;
+	text-align: left;
+}
+#intranet #dav hr {
+	border: 0;
+	border-bottom: 1px dotted #000;
+}
+#intranet #dav #footer p {
+	text-align: center;
+}

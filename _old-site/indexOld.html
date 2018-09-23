@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+<html class="full-height" lang="en"><head>    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>CLUSIL</title>
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+<style>.top-nav-collapse .container .navbar-collapse .navbar-nav .nav-item a {color:black !important;}
+@media (max-width:767px) {
+.scrolling-navbar .container .navbar-collapse.show .navbar-nav .nav-item a {color:black !important;}
+/*.intro .container {padding-top:3rem;}*/
+}
+.between-sections { margin-top:4rem;}
+@media (min-width: 576px) {.modal-dialog { max-width: 70%;}}
+</style>
+    
+    <!-- Customizer -->
+    <link rel="stylesheet" href="css/customizer.min.css">
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+     <script type="text/javascript">
+       function onSubmit(token) {
+
+var xhr = new XMLHttpRequest();
+
+ xhr.onreadystatechange = function() {
+    var postStatus = document.getElementById("postStatus");
+    // check if the response data send back to us
+    if(xhr.readyState === 4) {
+      // check if the request is successful
+      if(xhr.status === 200) {
+        postStatus.innerHTML = xhr.responseText;       
+formErrorIcon.setAttribute("style", "color:#ff4b4b;display:none;");
+formSuccessIcon.setAttribute("style", "color:#01d36b;display:block;");
+      } else {
+        postStatus.innerHTML = 'An error occurred during your request: ' +  xhr.status + ' ' + xhr.statusText;
+formErrorIcon.setAttribute("style", "color:#ff4b4b;display:block;");
+formSuccessIcon.setAttribute("style", "color:#01d36b;display:none;");
+      }
+onlyTabIs(5);
+    }
+  }
+
+if(document.getElementById("applicantName").value != "" && 
+  document.getElementById("applicantEmail").value != "" &&
+    document.getElementById("thesisTitle").value != "" &&
+  document.getElementById("studies").value != "" &&
+  document.getElementById("university").value != "" &&
+  document.getElementById("description").value != "" &&
+  document.getElementById("impact").value != "" &&
+  document.getElementById("innovation").value != "" &&
+  document.getElementById("applicantDataProcessingConsent").value != "") {
+document.getElementById("formApplicantName").value = document.getElementById("applicantName").value;
+document.getElementById("formApplicantEmail").value = document.getElementById("applicantEmail").value;
+document.getElementById("formThesisTitle").value = document.getElementById("thesisTitle").value;
+document.getElementById("formStudies").value = document.getElementById("studies").value;
+document.getElementById("formUniversity").value = document.getElementById("university").value;
+document.getElementById("formHostCompany").value = document.getElementById("hostCompany").value;
+document.getElementById("formDescription").value = document.getElementById("description").value;
+document.getElementById("formImpact").value = document.getElementById("impact").value;
+document.getElementById("formInnovation").value = document.getElementById("innovation").value;
+document.getElementById("formApplicantDataProcessingConsent").value = document.getElementById("applicantDataProcessingConsent").value;
+//  xhr.open (document.getElementById("awardForm").method, document.getElementById("awardForm").action, true);
+//  xhr.send (new FormData (document.getElementById("awardForm")));
+  return false;
+} else  {
+formErrorIcon.setAttribute("style", "color:#ff4b4b;display:block;");
+formSuccessIcon.setAttribute("style", "color:#01d36b;display:none;");
+postStatus.innerHTML = 'Please be advised that all fields (but the host company) are mandatory.';
+onlyTabIs(5);
+}
+       }
+     </script>
+<style>.grecaptcha-badge:hover { right: 4px !important }
+.grecaptcha-badge { position: static !important }
+</style>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
+
+<body class="light-blue-skin intro-page">
+    <!-- Customizer -->
+    
+    <!-- /.Customizer -->
+
+    <!--Navigation & Intro-->
+    <header>
+        
+        <!--Navbar-->
+        <nav class="navbar fixed-top navbar-toggleable-md navbar-dark scrolling-navbar">
+           
+            <div class="container">
+               
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                
+                <a class="navbar-brand" href="#">
+                    <img alt="clusil logo" src="https://clusil.lu/img/logo.png" class="d-inline-block align-top" style="width: 7em;">
+                </a>
+                
+                <div class="collapse navbar-collapse" id="navbarNav">
+                   
+                    <!--Links-->
+                    <ul class="navbar-nav mr-auto smooth-scroll">
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect waves-light" href="#home">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect waves-light" href="#events" data-offset="100">Events</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect waves-light" href="#about" data-offset="3000">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect waves-light" href="#partners" data-offset="100">Partners</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect waves-light" href="#statistics" data-offset="100">Statistics</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect waves-light" href="#team" data-offset="0">Team</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect" href="#contact">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect" href="#join-us">Join Us</a>
+                        </li>
+                    </ul>
+                    
+                    <!--Social Icons-->
+                    <ul class="navbar-nav nav-flex-icons">
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect" href="https://www.linkedin.com/groups/3852540"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link waves-effect" href="https://twitter.com/clusil_lu"><i class="fa fa-twitter"></i></a>
+                        </li>
+			<li class="nav-item"><a href="https://cms.clusil.lu/" id="show_login" class="nav-link waves-effect waves-light"><i class="fa fa-sign-in"></i><span class="hidden-sm-down">Login</span></a></li>
+			</ul>
+                    
+                </div>
+            </div>
+        </nav>
+        <!--/Navbar-->
+        
+        <!--Mask-->
+		<div class="view intro hm-black-strong intro-lp" id="home" style="background-image:url('img/introBackground.jpg');">
+			<div class="full-bg-img flex-center">
+
+
+<div class="container smooth-scroll">
+                    <div class="row">
+                        <div class="col-md-12 white-text text-center smooth-scroll">
+                            <div class="wow fadeInDown" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
+                                 <h2 class="brand-name font-bold mb-2"><span style="color: red; font-weight: bold; font-size: 2em; vertical-align: middle; padding-bottom: 0.15em;">/</span>Best thesis award<span style="color: red; font-weight: bold; font-size: 0.2em;">_____</span></h2>
+                                <hr class="hr-light">
+                                <h3 class="subtext-header mt-2 mb-2">Bringing recognition to students in Luxembourg and it's greater region.</h3>
+                              <h5 class="subtext-header mt-2 mb-2">2'000 EUR in cash for the winner  -  Award ceremony during the cybersecurity week in October</h5>
+                            </div>
+                                                     
+<!-- Button trigger modal -->
+
+
+<!-- Modal -->
+
+<!-- /.Live preview-->
+
+                            <button type="button" class="btn btn-default wow fadeInLeft waves-effect waves-light btn-primary" data-toggle="modal" data-target="#modalAwardDetails" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft; margin-top: 3%; letter-spacing: 1px; font-size: 1em;">
+Details
+</button>
+<a href="" data-offset="100" class="btn btn-secondary wow fadeInRight waves-effect waves-light" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInRight; margin-top: 3%; letter-spacing: 1px; font-size: 1em;" data-toggle="modal" data-target="#modalAwardForm">Apply</a>
+<h5 style="margin-top: 0%; font-size: 1.2em;">In partnership with LIDIT</h5>
+<h5 style="margin-top: 0%; font-size: 1.2em;">Applicants are also free to download this <a href="https://clusil.lu/awardForm.pdf">file</a>, <br>fill it in offline and send it to award2017@cusil.lu</h5>
+                        </div>
+                    </div>
+
+
+<div i="" class="modal fade" id="modalAwardForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" style="display: none;" aria-hidden="true">
+                    <div class="modal-dialog cascading-modal" role="document">
+                       <script>
+    function nextTabIs(index, backward) {
+      var previousIndex = backward ? index + 1 : index - 1;
+
+      if(index < 5) document.getElementById("tab"+index).setAttribute("aria-expanded", "true");
+      if(index < 5) document.getElementById("tab"+index).className = "nav-link active";
+      document.getElementById("panel"+index).setAttribute("aria-expanded", "true");
+      document.getElementById("panel"+index).style.display = "block";
+      document.getElementById("panel"+index).className = "tab-pane fade active show";
+
+      if(previousIndex < 5 && previousIndex > 0) document.getElementById("tab"+previousIndex).setAttribute("aria-expanded", "false");
+      if(previousIndex < 5 && previousIndex > 0) document.getElementById("tab"+previousIndex).className = "nav-link";
+      if(previousIndex > 0) document.getElementById("panel"+previousIndex).setAttribute("aria-expanded", "false");
+      if(previousIndex > 0) document.getElementById("panel"+previousIndex).style.display = "none";
+      if(previousIndex > 0) document.getElementById("panel"+previousIndex).className = "tab-pane fade in";
+
+  }
+    function onlyTabIs(index) {
+    for(i=1; i < 6; i++) {
+        if(index == i) {
+              if(index < 5) document.getElementById("tab"+index).setAttribute("aria-expanded", "true");
+              if(index < 5) document.getElementById("tab"+index).className = "nav-link active";
+              document.getElementById("panel"+index).setAttribute("aria-expanded", "true");
+              document.getElementById("panel"+index).style.display = "block";
+              document.getElementById("panel"+index).className = "tab-pane fade active show";
+        } else {
+              if(i < 5) document.getElementById("tab"+i).setAttribute("aria-expanded", "false");
+              if(i < 5) document.getElementById("tab"+i).className = "nav-link";
+              document.getElementById("panel"+i).setAttribute("aria-expanded", "false");
+              document.getElementById("panel"+i).style.display = "none";
+              document.getElementById("panel"+i).className = "tab-pane fade in";
+        }
+    }
+  } 
+</script>
+  <!--Content-->
+                        <div class="modal-content">
+
+                            <!--Modal cascading tabs-->
+                            <div class="modal-c-tabs">
+<div class="modal-header" style="border-bottom:none;padding:1rem;padding-left:2.5rem;">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close" style="">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title w-100" id="myModalLabel" style="color:   rgb(255,0,0);">Application (closed since sep. 20th)</h4>
+</div>
+                                <!-- Nav tabs -->
+                                <ul class="nav nav-tabs tabs-2 light-blue darken-3" role="tablist" style="border-radius:0px;margin:0px">
+                                    <li class="nav-item waves-effect waves-light">
+                                        <a class="nav-link active" data-toggle="tab" href="#panel1" role="tab" aria-expanded="true" id="tab1" onclick="onlyTabIs(1);"><i class="fa fa-user mr-1"></i><br> About you</a>
+                                    </li>
+                                    <li class="nav-item waves-effect waves-light">
+                                        <a class="nav-link" data-toggle="tab" href="#panel2" role="tab" aria-expanded="false" id="tab2" onclick="onlyTabIs(2);"><i class="fa fa-pencil mr-1"></i><br> Description</a>
+                                    </li>
+                                    <li class="nav-item waves-effect waves-light">
+                                        <a class="nav-link" data-toggle="tab" href="#panel3" role="tab" aria-expanded="false" id="tab3" onclick="onlyTabIs(3);"><i class="fa fa-arrows-alt mr-1"></i><br> Impact</a>
+                                    </li>
+                                    <li class="nav-item waves-effect waves-light">
+                                        <a class="nav-link" data-toggle="tab" href="#panel4" role="tab" aria-expanded="false" id="tab4" onclick="onlyTabIs(4);"><i class="fa fa-lightbulb-o mr-1"></i><br> Innovation</a>
+                                    </li>
+                                </ul>
+
+                                <!-- Tab panels -->
+                                <div class="tab-content">
+<form id="awardForm" action="awardForm.php" method="POST">
+                                    <!--Panel 1-->
+                                    <div class="tab-pane fade in active show" id="panel1" role="tabpanel" aria-expanded="true">
+
+                                        <!--Body-->
+                               		<div class="modal-body mb-1">
+                                        
+
+<!--First row-->
+    <div class="row">
+        <!--First column-->
+        <div class="col-md-6">
+            <div class="md-form">
+                                                            <input id="applicantName" class="form-control" type="text" disabled>
+                                                            <label for="applicantName" class="">Your name</label>
+            </div>
+        </div>
+
+        <!--Second column-->
+        <div class="col-md-6">
+            <div class="md-form">
+                <input type="email" id="applicantEmail" class="form-control validate" disabled>
+                <label for="applicantEmail" data-error="wrong" data-success="right">Type your email</label>
+            </div>
+        </div>
+    </div>
+    <!--/.First row-->
+
+              <div class="md-form form-sm">
+                                                <input id="thesisTitle" class="form-control" type="text" disabled>
+                                                <label for="thesisTitle" class="">Thesis title</label>
+                                            </div>
+
+                                            <div class="md-form form-sm">
+                                                <input id="studies" class="form-control" type="text" disabled>
+                                                <label for="studies" class="">Undertaken studies</label>
+                                            </div>
+
+    <div class="row">
+        <!--First column-->
+        <div class="col-md-6">
+                                            <div class="md-form form-sm">
+                                                <input id="university" class="form-control" type="text" disabled>
+                                                <label for="university" class="">Host university</label>
+                                            </div>
+        </div>
+        <div class="col-md-6">
+
+              <div class="md-form form-sm">
+                                                <input id="hostCompany" class="form-control" type="text" disabled>
+                                                <label for="hostCompany" class="">Host company (if any)</label>
+                                            </div>
+        </div>
+    </div>
+<div class="mt-2 text-right">
+                <button class="btn btn-primary waves-effect waves-light" onclick="nextTabIs(2);return false;">Next</button>
+                                            </div>
+
+					</div>
+                                        <!--Footer-->
+                                        
+
+                                    </div>
+                                    <!--/.Panel 1-->
+
+                                    <!--Panel 2-->
+                                    <div class="tab-pane fade in" id="panel2" role="tabpanel" style="display:none" aria-expanded="false">
+
+                                        <!--Body-->
+                                        <div class="modal-body">
+																						<div class="md-form form-sm">					                                    
+             <textarea rows="40" type="text" id="description" class="md-textarea mb-0" placeholder="Including the project motivation, objective(s), method followed and results achieved" style="height:20rem" disabled></textarea>
+                        						            <label class="active">Description</label>
+						                                </div>
+                                            <div class="text-right form-sm mt-2">
+                                                <button class="btn-flat waves-effect" onclick="nextTabIs(1, true);return false;">Previous</button>
+				                <button class="btn btn-primary waves-effect waves-light" onclick="nextTabIs(3);return false;">Next</button>
+                                            </div>
+                                        </div>
+                                        <!--Footer-->
+                                        
+                                    </div>
+                                    <!--/.Panel 2-->
+
+                                    <!--Panel 3-->
+                                    <div class="tab-pane fade in" id="panel3" role="tabpanel" aria-expanded="false" style="display:none">
+
+                                        <!--Body-->
+                                        <div class="modal-body">
+																				<div class="md-form form-sm">
+             <textarea rows="40" type="text" id="impact" class="md-textarea mb-0" placeholder="The impact can be described at different level, depending on the characteristic of the project (impact at the level of the host company, at the national level, for users, etc.)" style="height:20rem" disabled></textarea>
+                        						            <label class="active">Achieved / Foreseen impact of the project</label>
+						                                </div>
+                                            <div class="text-right form-sm mt-2">
+                                                <button class="btn-flat waves-effect" onclick="nextTabIs(2, true);return false;">Previous</button>
+				                <button class="btn btn-primary waves-effect waves-light" onclick="nextTabIs(4);return false;">Next</button>
+                                            </div>
+                                        </div>
+                                        <!--Footer-->
+                                        
+                                    </div>
+                                    <!--/.Panel 3-->
+
+                                    <!--Panel 4-->
+                                    <div class="tab-pane fade" id="panel4" role="tabpanel" aria-expanded="false" style="display:none">
+
+                                        <!--Body-->
+                                        <div class="modal-body">
+                                            
+
+                                            
+
+                          <div class="md-form form-sm">
+						                                    
+               <textarea rows="40" type="text" id="innovation" class="md-textarea mb-0" placeholder="Why your project or some aspects of it are different / breakthrough / game-changing / pioneering than other approaches in the same field" style="height:20rem" disabled></textarea>
+                            <label class="active">Innovative nature / aspects of the project</label>
+						                                </div>                  
+
+                                            <div class="text-left enter form-sm mt-2">
+<fieldset class="form-group">
+    <input id="applicantDataProcessingConsent" type="checkbox" disabled>
+    <label for="applicantDataProcessingConsent">I hereby grant Clusil to reuse provided information in the context of the award event, during nominee period and afterwards on its website, partner's websites, social media and partner print-media.</label>
+</fieldset>
+</div>
+</div>
+<div class="modal-footer" style="border-top:none">
+			<button class="g-recaptcha btn btn-primary waves-effect waves-light" data-sitekey="6Lf14CkUAAAAAJ58Rp1zvD5zJW2XCTG_DEgF1Nt2" data-callback='onSubmit' style="float:right" disabled>Apply <i class="fa fa-send ml-1"></i></button>
+
+                                        </div>
+                                        <!--Footer-->
+                                        
+                                    </div>
+                                    <!--/.Panel 4-->
+<div class="tab-pane fade" id="panel5" role="tabpanel" style="display:none;" aria-expanded="false">
+
+ <div class="modal-body">
+                                            
+<div class="text-center">
+                    <i class="fa fa-remove fa-4x mb-1 animated rotateIn" style="color:#ff4b4b;display:none;" id="formErrorIcon"></i>
+<i class="fa fa-check fa-4x mb-1 animated rotateIn" style="color:#01d36b;display:block;" id="formSuccessIcon"></i>
+
+<p id="postStatus">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit iusto nulla aperiam blanditiis ad consequatur in dolores culpa, dignissimos, eius non possimus fugiat. Esse ratione fuga, enim,
+                        ab officiis totam.</p>
+   </div> <div class="modal-footer" style="border:none;">
+                <button class="btn-flat waves-effect" onclick="nextTabIs(4, true);return false;">Previous</button>
+                <button class="btn btn-primary waves-effect waves-light" data-dismiss="modal">Close</button>
+                </div>
+                                      </div></div>
+
+                                </div>
+
+                            </div>
+<input type="hidden" name="formApplicantName" id="formApplicantName"/>
+<input type="hidden" name="formApplicantEmail" id="formApplicantEmail"/>
+<input type="hidden" name="formThesisTitle" id="formThesisTitle"/>
+<input type="hidden" name="formStudies" id="formStudies"/>
+<input type="hidden" name="formUniversity" id="formUniversity"/>
+<input type="hidden" name="formHostCompany" id="formHostCompany"/>
+<textarea type="text" name="formDescription" id="formDescription" style="display:none;"></textarea>
+<textarea type="text" name="formImpact" id="formImpact" style="display:none;"></textarea>
+<textarea type="text" name="formInnovation" id="formInnovation" style="display:none;"></textarea>
+<input type="hidden" name="formApplicantDataProcessingConsent" id="formApplicantDataProcessingConsent"/>
+</form>
+                        </div>
+                        <!--/.Content-->
+</div></div>
+
+<div class="modal fade" id="modalAwardDetails" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: none; padding-left: 0px;"i aria-hidden="true">
+
+<div class="modal-dialog" role="document">
+<!--Content-->
+<div class="modal-content" style="">
+<!--Header-->
+<div class="modal-header" style="border-bottom:none;padding:1rem;padding-left:2.5rem;">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close" style="">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title w-100" id="myModalLabel" style="color:   rgb(41,43,44);">Award scope</h4>
+</div>
+<!--Body-->
+<div class="modal-body" style="color:       rgb(41,43,44);padding:3rem;padding-top:0.3rem;">
+<p>
+Award for the best Master's thesis / doctorate / study work of a student registered at Uni.lu or have completed his internship in Luxembourg. The following Masters are specifically targeted: MSSI Master, Master SSI of Metz, other training courses in security of the Greater Region, thesis of the Uni.lu, theses carried out in LIST and any academic work carried out in a Luxemburgish organization (whatever the university which issues the diploma, as long as the work has been carried out in Luxembourg).
+</p>
+<br>
+<p>
+Closing date: September, 20th 2017.
+</p>
+<br>
+<p>
+Eligible thesis: from June 2015.
+</p>
+<p>
+Clusil reserves the right not to deliver the award depending on the quality of the applications.
+</p>
+</div>
+<div class="modal-header" style="border-top:1px solid #eceeef;border-bottom:none;padding:1rem;padding-left:2.5rem;">
+	<h4 class="modal-title w-100" id="myModalLabel" style="color:   rgb(41,43,44);">Evaluation criteria</h4>
+</div>
+<div class="modal-body" style="color:       rgb(41,43,44);padding:3rem;padding-top:0.3rem;">
+	<p><strong>Quality, quantity and soudness</strong> of the work performed</p>
+  <p><strong>Impact</strong> (at the level of the candidate's organization, at the national level)</p>
+  <p><strong>Innovation</strong> (why the approach followed is different / better than the usual ones)</p>
+</div>
+
+  <div class="modal-header" style="border-top:1px solid #eceeef;border-bottom:none;padding:1rem;padding-left:2.5rem;">
+	<h4 class="modal-title w-100" id="myModalLabel" style="color:   rgb(41,43,44);">Jury composition</h4>
+</div>
+<div class="modal-body" style="color:       rgb(41,43,44);padding:3rem;padding-top:0.3rem;">
+	<p>CLUSIL members (to be defined)</p>
+  <p>LIDIT representative (to be defined)</p>
+  <p>(as long as no conflict of interest exists)</p>
+</div>
+
+  
+  
+  </div>
+<!--/.Content-->
+</div>
+
+
+</div>
+
+
+
+
+
+                </div>
+
+
+
+
+			</div>
+		</div>
+
+    </header>
+    <!--/Navigation & Intro-->
+    
+    <!--Main content-->
+    <main>
+        
+        <!--First container-->
+        <div class="container">
+           <div style="padding-top: 6rem;" id="events">
+            <section class="section mt-3" style="">
+               
+                <!--Section heading-->
+                <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>Latest & future events</h1>
+                <!--Section description-->
+                
+                
+                <!--First row-->
+<div class="row wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+<div class="col-md-2">
+<!-- Nav tabs -->
+<ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link active" data-toggle="tab" href="#panel21" role="tab" aria-expanded="true">7th Sep 2017</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" data-toggle="tab" href="#panel22" role="tab" aria-expanded="false">15th June 2017</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" data-toggle="tab" href="#panel23" role="tab" aria-expanded="false">7th June 2017</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" data-toggle="tab" href="#panel24" role="tab" aria-expanded="false">April 2017</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" data-toggle="tab" href="#panel25" role="tab" aria-expanded="false">Feb 2017</a>
+</li>
+<li class="nav-item waves-effect waves-light">
+<a class="nav-link" data-toggle="tab" href="#panel26" role="tab" aria-expanded="false">May 2016</a>
+</li>
+</ul>
+</div>
+<div class="col-md-10">
+<!-- Tab panels -->
+<div class="tab-content vertical">
+<!--Panel 1-->
+<div class="tab-pane fade active show" id="panel21" role="tabpanel" aria-expanded="false">
+<h4 class="feature-title">Blockchain series - Installment #4</h4>
+<p>The CLUSIL series of conferences on Blockchain security aims at surveying current status of Blockchain security, focusing on sector-specific and national initiatives. The fourth session provides an insight on two specific aspects of Blockchain. The first part focuses on the security challenges faced especially for smart contract programming and the Ethereum platform, while the second talk provides an analysis of classic cybersecurity issues (confidentiality, integrity and availability) translated to the context of the Blockchain.</p>
+<h4 class="feature-title">Speakers</h4>
+<p>
+Sergei Tikhomirov (CryptoLUX group, SnT, University of Luxembourg): “Security challenges in Ethereum smart contract programming” <br>
+Laurent de la Vaissière (Director, Deloitte Luxembourg) and Ismaël Cissé (Senior Manager, Deloitte Luxembourg): “Blockchain : A Cybersecurity perspective”
+</p>
+<h4 class="feature-title">When</h4>
+<p>September 7th - from 17:30 to 20:00</p>
+<h4 class="feature-title">Where</h4>
+<p>SnT Campus Kirchberg, 6 Rue Richard Coudenhove-Kalergi, L-1359 Luxembourg-Kirchberg</p></div>
+<!--/.Panel 1-->
+<!--Panel 1-->
+<div class="tab-pane fade" id="panel22" role="tabpanel" aria-expanded="false">
+<h4 class="feature-title">Blockchain series - Installment #3</h4>
+<p>The CLUSIL series of conferences on Blockchain security aims at surveying current status of Blockchain security, focusing on sector-specific and national initiatives. The third session provides an insight on the maturity of Blockchain security in real-world applications. The two talks provide lessons learned from previously encountered security incidents and focus on security challenges faced in FinTech applications.</p>
+<h4 class="feature-title">Speakers</h4>
+<p>
+Alex Kampa (Research Director at Sikoba Ltd), “Some security issues facing FinTech/blockchain projects”<br>
+Matthieu GARIN (CLUSIF): "Blockchain: lessons learnt from recent incidents"
+</p>
+<h4 class="feature-title">When</h4>
+<p>June 15th - registration starting at 17:15, meeting starts at 17:45</p>
+<h4 class="feature-title">Where</h4>
+<p>SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg</p></div>
+<!--/.Panel 1-->
+<!--Panel 2-->
+<div class="tab-pane fade" id="panel23" role="tabpanel" aria-expanded="false">
+
+<p>CLUSIL and ISACA are honoured to invite you for a conference in the context of the new GDPR! Database Security and Big Data are an important element within data privacy. The conference will give you the opportunity to get hands-on information on database security and big data with international recognized experts. Topics that will be covered are:</p>
+  <h4 class="feature-title">Database Security</h4>
+  <p>- Type of hackers in relation to databases
+<br>
+- Different types of attack scenarios
+<br>
+- SQL Injection attacks (from outside)
+<br>
+- How to assess the security of databases
+<br>
+    - Auditing of databases</p>
+  <h4 class="feature-title">Big data and security</h4>
+<p>-  Deploying Big Data for security
+<br>
+-  Big Data a potential saviour to replace existing log management systems,  
+<br>
+  -  Using Big Data techniques to analyse, and even predict, security incidents,
+</p>
+  <h4 class="feature-title">Speakers</h4>
+<p>
+Alexander Kornbrust (founder of Red-Database-Security), “Database Security”<br>
+Laurent Dufossé (founding partner and technical supervisor of AdbA): "Big Data and security"
+</p>
+<h4 class="feature-title">When</h4>
+<p>June 7th - conference starts at 17:30</p>
+<h4 class="feature-title">Where</h4>
+<p>SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg</p>
+	</div>
+<!--/.Panel 2-->
+<!--Panel 3-->
+<div class="tab-pane fade" id="panel24" role="tabpanel" aria-expanded="false">
+<h4 class="feature-title">Blockchain series - Installment #2</h4>
+<p>The CLUSIL series of conferences on Blockchain security aims at surveying current status of Blockchain security, focusing on sector-specific and national initiatives. For the second event, we are pleased to welcome two speakers who have a solid background on the security and resilience of Blockchain-based applications. In their talks, they will share some of their experience by outlining the major security concerns that occur when developing such applications.</p>
+<h4 class="feature-title">Speakers</h4>
+<p>
+Antoine DETANTE (Manager at InTech), “Security key points for blockchain based applications”<br>
+Frank ROESSIG (Head Financial Solutions at Telindus): "Securing BlockChain for the Application by the Financial Sector"
+</p>
+<h4 class="feature-title">When</h4>
+<p>Wednesday, 5th April 2017 starting at 17:30</p>
+<h4 class="feature-title">Where</h4>
+<p>SnT &ndash; Weicker building - 4, rue Alphonse Weicker - L-2721 Luxembourg (near the Auchan)</p>
+</div>
+<!--/.Panel 3-->
+<!--/.Panel 4-->
+<div class="tab-pane fade" id="panel25" role="tabpanel" aria-expanded="false">
+<h4 class="feature-title">Blockchain series - Installment #1</h4>
+<p>    Blockchain is nowadays considered as a key technology, particularly in Luxembourg, where many initiatives around this new paradigm are launched. Since the FinTech ecosystem and the Blockchain are based on similar concepts, it is primarily the financial sector that is concerned. However, there exist many more applications in other domains, including the medical sector, e-voting and smart contracts. Security of Blockchain technology is an ambivalent concept: while security constitutes its main strength, it is also the primary source of mistrust that one may have of Blockchain-based applications. The CLUSIL series of conferences on Blockchain security aims at surveying current status of Blockchain security, focusing on sector-specific and national initiatives.</p>
+<h4 class="feature-title">Speakers</h4>
+<p>
+Steve MULLER (Security Researcher at itrust consulting): "Fundamentals of Blockchain security"
+<br>        Laurent KRATZ (Co-Founder at Scorechain): "Cryptocurrencies de-anonymisation, the hunt for ransomware"
+</p>
+<h4 class="feature-title">When</h4>
+<p>    Tuesday, 7 February 2017 starting at 17:30</p>
+<h4 class="feature-title">Where</h4>
+<p>    SnT &ndash; Weicker building - 4, rue Alphonse Weicker - L-2721 Luxembourg (near the Auchan)</p>
+</div>
+<div class="tab-pane fade" id="panel26" role="tabpanel" aria-expanded="false">
+
+<h4 class="feature-title">20 YEARS OF CLUSIL</h4>
+<p>Under the high patronage of the Vice-Prime Minister, Etienne Schneider, CLUSIL, will celebrate its 20 years of existence on May 30th and 31st in Luxembourg with an international panel of speakers. Agenda details being available on a dedicated website: <a href="20.clusil.lu">20.clusil.lu</a>.</p>
+<p>A 2 days conference that will include:</p>
+<blockquote class="blockquote bq-primary">
+<p class="bq-title">SECURITYMADEIN.LU Cybersecurity Breakfast #7<br>"Fintech and cybersecurity" round-table</p>
+</blockquote>
+<blockquote class="blockquote bq-primary">
+<p class="bq-title">Startup lounge</p>
+</blockquote>
+<blockquote class="blockquote bq-primary">
+<p class="bq-title">R&amp;D efforts in cybersecurity</p>
+</blockquote>
+<p>At the end of each day, a networking cocktail and respectively a BBQ are scheduled.</p>
+<h4 class="feature-title">When</h4>
+<p>May 30th and 31st 2016</p>
+<h4 class="feature-title">Where</h4>
+<p>Confiserie Namur, in Hamm.</p>
+</div>
+</div>
+</div>
+</div>
+                <!--/First row-->
+                
+            </section>
+          </div>
+  <hr class="between-sections">
+         <div style="padding-top: 6rem;" id="about">   
+            <section class="section">
+
+                <!--Section heading-->
+                <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>About</h1>
+                <!--Section sescription-->
+                <p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 2rem;">CLUSIL a.s.b.l. develops cooperative actions with public authorities, semipublic authorities for the security of information.</p><p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 2rem;">With about 200 members from all economic sectors, it is a well-established and independent actor among the Information Security Landscape of Luxembourg and the “Grande Region”. In just 20 years, we have come a very long way and are very proud.<br> (checkout <a href="https://20.clusil.lu">20.clusil.lu</a>).</p><p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 8rem;">By the members for the members, the collective action is bringing the following capabilities to each member:</p>
+
+                <!--First row-->
+                <div class="row features-small wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+
+                    <!--First column-->
+                    <div class="col-md-4" style="padding-top: 2rem;">
+                        <!--First row-->
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fa fa-flask cyan-text"></i>
+                            </div>
+                            <div class="col-10 mb-2">
+                                <h4 class="feature-title">Collaboration</h4>
+                                <p class="grey-text">Private collaboration platforms, such as Atlassian Confluence and Seafile, are made available on-demand to members to create, share, and collaborate all in one place.</p>
+                            </div>
+                        </div>
+                        <!--/First row-->
+
+                        <!--Second row-->
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fa fa-glass cyan-text"></i>
+                            </div>
+                            <div class="col-10 mb-2">
+                                <h4 class="feature-title">Networking</h4>
+                                <p class="grey-text">CLUSIL events are usually followed by a networking cocktail. This is THE moment to meet, shake hands, pitch yourself, ask questions. Come with your story, listen and create bonds.</p>
+                            </div>
+                        </div>
+                        <!--/Second row-->
+
+                        <!--Third row-->
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fa fa-map-o cyan-text"></i>
+                            </div>
+                            <div class="col-10 mb-2">
+                                <h4 class="feature-title">International reach</h4>
+                                <p class="grey-text">With the support of our members and various partners, we regularly organise travels to international security conferences with booth/speech presence (FIC Lille 2017, Luxembourg Internet Days 2016, 20-years of CLUSIL, CLUSiX Days, etc.).</p>
+                            </div>
+                        </div>
+                        <!--/Third row-->
+                    </div>
+                    <!--/First column-->
+
+                    <!--Second column-->
+                    <div class="col-md-4 mb-1 center-on-small-only">
+                        <img alt="slash from logo" src="https://clusil.lu/img/slash.png" alt="" class="z-depth-0" style="height: 100%;">
+                    </div>
+                    <!--/Second column-->
+
+                    <!--Third column-->
+                    <div class="col-md-4" style="padding-top: 2rem;">
+                        <!--First row-->
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fa fa-bullhorn light-green-text"></i>
+                            </div>
+                            <div class="col-10 mb-2">
+                                <h4 class="feature-title">On-demand social events</h4>
+                                <p class="grey-text">For members who have knowledge to share, we provide our logistical capabilities (along with partner support) for the organization of local events in various Luxembourg venues. Please read our ethical charter in the "contact" section.</p>
+                            </div>
+                        </div>
+                        <!--/First row-->
+
+                        <!--Second row-->
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fa fa-bookmark light-green-text"></i>
+                            </div>
+                            <div class="col-10 mb-2">
+                                <h4 class="feature-title">Cheatsheets on hot topics</h4>
+                                <p class="grey-text">Over the years members have produced countless content on various domains (incident management, security management, business continuity, etc.). Today, we take the experience to a newer level : cheatsheets you will actually refer to and use!</p>
+                            </div>
+                        </div>
+                        <!--/Second row-->
+
+                        <!--Third row-->
+                        <div class="row">
+                            <div class="col-2">
+                                <i class="fa fa-graduation-cap light-green-text"></i>
+                            </div>
+                            <div class="col-10 mb-2">
+                                <h4 class="feature-title">CPEs and special prizes</h4>
+                                <p class="grey-text">Based on local developments, we may organize awards to recognize valuable contributions to the cybersecurity community coming from students, researchers, open source teams, and so on. Last but not least, members activities can be recognized in the context of certification maintenance via CPE granting.</p>
+                            </div>
+                        </div>
+                        <!--/Third row-->
+                    </div>
+                    <!--/Third column-->
+                </div>
+                <!--/First row-->
+
+            </section>
+           </div> 
+        </div>
+        <!--/First container-->
+        
+        <!--Second container-->
+        <div style="padding-top: 6rem;" id="partners">
+          <div class="container-fluid" style="background-color: #bdbdbd;">
+            <div class="container pt-4" id="">
+            
+            <!--Heading-->
+            <div class="text-center">
+                <h1 class="mb-1 wow fadeIn" data-wow-delay="0.2s" style="font-weight: 600; visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>Partners</h1>
+                <h3 class="mb-4 wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 0.5rem ! important;">Helpful and easy to work with! </h3>
+                <h3 class="mb-4 wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">They believe in the central role of an independent actor.</h3>
+            </div>
+            
+            <!--Items wrapper-->
+            <div class="mb-2 flex-center">  
+                <div class="row mb-3 wow fadeIn flex-center" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                    <div class="col-md-2">
+                        <img src="img/certLu.png" alt="Cert.lu logo"  class="img-fluid">
+                    </div>
+                    <div class="col-md-2" style="">
+                        <img src="https://clusil.lu/img/cpsi.jpg" alt="CPSI logo" class="img-fluid" style="width: 5em; margin: auto;">
+                    </div>
+                    <div class="col-md-2">
+                        <img src="https://www.clusil.lu/security_made_in_lu.jpg" alt="securitymadein.lu logo" class="img-fluid" style="text-align: center; margin: auto;">
+                    </div>
+                    <div class="col-md-2">
+                        <img src="img/isacaLuxembourg.png" class="img-fluid" style="width: 25em;" alt="Isaca logo">
+                    </div>
+                    <div class="col-md-2">
+		<img src="img/snt.png" class="img-fluid" style="width: 60%; margin: auto;" alt="SNT logo">
+	    </div>
+	</div>
+    </div> 
+    </div>
+  </div>
+</div>
+<div style="padding-top: 6rem;" id="statistics">
+  <div class="streak streak-photo view hm-black-strong streak-large" style="background-image:url('https://clusil.lu/StockSnap_RWAIWJWRKY.jpg')">
+		<div class="mask flex-center">
+			<div class="container">
+	   
+	   <h1 class="white-text text-center wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>Facts and figures</h1>
+			   <h5 class="white-text text-center wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">See the real numbers about the association</h5>
+	   
+	    <!--First row-->
+			    <div class="row text-white text-center wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
+				
+				<!--First column-->
+				<div class="col-md-3 mt-2">
+				    <h1 class="light-green-text" style="">+220</h1>
+				    <p>Members per year<br>(private or corporate)<br>(last 8 years average) </p>
+				</div>
+				<!--/First column-->
+				
+				<!--Second column-->
+				<div class="col-md-3 mt-2">
+				    <h1 class="light-green-text">+80</h1>
+				    <p>Events organized including<br>National/international conferences<br>Working group gatherings<br>(last 6 years)<br>(excluding General Assemblies)</p>
+				</div>
+				<!--/Second column-->
+				
+				<!--Third column-->
+				<div class="col-md-3 mt-2">
+				    <h1 class="light-green-text">+1'000</h1>
+				    <p>People present during events <br>over last 6 years<br> (excluding General Assemblies)</p>
+				</div>
+				<!--/Third column-->
+				
+				<!--Fourth column-->
+				<div class="col-md-3 mt-2">
+				    <h1 class="light-green-text">+35</h1>
+				    <p>Companies with 100+ employees renewing their corporate membership <br>(last 8 years average)</p>
+				</div>
+				<!--/Fourth column-->
+				
+			    </div>
+			    <!--/First row-->
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container" style="padding-top: 6rem;" id="team">
+    <!--Section: Team v.1-->
+    <section class="section team-section mt-4">
+
+	<!--Section heading-->
+	<h1 class="section-heading wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>Most active and board members</h1> 
+	<!--Section description-->
+	<p class="section-description wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">We are a neutral association created and hosted by information security professionals of Luxembourg and the greater region, aiming to be a centre of expertise for all its members.</p>
+
+	<!--First row-->
+	<div class="row text-center">
+	    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+		<div class="avatar">
+		    <img alt="jean goetzinger" src="img/jeanGoetzinger2.jpeg" class="rounded-circle">
+                        </div>
+                        <h4>Jean Goetzinger</h4>
+                        <h5>Head of Risk Prevention Section at BCL</h5>
+                        <p>President</p>
+                        <a class="icons-sm li-ic" href="https://www.linkedin.com/in/jean-goetzinger-8425679/"><i class="fa fa-linkedin"> </i></a>
+                        <a class="icons-sm tw-ic" href="https://twitter.com/jgoetzin"><i class="fa fa-twitter"> </i></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                        <div class="avatar">
+                            <img alt="pascal steichen" src="img/pascalSteichen.jpg" class="rounded-circle">
+                        </div>
+                        <h4>Pascal Steichen</h4>
+                        <h5>CEO at SECURITYMADEIN.LU</h5>
+                        <p>Vice-President</p>
+                        <a class="icons-sm li-ic" href="https://www.linkedin.com/in/psteichen/"><i class="fa fa-linkedin"> </i></a>
+                        <a class="icons-sm tw-ic" href="https://twitter.com/_pst"><i class="fa fa-twitter"></i></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                        <div class="avatar">
+                            <img alt="yves de pril" src="img/yvesDePril.jpg" class="rounded-circle">
+                        </div>
+                        <h4>Yves De Pril</h4>
+                        <h5>Director at Sonn PSF SA</h5>
+                        <p>Treasurer</p>
+                        <a class="icons-sm li-ic" href="https://www.linkedin.com/in/yves-de-pril-804ab9/"><i class="fa fa-linkedin"> </i></a>
+                        <a class="icons-sm tw-ic" href="https://twitter.com/conostix"><i class="fa fa-twitter"> </i></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                        <div class="avatar">
+                            <img alt="nicolas mayer" src="img/nicolasMayer.jpg" class="rounded-circle">
+                        </div>
+                        <h4>Nicolas Mayer</h4>
+                        <h5>Senior R&amp;D associate at LIST</h5>
+                        <p>Secretary General</p>
+                        <a class="icons-sm li-ic" href="https://www.linkedin.com/in/nicolas-mayer-ph-d-2748a41/"><i class="fa fa-linkedin"> </i></a>
+                        <a class="icons-sm comm-ic" href="http://nmayer.eu/"><i class="fa fa-comments"> </i></a>
+                    </div>
+                </div>
+<div class="row text-center">
+
+                    <!--First column-->
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+
+                        <div class="avatar">
+                            <img alt="raphael taban" src="img/raphaelTaban.jpg" class="rounded-circle">
+                        </div>
+                        <h4>Raphael Taban</h4>
+                        <h5>Information Security Risk Manager</h5>
+                        <p>Deputy Secretary General</p>
+
+                        <a class="icons-sm li-ic" href="https://lu.linkedin.com/in/rtaban"><i class="fa fa-linkedin"> </i></a>
+                        <!--Pinterest-->
+                        <a class="icons-sm tw-ic" href="https://twitter.com/rtaban"><i class="fa fa-twitter"> </i></a>
+                        <!--Instagram-->
+                        <!--GitHub-->
+                        <a class="icons-sm git-ic" href="https://github.com/rtaban"><i class="fa fa-github"> </i></a>
+
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+
+                        <div class="avatar">
+                            <img alt="cedric mauny" src="img/cedricMauny.jpg" class="rounded-circle">
+                        </div>
+
+                        <h4>Cedric Mauny</h4>
+                        <h5>Senior Manager of Cybersecurity Department at Telindus Luxembourg</h5>
+                        <p>Administrator</p>
+
+                        <!--Facebook-->
+                        <a class="icons-sm li-ic" href="https://lu.linkedin.com/in/cedricmauny"><i class="fa fa-linkedin"> </i></a>
+                        <!--Pinterest-->
+                        <a class="icons-sm tw-ic" href="https://twitter.com/S_Team_Approved/"><i class="fa fa-twitter"> </i></a>
+                        <!--Instagram-->
+                        
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                        <div class="avatar">
+                            <img alt="thierry grandjean" src="img/thierryGrandjean.jpg" class="rounded-circle">
+                        </div>
+                        <h4>Thierry Grandjean</h4>
+                        <h5>Research engineer at LIST</h5>
+                        <a class="icons-sm li-ic" href="https://www.linkedin.com/in/thierrygrandjean/"><i class="fa fa-linkedin"> </i></a>
+                        <a class="icons-sm tw-ic" href="https://www.linkedin.com/in/thierrygrandjean/"><i class="fa fa-twitter"> </i></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                        <div class="avatar">
+                            <img alt="steve muller" src="img/steveMuller.jpg" class="rounded-circle">
+                        </div>
+                        <h4>Steve Muller</h4>
+                        <h5>Security Researcher at iTrust Consulting</h5>
+                        <a class="icons-sm li-ic" href="https://lu.linkedin.com/in/steve-muller-ab9150106"><i class="fa fa-linkedin"> </i></a>
+                    </div>
+                </div>
+<div class="row text-center">
+                    <div class="col-lg-3 col-md-6 mb-r wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+                        <div class="avatar">
+                            <img alt="margot hartman" src="img/margot_hartman.jpeg" class="rounded-circle">
+                        </div>
+                        <h4>Margot Hartman</h4>
+                        <h5>Administrative Assistant at Securitymadein.lu</h5>
+                        <a class="icons-sm li-ic" href="https://www.linkedin.com/in/margot-hartman-051b6341/"><i class="fa fa-linkedin"> </i></a>
+                        <a class="icons-sm comm-ic" href="mailto:secgen@clusil.lu"><i class="fa fa-comments"> </i></a>
+                    </div>
+                </div>
+            </section>
+            <!--/Section: Team v.1-->
+            
+            <hr class="between-sections">
+         <div style="padding-top: 6rem;" id="contact"> 
+            <!--Section: Contact v.2-->
+            <section class="section mb-4 show" style="display: block;">
+
+                <!--Section heading-->
+                <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>Contact us</h1>
+                <!--Section sescription-->
+                
+
+                <div class="row wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+
+                    <div class="col-md-6">
+                        <ul class="contact-icons">
+                            <li><i class="fa fa-map-marker fa-2x" style=""></i>
+                                <p style="margin-top: 2em;">CLUSIL a.s.b.l. <br>co/SECURITYMADEIN.LU <br>41, ave de la gare <br>L-1611 Luxembourg </p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="contact-icons">
+
+                            <li><i class="fa fa-envelope fa-2x"></i>
+                                <p style="margin-top: 2em;"><a href="mailto:info@clusil.lu">info@clusil.lu</a></p>
+                            </li>
+                        </ul>
+                    </div>
+		<div class="col-md-12">
+			<h3 class="wow fadeIn" data-wow-delay="0.2s" style="text-align:center;margin-bottom:4rem;margin-top:2rem;visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">Ethical charter, Bylaws</h3>
+<div class="text-center">
+  <p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 2rem;"> 
+  Rules regarding promotion, information and communication
+  </p><ul>
+   <li>Events of CLUSIL and its working groups</li>
+   <li>Events in which CLUSIL is a sponsor</li>
+   <li>Events of any other CLUSIx</li>
+   <li>Events organized by a non-commercial organization that is related to CLUSIL scope and topics of interest</li>
+  </ul>
+  
+  <p>
+  Any request for communication is carefully discussed within the Board as to whether it is in line with the objectives of CLUSIL, it's ethics and/or whether it can harm the neutrality and integrity of CLUSIL with regards to the market.
+  </p>
+<p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-top: 3rem;"> 
+Articles of association: <a href="http://www.etat.lu/memorial/memorial/1996/C/Pdf/c6290412.pdf#Page=20">creation</a> - <a href="http://www.etat.lu/memorial/memorial/2012/C/Pdf/c0106131.pdf#Page=24">name update</a> 
+  </p>
+</div></div>
+                </div>
+  
+            </section>
+            <!--/Section: Contact v.2-->
+          </div>
+        </div>
+        <!--/Second container-->
+        
+        <!--Third container-->
+        
+        <!--/Third container-->
+        
+    </main>
+    <!--Main content-->
+    
+    <!--Footer-->
+    <footer class="page-footer center-on-small-only">
+
+        <!--Footer Links-->
+        <div id="join-us" class="container-fluid">
+           
+            <!--First row-->
+            <div class="row mb-2 wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
+
+                <!--First column-->
+                <div class="col-lg-6 offset-lg-3 text-center smooth-scroll">
+                    
+                    <i class="fa fa-users fa-4x pink-text pt-1 pb-2"></i>
+                    <!--Title-->
+                    <h2 class="mb-2 bold-font">Become a member</h2>
+                    <!--Description-->
+                    <p class="white-text" style="font-size: 1.3em;">The slogan of the CLUSIL is “by the experts for the experts”, meaning that all different professional experts concerned will find their added value by becoming a member of the CLUSIL. Below the yearly fees:</p>
+                    <!--Reservation button-->
+  					<div class="row wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+  					
+  									<div class="col-md-4">
+                        <ul class="contact-icons">
+                            <li>
+                                <p style="margin-top: 2em;">A proof is required <br>25 EUR</p>
+                              <a class="btn btn-pink waves-effect waves-light" href="https://cms.clusil.lu/reg/student/">Student membership</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul class="contact-icons">
+                            <li>
+                                <p style="margin-top: 2em;">As a private person<br>100 EUR</p>
+                              <a class="btn btn-pink waves-effect waves-light" href="https://cms.clusil.lu/reg/private/">Private membership</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul class="contact-icons">
+                            <li>
+                                <p style="margin-top: 2em;">For companies<br>400 EUR per 6 people</p>
+                              <a class="btn btn-default waves-effect waves-light" href="https://cms.clusil.lu/reg/corporate/">Corporate membership</a>
+                            </li>
+                        </ul>
+                    </div>
+					  </div>
+                </div>
+                <!--/First column-->
+
+            </div>
+            <!--/First row-->
+            
+            <hr>
+
+            <!--Second row-->
+            <div class="row mt-2 mb-1 text-center wow fadeIn" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            
+                <div class="col-lg-6 offset-lg-3 text-center smooth-scroll">
+                    <!--Title-->
+                    <h5 class="title">Stay in touch</h5>
+
+                    <!--Social buttons-->
+                    <ul class="inline-ul">
+                        <li><a class="btn-floating btn-small btn-fb waves-effect waves-light" href="https://www.linkedin.com/groups/3852540"><i class="fa fa-linkedin"> </i></a></li>
+                        <li><a class="btn-floating btn-small btn-tw waves-effect waves-light" href="https://twitter.com/clusil_lu"><i class="fa fa-twitter"> </i></a></li>
+  <li><a href="https://cms.clusil.lu/" class="btn-floating btn-small btn-pin waves-effect waves-light"><i class="fa fa-sign-in"> </i></a></li>
+                    </ul>
+                    <!--/Social buttons-->
+							  </div>
+            </div>
+            <!--/Second row-->
+            
+        </div>
+        <!--/Footer Links-->
+
+        <!--Copyright-->
+        <div class="footer-copyright wow fadeIn" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+            <div class="container-fluid">
+                &copy; 2017 CLUSIL a.s.b.l.
+            </div>
+        </div>
+        <!--/Copyright-->
+
+    </footer>
+    <!--/Footer-->
+
+    <!-- SCRIPTS -->
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/tether.min.js"></script>
+
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+    
+    <!--     <script type="text/javascript" src="https://mdbootstrap.com/live/_MDB/js/customizer.min.js"></script> Customizer -->
+
+
+    <script>
+        //Animation init
+        new WOW().init();
+        
+        //Modal
+        $('#myModal').on('shown.bs.modal', function () {
+          $('#myInput').focus()
+        })
+        
+        // Material Select Initialization
+        $(document).ready(function() {
+            $('.mdb-select').material_select();
+        });
+
+    </script>
+    
+
+
+<div class="hiddendiv common"></div>
+</body></html>

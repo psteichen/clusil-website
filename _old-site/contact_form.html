@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title>My Contact Form</title>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+     <script>
+       function onSubmit(token) {
+         document.getElementById("demo-form").submit();
+       }
+     </script>
+</head>
+<body>
+    <div class="contact-form">
+        <h3>Send me your message</h3>
+        <form id="demo-form" action="contact_form.php" method="POST">
+            <div class="text-fields">
+                <span>Full Name *:</span>
+                <input name="full_name" type="text" class="text" value="Your Name">
+            </div>
+            <div class="text-fields">
+                <span>E-mail *:</span>
+                <input name="email" type="text" class="text" value="user@domain.com">
+            </div>
+            <div class="clearfix"> </div>
+            <div class="subject-field">
+                <span>Subject *:</span>
+                <input name="subject" type="text" class="text" value="Your Subject">
+            </div>
+            <div class="message-field">
+                <span>Message *:</span>
+                <textarea name="message"> </textarea>
+            </div>
+      	    <button class="g-recaptcha" data-sitekey="6Lf14CkUAAAAAJ58Rp1zvD5zJW2XCTG_DEgF1Nt2" data-callback='onSubmit'>Submit</button>
+      </form>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+/*
+
+This is a basic print stylesheet used for DimP_01
+
+*/
+
+body {
+	font: 12pt "Times New Roman", Times, serif;
+	color: #000;
+	background: #fff;
+}
+
+h1 {
+	text-align: center;
+	font-size: 1.4em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
+h3 {
+	font-variant: small-caps;
+	font-size: 1.2em;
+}
+
+p {
+	text-indent: 2em;
+}
+
+a {
+	color: #000;
+	background: #fff;
+}
+
+#content {
+	float: none;
+}
+
+#menu, #sidebar,#footer {
+	display: none;
+}

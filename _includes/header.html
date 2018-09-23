@@ -38,19 +38,21 @@
   <!--/Navbar-->
         
   <!-- Featured News -->
-  <div class="view intro hm-black-strong intro-lp" id="home" style="background-image:url('img/introBackground.jpg');">
+  <div class="view intro hm-black-strong intro-lp" id="home" style="background-image:url('/assets/img/introBackground.jpg');">
     <div class="full-bg-img flex-center">
       <div class="container smooth-scroll">
         <div class="row">
 	  <div class="col-md-12 white-text text-center smooth-scroll">
-            <div class="wow fadeInDown" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
-              <h2 class="brand-name font-bold mb-2"><span style="color: red; font-weight: bold; font-size: 2em; vertical-align: middle; padding-bottom: 0.15em;">/</span>Information Security Education Day<span style="color: red; font-weight: bold; font-size: 0.2em;">_____</span></h2>
-              <h5 style="margin-top: 3%; font-size: 1.2em;">2018 theme: Internet of Things - security challenges and opportunities</h5> 
-              <h5 style="margin-top: 2%; font-size: 1.2em;"><i class="fa fa-clock-o" style="margin-left:2.5%;margin-right:1.2%;font-size:1.2em;vertical-align:middle;"></i> May 4th - 09:00 to 16:00</h5>
-              <h5 style="margin-top: 1.4%; font-size: 1.2em;"><i class="fa fa-map-marker" style="margin-left:2.5%;margin-right:1.2%;font-size:1.2em;vertical-align:text-top;"></i><span>Belval Campus, room 3.330</span></h5>
+          {% for f in site.tags.featured | limit:1 %}
+            <div class="wow fadeInDown" data-wow-delay="0.2s">
+              <h2 class="brand-name font-bold mb-2"><span style="color: red; font-weight: bold; font-size: 2em; vertical-align: middle; padding-bottom: 0.15em;">/</span>{{ f.title }}<span style="color: red; font-weight: bold; font-size: 0.2em;">_____</span></h2>
+              <h5 class="mb-2"><i>{{ f.teaser }}</i></h5> 
+              <h4 class="mb-1"><i class="fa fa-clock-o"></i>&nbsp;&nbsp;{{ f.date | date:"%Y %B %d"}} - {{ f.startime }} to {{ f.endtime }}</h4>
+              <h4 class="mb-2"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;{{ f.location }}</h4>
+              <h5 class="mb-2">{{ f.sponsors }}</h5>
             </div>
-            <a href="https://ised.uni.lu/" data-offset="100" class="btn btn-secondary wow fadeInRight waves-effect waves-light" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInRight; margin-top: 3%; letter-spacing: 1px; font-size: 1em;"><i class="fa fa-external-link left"></i>More details</a>
-            <h5 style="margin-top: 0%; font-size: 1.2em;">Co-organized by the University of Luxembourg and LIST, sponsored by Clusil.</h5>                        
+            <a href="{{ f.link }}" data-offset="100" class="btn btn-secondary wow fadeInRight waves-effect waves-light mb-2" data-wow-delay="0.2s"><i class="fa fa-external-link left"></i>More details</a>
+          {% endfor %}
           </div>
 	</div>
       </div>

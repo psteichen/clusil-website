@@ -3,17 +3,15 @@
     <!--Section heading-->
     <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Latest & future events</h1>
                 
-    {% assign events = site.categories.event | where_exp: "item","item.tags != 'featured'" %}
-    <div class="row wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+    {% assign events = site.categories.event %}
+    <div class="row wow fadeIn" data-wow-delay="0.4s">
       <div class="col-md-2">
       <!-- Nav tabs -->
         <ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">
           {% for d in events %}
-          {% unless d.tags contains 'featured' %}
           <li class="nav-item waves-effect waves-light">
-            <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index1 }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %B %Y"}}</a>
+            <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index1 }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
           </li>
-          {% endunless %}
           {% endfor %}
         </ul>
       </div>
@@ -21,7 +19,6 @@
         <!-- Tab panels -->
         <div class="tab-content vertical">
           {% for e in events %}
-          {% unless e.tags contains 'featured' %}
           <!-- Panel -->
           <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index1 }}" role="tabpanel" aria-expanded="false">
             <h2 class="feature-title">{{ e.title }}</h2>
@@ -29,7 +26,6 @@
             {{ e.content }}
           </div>
           <!-- /Panel -->
-          {% endunless %}
           {% endfor %}
         </div>
       </div>

@@ -1,103 +1,48 @@
-<div class="container">   
-        <div style="padding-top: 6rem;" id="about">   
-            <section class="section">
+<div class="container" id="about">   
+  <section class="section">
 
-                <!--Section heading-->
-                <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>About</h1>
-                <!--Section sescription-->
-                <p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 2rem;">CLUSIL a.s.b.l. develops cooperative actions with public authorities, semipublic authorities for the security of information.</p><p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 2rem;">With about 200 members from all economic sectors, it is a well-established and independent actor among the Information Security Landscape of Luxembourg and the “Grande Region”. In just 20 years, we have come a very long way and are very proud.<br> (checkout <a href="https://20.clusil.lu">20.clusil.lu</a>).</p><p class="section-description lead wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 8rem;">By the members for the members, the collective action is bringing the following capabilities to each member:</p>
+    <!--Section heading-->
+    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ site.data.about.title }}</h1>
+    <!--Section sescription-->
+    <p class="section-description lead wow fadeIn" data-wow-delay="0.2s">{{ site.data.about.intro | markdownify }}</p>
 
-                <!--First row-->
-                <div class="row features-small wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
+    <!-- Features -->
+    <div class="row features-small wow fadeIn" data-wow-delay="0.4s">
 
-                    <!--First column-->
-                    <div class="col-md-4" style="padding-top: 2rem;">
-                        <!--First row-->
-                        <div class="row">
-                            <div class="col-2">
-                                <i class="fa fa-flask cyan-text"></i>
-                            </div>
-                            <div class="col-10 mb-2">
-                                <h4 class="feature-title">Collaboration</h4>
-                                <p class="grey-text">Private collaboration platforms, such as Atlassian Confluence and Seafile, are made available on-demand to members to create, share, and collaborate all in one place.</p>
-                            </div>
-                        </div>
-                        <!--/First row-->
+      <!-- Left -->
+      <div class="col-md-4" style="padding-top: 2rem;">
+      {% for l in site.data.about.features.left %}
+        <div class="row">
+          <div class="col-2">
+            <i class="fa fa-{{ l.icon }} cyan-text"></i>
+          </div>
+          <div class="col-10 mb-2">
+            <h4 class="feature-title">{{ l.title }}</h4>
+            <p class="grey-text">{{ l.desc }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
 
-                        <!--Second row-->
-                        <div class="row">
-                            <div class="col-2">
-                                <i class="fa fa-glass cyan-text"></i>
-                            </div>
-                            <div class="col-10 mb-2">
-                                <h4 class="feature-title">Networking</h4>
-                                <p class="grey-text">CLUSIL events are usually followed by a networking cocktail. This is THE moment to meet, shake hands, pitch yourself, ask questions. Come with your story, listen and create bonds.</p>
-                            </div>
-                        </div>
-                        <!--/Second row-->
+      <!-- Middle -->
+      <div class="col-md-4 mb-1 center-on-small-only">
+        <img alt="slash from logo" src="https://clusil.lu/img/slash.png" alt="" class="z-depth-0" style="height: 100%;">
+      </div>
 
-                        <!--Third row-->
-                        <div class="row">
-                            <div class="col-2">
-                                <i class="fa fa-map-o cyan-text"></i>
-                            </div>
-                            <div class="col-10 mb-2">
-                                <h4 class="feature-title">International reach</h4>
-                                <p class="grey-text">With the support of our members and various partners, we regularly organise travels to international security conferences with booth/speech presence (FIC Lille 2017, Luxembourg Internet Days 2016, 20-years of CLUSIL, CLUSiX Days, etc.).</p>
-                            </div>
-                        </div>
-                        <!--/Third row-->
-                    </div>
-                    <!--/First column-->
-
-                    <!--Second column-->
-                    <div class="col-md-4 mb-1 center-on-small-only">
-                        <img alt="slash from logo" src="https://clusil.lu/img/slash.png" alt="" class="z-depth-0" style="height: 100%;">
-                    </div>
-                    <!--/Second column-->
-
-                    <!--Third column-->
-                    <div class="col-md-4" style="padding-top: 2rem;">
-                        <!--First row-->
-                        <div class="row">
-                            <div class="col-2">
-                                <i class="fa fa-bullhorn light-green-text"></i>
-                            </div>
-                            <div class="col-10 mb-2">
-                                <h4 class="feature-title">On-demand social events</h4>
-                                <p class="grey-text">For members who have knowledge to share, we provide our logistical capabilities (along with partner support) for the organization of local events in various Luxembourg venues. Please read our ethical charter in the "contact" section.</p>
-                            </div>
-                        </div>
-                        <!--/First row-->
-
-                        <!--Second row-->
-                        <div class="row">
-                            <div class="col-2">
-                                <i class="fa fa-bookmark light-green-text"></i>
-                            </div>
-                            <div class="col-10 mb-2">
-                                <h4 class="feature-title">Cheatsheets on hot topics</h4>
-                                <p class="grey-text">Over the years members have produced countless content on various domains (incident management, security management, business continuity, etc.). Today, we take the experience to a newer level : cheatsheets you will actually refer to and use!</p>
-                            </div>
-                        </div>
-                        <!--/Second row-->
-
-                        <!--Third row-->
-                        <div class="row">
-                            <div class="col-2">
-                                <i class="fa fa-graduation-cap light-green-text"></i>
-                            </div>
-                            <div class="col-10 mb-2">
-                                <h4 class="feature-title">CPEs and special prizes</h4>
-                                <p class="grey-text">Based on local developments, we may organize awards to recognize valuable contributions to the cybersecurity community coming from students, researchers, open source teams, and so on. Last but not least, members activities can be recognized in the context of certification maintenance via CPE granting.</p>
-                            </div>
-                        </div>
-                        <!--/Third row-->
-                    </div>
-                    <!--/Third column-->
-                </div>
-                <!--/First row-->
-
-            </section>
-           </div> 
+      <!-- Right -->
+      <div class="col-md-4" style="padding-top: 2rem;">
+        {% for r in site.data.about.features.right %}
+        <div class="row">
+          <div class="col-2">
+            <i class="fa fa-{{ r.icon }} light-green-text"></i>
+          </div>
+          <div class="col-10 mb-2">
+            <h4 class="feature-title">{{ r.title }}</h4>
+            <p class="grey-text">{{ r.desc }}</p>
+        </div>
+        {% endfor %}
+      </div>
+ 
+    </div>
+  </section>
 </div> 

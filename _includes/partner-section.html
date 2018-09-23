@@ -1,33 +1,25 @@
 <div class="container-fluid" style="background-color: #bdbdbd; padding-top: 6rem;" id="partners">
-            <div class="container">
+  <div class="container">
             
-            <!--Heading-->
-            <div class="text-center">
-                <h1 class="mb-1 wow fadeIn" data-wow-delay="0.2s" style="font-weight: 600; visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 0.75em;">/</span>Partners</h1>
-                <h3 class="mb-4 wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn; margin-bottom: 0.5rem ! important;">Helpful and easy to work with! </h3>
-                <h3 class="mb-4 wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">They believe in the central role of an independent actor.</h3>
-            </div>
-            
-            <!--Items wrapper-->
-            <div class="mb-2 flex-center">  
-                <div class="row mb-3 wow fadeIn flex-center" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeIn;">
-                    <div class="col-md-2">
-                        <img src="img/certLu.png" alt="Cert.lu logo"  class="img-fluid">
-                    </div>
-                    <div class="col-md-2" style="">
-                        <img src="https://clusil.lu/img/cpsi.jpg" alt="CPSI logo" class="img-fluid" style="width: 5em; margin: auto;">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="https://www.clusil.lu/security_made_in_lu.jpg" alt="securitymadein.lu logo" class="img-fluid" style="text-align: center; margin: auto;">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="img/isacaLuxembourg.png" class="img-fluid" style="width: 25em;" alt="Isaca logo">
-                    </div>
-                    <div class="col-md-2">
-		<img src="img/snt.png" class="img-fluid" style="width: 60%; margin: auto;" alt="SNT logo">
-	    </div>
-	</div>
-    </div> 
+    <!--Heading-->
+    <div class="text-center">
+      <h1 class="mb-1 wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ site.data.partners.title }}</h1>
+      <h3 class="mb-4 wow fadeIn" data-wow-delay="0.2s">{{ site.data.partners.intro | markdownify }}</h3>
     </div>
+            
+    <!--Items wrapper-->
+    <div class="mb-2 flex-center">  
+      <div class="row mb-3 wow fadeIn flex-center" data-wow-delay="0.4s">
+        {% for p in site.data.partners.partners %}
+        <div class="col-md-2">
+<!--
+          <a href="{{ p.url }}"><img src="{{ p.img }}" alt="{{ p.title }}" class="img-fluid"></a>
+-->
+          <img src="{{ p.img }}" alt="{{ p.title }}" class="img-fluid" />
+        </div>
+        {% endfor %}
+      </div>
+    </div> 
+  </div>
 </div>
 

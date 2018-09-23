@@ -5,12 +5,14 @@ description: >- # this means to ignore newlines until next parameter
   It will appear in your document head meta (for Google search results)
 
 baseurl: ""
-url: "http://preprod.clusil.lu" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: "http://preprod.clusil.lu"
 
 # Build settings
 markdown: kramdown
 #plugins:
+
+deploy:
+  - rsync -aze --delete ./ /var/www/clusil.lu/preprod/
 
 exclude:
   - Gemfile

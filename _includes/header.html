@@ -1,0 +1,63 @@
+<!--Navigation & Intro-->
+<header>
+        
+  <!--Navbar-->
+  <nav class="navbar fixed-top navbar-toggleable-md navbar-dark scrolling-navbar">
+    <div class="container">
+               
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+                
+      <a class="navbar-brand" href="#">
+        <img alt="clusil logo" src="/assets/img/logo.png" class="d-inline-block align-top" style="width: 7em;">
+      </a>
+                
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mr-auto smooth-scroll">
+          {% for n in site.data.header.navigation %}
+          <li class="nav-item">
+            <a class="nav-link waves-effect waves-light" href="{{ n.url }}">{{ n.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+                    
+        <!--Social Icons-->
+        {% if site.data.header.social %}
+          {% assign social = site.data.header.social %}
+          <ul class="navbar-nav nav-flex-icons">
+            {% if social.tw %}<li class="nav-item"><a class="nav-link waves-effect" href="https://twitter.com/{{ social.tw }}"><i class="fa fa-twitter"></i></a></li>{% endif %}
+            {% if social.ln %}<li class="nav-item"><a class="nav-link waves-effect" href="https://www.linkedin.com/{{ social.ln }}"><i class="fa fa-linkedin"></i></a></li>{% endif %}
+	    {% if social.login %}<li class="nav-item"><a href="{{ social.login.url }}" id="show_login" class="nav-link waves-effect waves-light"><i class="fa fa-sign-in"></i><span class="hidden-sm-down">{{ social.login.title }}</span></a></li>{% endif %}
+	</ul>
+        {% endif %}
+                    
+      </div>
+    </div>
+  </nav>
+  <!--/Navbar-->
+        
+  <!-- Featured News -->
+  <div class="view intro hm-black-strong intro-lp" id="home" style="background-image:url('img/introBackground.jpg');">
+    <div class="full-bg-img flex-center">
+      <div class="container smooth-scroll">
+        <div class="row">
+	  <div class="col-md-12 white-text text-center smooth-scroll">
+            <div class="wow fadeInDown" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
+              <h2 class="brand-name font-bold mb-2"><span style="color: red; font-weight: bold; font-size: 2em; vertical-align: middle; padding-bottom: 0.15em;">/</span>Information Security Education Day<span style="color: red; font-weight: bold; font-size: 0.2em;">_____</span></h2>
+              <h5 style="margin-top: 3%; font-size: 1.2em;">2018 theme: Internet of Things - security challenges and opportunities</h5> 
+              <h5 style="margin-top: 2%; font-size: 1.2em;"><i class="fa fa-clock-o" style="margin-left:2.5%;margin-right:1.2%;font-size:1.2em;vertical-align:middle;"></i> May 4th - 09:00 to 16:00</h5>
+              <h5 style="margin-top: 1.4%; font-size: 1.2em;"><i class="fa fa-map-marker" style="margin-left:2.5%;margin-right:1.2%;font-size:1.2em;vertical-align:text-top;"></i><span>Belval Campus, room 3.330</span></h5>
+            </div>
+            <a href="https://ised.uni.lu/" data-offset="100" class="btn btn-secondary wow fadeInRight waves-effect waves-light" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInRight; margin-top: 3%; letter-spacing: 1px; font-size: 1em;"><i class="fa fa-external-link left"></i>More details</a>
+            <h5 style="margin-top: 0%; font-size: 1.2em;">Co-organized by the University of Luxembourg and LIST, sponsored by Clusil.</h5>                        
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+  <!-- /Featured News-->
+
+</header>
+<!--/Navigation & Intro-->
+

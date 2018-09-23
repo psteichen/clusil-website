@@ -1,0 +1,25 @@
+---
+navigation:
+- url: '#home'
+  title: Home
+- url: '#events'
+  title: Events
+- url: '#about'
+  title: About
+- url: '#partners'
+  title: Partners
+- url: '#statistics'
+  title: Statistics
+- url: '#team'
+  title: Team
+- url: '#contact'
+  title: Contact
+- url: '#join-us'
+  title: Join Us
+social:
+  tw: clusil_lu
+  ln: groups/3852540
+  login:
+    url: 'https://cms.clusil.lu/'
+    title:  Login
+---

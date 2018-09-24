@@ -5,10 +5,7 @@ admin_path: hibou
 webhook_url: 
 sections:
 - type: jekyll-posts
-  label: Posts
-  create: all
-- type: jekyll-pages
-  label: Pages
+  label: Events
   create: all
 upload_dir: assets/img
 public_path: "/assets/img"

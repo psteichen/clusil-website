@@ -28,8 +28,8 @@
           <ul class="navbar-nav nav-flex-icons">
             {% if social.tw %}<li class="nav-item"><a class="nav-link waves-effect" href="https://twitter.com/{{ social.tw }}"><i class="fa fa-twitter"></i></a></li>{% endif %}
             {% if social.ln %}<li class="nav-item"><a class="nav-link waves-effect" href="https://www.linkedin.com/{{ social.ln }}"><i class="fa fa-linkedin"></i></a></li>{% endif %}
-	    {% if social.login %}<li class="nav-item"><a href="{{ social.login.url }}" id="show_login" class="nav-link waves-effect waves-light"><i class="fa fa-sign-in"></i><span class="hidden-sm-down">{{ social.login.title }}</span></a></li>{% endif %}
-	</ul>
+	        {% if social.login %}<li class="nav-item"><a href="{{ social.login.url }}" id="show_login" class="nav-link waves-effect waves-light"><i class="fa fa-sign-in"></i><span class="hidden-sm-down">{{ social.login.title }}</span></a></li>{% endif %}
+	      </ul>
         {% endif %}
                     
       </div>

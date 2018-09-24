@@ -1,7 +1,7 @@
-<div class="container pt-5" id="events">
-  <section class="section mt-3">
+<div class="container pt-4" id="events">
+  <section class="section">
     <!--Section heading-->
-    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Latest & future events</h1>
+    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Events</h1>
                 
     {% assign events = site.categories.event %}
     <div class="row wow fadeIn" data-wow-delay="0.4s">
@@ -10,7 +10,7 @@
         <ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">
           {% for d in events %}
           <li class="nav-item waves-effect waves-light">
-            <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index1 }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
+            <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
           </li>
           {% endfor %}
         </ul>
@@ -20,7 +20,7 @@
         <div class="tab-content vertical">
           {% for e in events %}
           <!-- Panel -->
-          <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index1 }}" role="tabpanel" aria-expanded="false">
+          <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">
             <h2 class="feature-title">{{ e.title }}</h2>
             <h3 class="feature-title">{{ e.teaser }}</h3>
             {{ e.content }}

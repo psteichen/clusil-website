@@ -1,11 +1,11 @@
 <!--Footer-->
 <footer class="page-footer center-on-small-only">
-  <div id="join-us" class="container-fluid">
+  <div id="join-us" class="container-fluid pt-4">
 
     <div class="row mb-2 wow fadeIn" data-wow-delay="0.2s" >
       <div class="col-lg-8 offset-lg-2 text-center smooth-scroll">
-        <i class="fa fa-users fa-4x pink-text pt-1 pb-1"></i>
-        <h2 class="mb-2 bold-font">Become a member</h2>
+        <i class="fa fa-users fa-4x pink-text"></i>
+        <h2 class="mb-2 mt-2 bold-font">Become a member</h2>
         <p class="white-text">The slogan of the CLUSIL is “by the experts for the experts”, meaning that all different professional experts concerned will find their added value by becoming a member of the CLUSIL. Below the yearly fees:</p>
 
         <div class="row wow fadeIn" data-wow-delay="0.4s">
@@ -13,7 +13,7 @@
           <div class="col-md-4">
             <ul class="contact-icons">
               <li>
-                <p style="margin-top: 2em;">{{ m.desc }}<br>{{ m.fee }}</p>
+                <p style="margin-top: 2em;">{{ m.desc }}<br><i>{{ m.fee }}</i></p>
                 <a class="btn btn-{{ m.button }} waves-effect waves-light" href="https://cms.clusil.lu/reg/{{ m.type }}/">{{ m.title }}</a>
               </li>
             </ul>
@@ -23,16 +23,21 @@
 
         <hr>
 
+        <!--Social Icons-->
+        {% if site.data.header.social %}
+        {% assign social = site.data.header.social %}
         <div class="row mt-2 mb-1 text-center wow fadeIn" data-wow-delay="0.3s">
           <div class="col-lg-6 offset-lg-3 text-center smooth-scroll">
             <h5 class="title">Stay in touch</h5>
             <ul class="inline-ul">
-              <li><a class="btn-floating btn-small btn-fb waves-effect waves-light" href="https://www.linkedin.com/groups/3852540"><i class="fa fa-linkedin"> </i></a></li>
-              <li><a class="btn-floating btn-small btn-tw waves-effect waves-light" href="https://twitter.com/clusil_lu"><i class="fa fa-twitter"> </i></a></li>
-              <li><a href="https://cms.clusil.lu/" class="btn-floating btn-small btn-pin waves-effect waves-light"><i class="fa fa-sign-in"> </i></a></li>
+              {% if social.tw %}<li><a class="btn-floating btn-small btn-tw waves-effect waves-light" href="https://twitter.com/{{ social.tw }}"><i class="fa fa-twitter"></i></a></li>{% endif %}
+              {% if social.ln %}<li><a class="btn-floating btn-small btn-fb waves-effect waves-light" href="https://www.linkedin.com/{{ social.ln }}"><i class="fa fa-linkedin"></i></a></li>{% endif %}
+	          {% if social.login %}<li><a href="{{ social.login.url }}" class="btn-floating btn-small btn-pin waves-effect waves-light"><i class="fa fa-sign-in"> </i></a></li>{% endif %}
             </ul>
           </div>
         </div>
+        {% endif %}
+
       </div>
     </div>
            

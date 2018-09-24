@@ -7,6 +7,8 @@ sections:
 - type: jekyll-posts
   label: Events
   create: all
+  templates:
+  - anti-money-laundering-on-blockchain
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''

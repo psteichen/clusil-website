@@ -4,6 +4,11 @@ auto_deploy: true
 admin_path: hibou
 webhook_url: 
 sections:
+- type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Events
   create: all

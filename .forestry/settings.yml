@@ -9,6 +9,7 @@ sections:
   label: Data
   create: all
   match: "**/*"
+  new_doc_ext: ".yml"
 - type: jekyll-posts
   label: Events
   create: all

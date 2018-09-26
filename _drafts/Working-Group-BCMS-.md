@@ -13,3 +13,15 @@ sponsors: ''
 link: ''
 
 ---
+The **goal** of the working group could be among others to:
+
+* Discuss together our general understanding of BCM, mainly of the ISO norms 22301 and 22313
+* Exchange experiences and lessons learned
+* How to write Disaster Recovery Plans (DRP) and Business Continuity Plans (BCP)
+* How to organise DRP and BCP tests
+* How to carry out a Business Impact Analysis
+
+During the last session, the following was decided:
+
+* Address questions on BIA
+* Create a fictive company, to exercise the creation of DRPs/BCPs, BIA realization (final extend of scope to be defined during the next session)

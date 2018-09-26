@@ -26,4 +26,4 @@ During the last session, the following was decided:
 * Address questions on BIA
 * Create a fictive company, to exercise the creation of DRPs/BCPs, BIA realization (final extend of scope to be defined during the next session)
 
-Registration: via [email]() before 
+Registration: via [email]() before 9 October noon

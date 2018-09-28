@@ -54,6 +54,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _posts/2018-10-10-Working-Group-BCMS-.md
-- _posts/2018-02-22-aml-on-blockchain.md

@@ -5,16 +5,18 @@ admin_path: hibou
 webhook_url: 
 sections:
 - type: directory
+  path: _posts
+  label: Events
+  create: all
+  match: "*"
+  templates:
+  - anti-money-laundering-on-blockchain
+- type: directory
   path: _data
   label: Data
   create: all
   match: "**/*"
   new_doc_ext: yml
-- type: jekyll-posts
-  label: Events
-  create: all
-  templates:
-  - anti-money-laundering-on-blockchain
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''

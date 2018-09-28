@@ -1,10 +1,18 @@
 ---
 title: Partners
-intro: "Helpful and easy to work with! 
-
-  They believe in the central role of an independent actor."
+intro: |-
+  Helpful and easy to work with!
+  They believe in the central role of an independent actor.
 partners:
+- title: CERT.LU
+  img: "/assets/img/certLu.png"
+  url: www.cert.lu
+- title: SnT
+  img: "/assets/img/snt.png"
+  url: www.snt.lu
+- title: SECURITYMADEIN.LU
+  img: "/assets/img/smile-logo.png"
+  url: https://securitymadein.lu/
 - title: CPSI
-  img: /assets/img/cpsi.jpg
+  img: "/assets/img/cpsi.jpg"
   url: http://cpsi.lu/
---- 

@@ -1,5 +1,5 @@
 ---
-title: 'Working Group BCMS '
+title: 'Working Group BCMS'
 categories:
 - event
 date: 2018-10-10 15:30:00 +0000
@@ -12,7 +12,6 @@ tags:
 location: Security made in Lëtzebuerg, 16 bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-
 ---
 The **goal** of the working group could be among others to:
 

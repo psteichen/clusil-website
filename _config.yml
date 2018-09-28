@@ -7,8 +7,13 @@ description: >- # this means to ignore newlines until next parameter
 baseurl: ""
 url: "http://preprod.clusil.lu"
 
+collections:
+  events:
+    output: true
+
 # Build settings
 markdown: kramdown
+future: True
 #plugins:
 
 deploy:

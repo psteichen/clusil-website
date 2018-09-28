@@ -28,12 +28,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: true
-  default:
-  - event
 - name: tags
   label: Tags
   type: tag_list

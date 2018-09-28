@@ -5,10 +5,10 @@ admin_path: hibou
 webhook_url: 
 sections:
 - type: directory
-  path: _posts
+  path: _events
   label: Events
   create: all
-  match: "*"
+  match: "**/*"
   templates:
   - anti-money-laundering-on-blockchain
 - type: directory

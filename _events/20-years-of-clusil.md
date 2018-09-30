@@ -10,7 +10,6 @@ tags: []
 location: Confiserie Namur, in Hamm
 sponsors: ''
 link: https://20.clusil.lu/
-published: false
 
 ---
 Agenda details being available on a dedicated website: [https://20.clusil.lu/](https://20.clusil.lu/ "https://20.clusil.lu/")

@@ -36,15 +36,6 @@ members:
     ln: rtaban
     gh: 
     fb: 
-- name: Steve MÜLLER
-  title: Security Advisor at MECO
-  function: Board member
-  photo: "/assets/img/steveMuller.jpg"
-  social:
-    tw: 
-    ln: steve-muller-ab9150106
-    gh: 
-    fb: 
 - name: Cédric MAUNY
   title: Senior Manager of Cybersecurity at Telindus Luxembourg
   function: Board member
@@ -54,13 +45,22 @@ members:
     ln: cedricmauny
     gh: 
     fb: 
-- name: 
-  title: 
-  function: 
-  photo: 
+- name: Steve MÜLLER
+  title: Security Advisor at MECO
+  function: Board member
+  photo: "/assets/img/steveMuller.jpg"
   social:
     tw: 
-    ln: 
+    ln: steve-muller-ab9150106
+    gh: 
+    fb: 
+- name: Thierry GRANDJEAN
+  title: Research engineer at LIST
+  function: Active member
+  photo: "/assets/img/thierryGrandjean.jpg"
+  social:
+    tw: thierrygrandjean
+    ln: thierrygrandjean
     gh: 
     fb: 
 - name: 

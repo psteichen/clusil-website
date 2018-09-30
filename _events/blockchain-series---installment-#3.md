@@ -10,7 +10,6 @@ tags: []
 location: SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg
 sponsors: SnT
 link: www.snt.lu
-published: false
 
 ---
 The third session provides an insight on the maturity of Blockchain security in real-world applications. The two talks provide lessons learned from previously encountered security incidents and focus on security challenges faced in FinTech applications.

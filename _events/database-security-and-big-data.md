@@ -8,7 +8,6 @@ tags: []
 location: SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg
 sponsors: SnT
 link: www.snt.lu
-published: false
 
 ---
 CLUSIL and ISACA are honoured to invite you for a conference in the context of the new GDPR! Database Security and Big Data are an important element within data privacy. The conference will give you the opportunity to get hands-on information on database security and big data with international recognized experts. Topics that will be covered are:

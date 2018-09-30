@@ -1,7 +1,7 @@
 ---
 label: Team
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -22,6 +22,7 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: Firstname NAME
   - name: title
     label: Title
     type: text
@@ -32,11 +33,9 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: photo
-    label: Photo
-    type: text
-    hidden: false
-    default: ''
+  - type: file
+    name: photo
+    label: photo
   - name: social
     label: Social
     type: field_group

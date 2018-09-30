@@ -10,7 +10,6 @@ tags: []
 location: SnT Campus Kirchberg, 6 Rue Richard Coudenhove-Kalergi, L-1359 Luxembourg-Kirchberg
 sponsors: SnT
 link: www.snt.lu
-published: false
 
 ---
 The fourth session provides an insight on two specific aspects of Blockchain. The first part focuses on the security challenges faced especially for smart contract programming and the Ethereum platform, while the second talk provides an analysis of classic cybersecurity issues (confidentiality, integrity and availability) translated to the context of the Blockchain.

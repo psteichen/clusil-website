@@ -1,0 +1,57 @@
+---
+label: Team
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: intro
+  label: Intro
+  type: textarea
+  hidden: false
+  default: ''
+- name: members
+  label: Members
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: function
+    label: Function
+    type: text
+    hidden: false
+    default: ''
+  - name: photo
+    label: Photo
+    type: text
+    hidden: false
+    default: ''
+  - name: social
+    label: Social
+    type: field_group
+    fields:
+    - name: tw
+      label: Tw
+      type: text
+      hidden: false
+      default: ''
+    - name: ln
+      label: Ln
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''

@@ -9,7 +9,6 @@ tags: []
 location: SnT – Weicker building - 4, rue Alphonse Weicker - L-2721 Luxembourg
 sponsors: ''
 link: www.snt.lu
-published: false
 
 ---
 Since the FinTech ecosystem and the Blockchain are based on similar concepts, it is primarily the financial sector that is concerned. However, there exist many more applications in other domains, including the medical sector, e-voting and smart contracts. Security of Blockchain technology is an ambivalent concept: while security constitutes its main strength, it is also the primary source of mistrust that one may have of Blockchain-based applications. The CLUSIL series of conferences on Blockchain security aims at surveying current status of Blockchain security, focusing on sector-specific and national initiatives.

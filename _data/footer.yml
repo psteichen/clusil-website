@@ -1,19 +1,19 @@
 ---
 title: Become a member
-intro: "The slogan of the CLUSIL is “by the experts for the experts”, meaning that all different professional experts concerned will find their added value by becoming a member of the CLUSIL. Below the yearly fees:"
+intro: "CLUSIL - “by the experts for the experts” ! All different professionals will find their added value by becoming a member of the CLUSIL:"
 memberships:
 - type: student
   title: Student Membership
-  desc: A proof is required 
+  desc: "A proof is required:"
   fee: 25 EUR
   button: pink
 - type: individual
-  title: Private Membership
-  desc: As a private person
+  title: Individual Membership
+  desc: "As an individual person:"
   fee: 100 EUR
   button: pink
 - type: organisation
   title: Corporate Membership
-  desc: For companies
+  desc: "For organisations:"
   fee: 400 EUR for 6 people
   button: default

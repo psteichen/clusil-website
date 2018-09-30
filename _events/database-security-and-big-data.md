@@ -29,8 +29,8 @@ CLUSIL and ISACA are honoured to invite you for a conference in the context of t
 
 #### Speakers
 
-Alexander Kornbrust (founder of Red-Database-Security), “Database Security”  
-Laurent Dufossé (founding partner and technical supervisor of AdbA): "Big Data and security"
+* Alexander Kornbrust (founder of Red-Database-Security), “Database Security”
+* Laurent Dufossé (founding partner and technical supervisor of AdbA): "Big Data and security"
 
 #### When
 

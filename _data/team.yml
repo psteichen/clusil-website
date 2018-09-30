@@ -15,16 +15,16 @@ members:
   photo: "/assets/img/pascalSteichen.jpg"
   social:
     tw: _pst
-    ln: ''
+    ln: psteichen
     gh: 
     fb: 
-- name: 
-  title: 
-  function: 
-  photo: 
+- name: Yves DE PRIL
+  title: Director at SONN PSF
+  function: Treasurer
+  photo: "/assets/img/yvesDePril.jpg"
   social:
-    tw: 
-    ln: 
+    tw: conostix
+    ln: yves-de-pril-804ab9
     gh: 
     fb: 
 - name: 

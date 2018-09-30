@@ -63,15 +63,6 @@ members:
     ln: steve-muller-ab9150106
     gh: 
     fb: 
-- name: Thierry GRANDJEAN
-  title: Research engineer at LIST
-  function: Active member
-  photo: "/assets/img/thierryGrandjean.jpg"
-  social:
-    tw: thierrygrandjean
-    ln: thierrygrandjean
-    gh: 
-    fb: 
 - name: Margot HARTMAN
   title: Administrative Assistant at SECURITYMADEIN.LU
   function: Assistant Secretary
@@ -79,5 +70,18 @@ members:
   social:
     tw: 
     ln: margot-hartman-051b6341
+    gh: 
+    fb: 
+- name: Ira DOYLE
+  title: Compliance Officer at Volkswagen Finance
+  function: Active member
+  social: ''
+- name: Thierry GRANDJEAN
+  title: Research engineer at LIST
+  function: Active member
+  photo: "/assets/img/thierryGrandjean.jpg"
+  social:
+    tw: thierrygrandjean
+    ln: thierrygrandjean
     gh: 
     fb: 

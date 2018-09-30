@@ -54,3 +54,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- _data/team.yml

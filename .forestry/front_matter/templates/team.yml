@@ -41,12 +41,12 @@ fields:
     type: field_group
     fields:
     - name: tw
-      label: Tw
+      label: twitter
       type: text
       hidden: false
       default: ''
     - name: ln
-      label: Ln
+      label: linkedin
       type: text
       hidden: false
       default: ''

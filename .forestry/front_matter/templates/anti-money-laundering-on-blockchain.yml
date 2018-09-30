@@ -49,4 +49,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/blockchain-series---installment-#1.md
 - _events/20-years-of-clusil.md

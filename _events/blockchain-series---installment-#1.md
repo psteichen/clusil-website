@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain series - Installment #1'
-date: 2018-02-07 13:47:25 +0100
+date: 2017-02-07 13:47:00 +0100
 teaser: Blockchain is nowadays considered as a key technology, particularly in Luxembourg,
   where many initiatives around this new paradigm are launched.
 startime: '17:30'

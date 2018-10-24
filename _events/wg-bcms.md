@@ -5,7 +5,8 @@ teaser: The working group dedicated to Business Continuity  Management (BCMS) is
   to all BCM managers and people interested  in BCM in general.
 startime: '17:30'
 endtime: '19:00'
-tags: []
+tags:
+- featured
 location: Security made in Lëtzebuerg, 16 bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

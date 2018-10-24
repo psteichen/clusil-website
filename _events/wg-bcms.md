@@ -15,10 +15,4 @@ published: false
 We will continue the discussion around the topic BIA.  
 In addition we can also propose, to exchange experiences, of organizing and realizing a table top exercise.  
   
-**When**: 14 November 2018  
-  
-**Time**: starts at 17:30 till 19:00  
-  
-**Place**: Cybersecurity Competence Center | c/o Security made in Lëtzebuerg, 16 bd d’Avranches | L-1160 Luxembourg  
-  
 **Registration**: before Tuesday 13 November 2018 noon by [email](mailto:margot.hartman@securitymadein.lu)

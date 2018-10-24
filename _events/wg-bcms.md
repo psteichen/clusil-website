@@ -10,7 +10,6 @@ tags:
 location: Security made in Lëtzebuerg, 16 bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 We will continue the discussion around the topic BIA.  

@@ -1,7 +1,8 @@
 ---
 title: WG-BCMS
 date: 2018-11-14 17:30:31 +0100
-teaser: Working Group dedicated to Business Continuity Management System
+teaser: The working group dedicated to Business Continuity  Management (BCMS) is addressed
+  to all BCM managers and people interested  in BCM in general.
 startime: '17:30'
 endtime: '19:00'
 tags: []
@@ -11,8 +12,6 @@ link: ''
 published: false
 
 ---
-Please be invited to the next session of the **WG-BCMS,** which is scheduled for Wednesday 14 November 2018.  
-  
 We will continue the discussion around the topic BIA.  
 In addition we can also propose, to exchange experiences, of organizing and realizing a table top exercise.  
   

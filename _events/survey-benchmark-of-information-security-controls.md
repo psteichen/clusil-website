@@ -20,7 +20,7 @@ Fill-in the gap with the first ever local benchmark made by experts for the expe
 
 **Information security controls - 1st edition**
 
-With the support of 28 **CLUSIL** members, a questionnaire addressing a large spectrum of categories of information security controls have been drafted and are now disseminated toward the community to get answers.
+With the support of 28 **CLUSIL** members, a questionnaire addressing a large spectrum of categories of information security controls have been drafted and are now disseminated towards the community to get answers.
 
 We encourage you to fill out or forward this invitation to your company’s (Chief) Information Security Officer (C(ISO)), Responsable de la Sécurité des Systèmes d’Information (RSSI), IT Manager, or anyone who has information security within his scope of responsibilities.
 

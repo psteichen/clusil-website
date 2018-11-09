@@ -1,6 +1,6 @@
 ---
 title: Survey - Benchmark of Information Security Controls
-date: 2018-11-30 00:00:00 +0100
+date: 2018-11-30 12:00:00 +0100
 teaser: The 1st edition of the only benchmark made by the experts for the experts.
 startime: ''
 endtime: ''

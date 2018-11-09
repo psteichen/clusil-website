@@ -9,7 +9,6 @@ tags:
 location: ''
 sponsors: ''
 link: https://survey.clusil.lu/
-published: false
 
 ---
 **Make your voice heard**

@@ -49,6 +49,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/wg-bcms-session-4.md
 - _events/survey-benchmark-of-information-security-controls.md
 - _events/wg-bcms.md
 - _events/blockchain-series---installment-#2.md

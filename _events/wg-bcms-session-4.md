@@ -13,4 +13,10 @@ link: ''
 ---
 More information will follow soon
 
+**When:** 12/12/2018
+
+**Time:** 17:30 - 19:00
+
+**Place:** Security made in Lëtzebuerg, 16 bd d'Avranches, L-1160 Luxembourg
+
 **Registration**: before Tuesday 11 December 2018 noon by [email](mailto:margot.hartman@securitymadein.lu)

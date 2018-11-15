@@ -1,5 +1,5 @@
 ---
-title: WG-BCMS session 4
+title: WG-BCMS - session 4
 date: 2018-12-12 17:30:54 +0100
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.

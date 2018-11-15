@@ -12,3 +12,6 @@ link: ''
 published: false
 
 ---
+More information will follow soon
+
+**Registration**: before Tuesday 11 December 2018 noon by [email](mailto:margot.hartman@securitymadein.lu)

@@ -14,6 +14,7 @@ sponsors: ''
 link: ''
 
 ---
+
 During the first session, the following was decided:
 
 * Address questions on BIA

@@ -11,7 +11,6 @@ location: Security made in Lëtzebuerg, HSBC building 2nd floor, 16 boulevard d�
   Luxembourg 
 sponsors: SECURITYMADEIN.LU
 link: www.securitymadein.lu
-published: false
 
 ---
 When speaking about Blockchain security, one mainly thinks of integrity and privacy issues. However, in practise, Blockchain-based solutions also face legal and operational risks. The fifth session of the conference series will cover several of these secondary risks, including legal implications for smart contracts, and security considerations for scalability solutions.

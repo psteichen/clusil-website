@@ -31,10 +31,10 @@ link: www.snt.lu
 * Alexander Kornbrust (founder of Red-Database-Security), “Database Security”
 * Laurent Dufossé (founding partner and technical supervisor of AdbA): "Big Data and security"
 
-#### When
+##### When
 
 June 7th - conference starts at 17:30
 
-#### Where
+##### Where
 
 SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg

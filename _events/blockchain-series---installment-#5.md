@@ -26,4 +26,4 @@ November 9th, 2017
 
 ##### Where
 
-Security made in Lëtzebuerg, HSBC building 2nd floor, 16 boulevard d’Avranches, Luxembourg
+Security made in Lëtzebuerg, 16 boulevard d’Avranches, L-1160 Luxembourg

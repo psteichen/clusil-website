@@ -1,5 +1,5 @@
 ---
-title: Working Group BCM
+title: Working Group BCM - relaunch
 date: 2018-09-12 13:50:42 +0200
 teaser: The working group dedicated to Business Continuity Management (BCM) is addressed
   to all BCM managers and people interested in BCM in general.

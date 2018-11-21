@@ -21,8 +21,8 @@ The third session provides an insight on the maturity of Blockchain security in 
 
   ##### When
 
-June 15th - registration starting at 17:15, meeting starts at 17:45
+June 15th 2017 - registration starting at 17:15, meeting starts at 17:45
 
 ##### Where
 
-SnT | 29 avenue J.F. Kennedy | L-1855 Luxembourg-Kirchberg
+SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg

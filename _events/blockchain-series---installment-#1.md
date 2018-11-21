@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain series - Installment #1'
-date: 2017-02-07 13:47:00 +0100
+date: 2017-02-07 12:47:00 +0000
 teaser: Blockchain is nowadays considered as a key technology, particularly in Luxembourg,
   where many initiatives around this new paradigm are launched.
 startime: '17:30'
@@ -15,13 +15,13 @@ Since the FinTech ecosystem and the Blockchain are based on similar concepts, it
 
 #### Speakers
 
-* Steve MULLER (Security Researcher at itrust consulting): "Fundamentals of Blockchain security" 
+* Steve MULLER (Security Researcher at itrust consulting): "Fundamentals of Blockchain security"
 * Laurent KRATZ (Co-Founder at Scorechain): "Cryptocurrencies de-anonymisation, the hunt for ransomware"
 
-#### When
+##### When
 
 Tuesday, 7 February 2017 starting at 17:30
 
-#### Where
+##### Where
 
-SnT – Weicker building - 4, rue Alphonse Weicker - L-2721 Luxembourg (near the Auchan)
+SnT | Weicker building | 4, rue Alphonse Weicker | L-2721 Luxembourg (near the Auchan)

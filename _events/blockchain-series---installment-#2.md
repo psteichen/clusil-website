@@ -10,7 +10,6 @@ tags: []
 location: SnT – Weicker building - 4, rue Alphonse Weicker - L-2721 Luxembourg
 sponsors: SnT
 link: www.snt.lu
-published: false
 
 ---
 For the second event, we are pleased to welcome two speakers who have a solid background on the security and resilience of Blockchain-based applications. In their talks, they will share some of their experience by outlining the major security concerns that occur when developing such applications.

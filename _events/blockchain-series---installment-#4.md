@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain series - Installment #4'
-date: 2017-09-07 19:47:00 +0200
+date: 2017-09-07 17:47:00 +0000
 teaser: The CLUSIL series of conferences on Blockchain security aims at surveying
   current status of Blockchain security, focusing on sector-specific and national
   initiatives.
@@ -16,12 +16,12 @@ The fourth session provides an insight on two specific aspects of Blockchain. Th
 
 #### Speakers
 
-* Sergei Tikhomirov (CryptoLUX group, SnT, University of Luxembourg): “Security challenges in Ethereum smart contract programming” 
-* Laurent de la Vaissière (Director, Deloitte Luxembourg) and Ismaël Cissé (Senior Manager, Deloitte Luxembourg): “Blockchain : A Cybersecurity perspective”
+* Sergei Tikhomirov (CryptoLUX group, SnT, University of Luxembourg): “Security challenges in Ethereum smart contract programming”
+* Laurent de la Vaissière (Director, Deloitte Luxembourg) and Ismaël Cissé (Senior Manager, Deloitte Luxembourg): “Blockchain: A Cybersecurity perspective”
 
 #### When
 
-September 7th
+September 7th, 2017
 
 #### Where
 

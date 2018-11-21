@@ -9,7 +9,6 @@ tags: []
 location: Security made in Lëtzebuerg, 16 bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 **CLUSIL** is pleased to announce you once again the creation of a working group dedicated to **Business Continuity Management** (BCM) by Werner ANSORGE.

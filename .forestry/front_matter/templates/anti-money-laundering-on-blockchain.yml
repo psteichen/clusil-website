@@ -49,6 +49,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/wg-bcms-session-4.md
+- _events/wg-bcms.md
 - _events/database-security-and-big-data.md
 - _events/blockchain-series---installment-#5.md
 - _events/blockchain-series---installment-#2.md
@@ -57,6 +59,4 @@ pages:
 - _events/blockchain-series---installment-#1.md
 - _events/blockchain-series---installment-#3.md
 - _events/survey-benchmark-of-information-security-controls.md
-- _events/wg-bcms-session-4.md
-- _events/wg-bcms.md
 - _events/20-years-of-clusil.md

@@ -20,7 +20,7 @@ In addition we can also propose, to exchange experiences, of organizing and real
 
 ##### Time and place
 
-The session starts at 17:30 at Security made in Lëtzebuerg | 16, bd. d'Avranches | L-1160 Luxembourg
+The session starts at 17:30 at Security made in Lëtzebuerg, 16 boulevard d'Avranches, L-1160 Luxembourg
 
 ##### Registration
 

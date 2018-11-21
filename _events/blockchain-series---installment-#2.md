@@ -25,4 +25,4 @@ Wednesday, 5th April 2017 starting at 17:30
 
 ##### Where
 
-SnT – 29, avenue J.F. Kennedy - L-1855 Luxembourg-Kirchberg
+SnT, 29 avenue J.F. Kennedy, L-1855 Luxembourg-Kirchberg

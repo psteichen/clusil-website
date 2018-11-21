@@ -29,7 +29,7 @@ The meeting will start at 17:30 till 19:00
 
 ##### Place
 
-Security made in Lëtzebuerg | 16, bd d'Avranches | L-1160 Luxembourg
+Security made in Lëtzebuerg, 16, bd d'Avranches, L-1160 Luxembourg
 
 ##### Registration
 

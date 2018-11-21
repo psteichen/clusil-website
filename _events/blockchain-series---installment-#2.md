@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain series - Installment #2'
-date: 2017-04-05 13:49:00 +0200
+date: 2017-04-05 11:49:00 +0000
 teaser: The CLUSIL series of conferences on Blockchain security aims at surveying
   current status of Blockchain security, focusing on sector-specific and national
   initiatives.
@@ -26,4 +26,4 @@ Wednesday, 5th April 2017 starting at 17:30
 
 #### Where
 
-SnT – Weicker building - 4, rue Alphonse Weicker - L-2721 Luxembourg (near the Auchan)
+SnT – 29, avenue J.F. Kennedy - L-1855 Luxembourg-Kirchberg

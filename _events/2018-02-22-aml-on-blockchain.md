@@ -8,6 +8,7 @@ tags: []
 location: Patisserie Namur, 2, rue de Bitbourg, L1273 Luxembourg
 sponsors: CLUSIL & ISACA joint event
 link: https://aml-on-blockchain-clusil-isacalu.eventbrite.co.uk/
+
 ---
 Alberto Ornaghi, Neutrino's Chief Technology Officer (http://www.neutrino.nu/), and Giancarlo Russo, Neutrino's Chief Executive Officer, will present How-To perform Anti Money Laundering checks and detect suspicious transactions on the bitcoin network, extending the traditional “follow the money” approach also to the dark web.
 
@@ -17,22 +18,22 @@ The techniques and tools presented are used by Law Enforcement, Compliance and R
 
 The presentation is addressed to both technical and non-technical audience (including Compliance, Risk and Audit professionals).
 
-## Speakers
+#### Speakers
 
 Mr. Alberto Ornaghi and Mr. Giancarlo Russo
 
-## When
+#### When
 
 February 22, 2018, on-site registrations starting at 5.30 PM. Conference starting at 6PM
 
-## Where
+#### Where
 
 Patisserie Namur, 2, rue de Bitbourg, L1273 Luxembourg
 
-## Pricing
+#### Pricing
 
 Free event, eligible to 2 CPE credits
 
-## Supporting organisation’s website
+#### Supporting organisation’s website
 
 www.neutrino.nu

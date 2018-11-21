@@ -11,10 +11,17 @@ sponsors: ''
 link: ''
 
 ---
-
 We will continue the discussion around the topic BIA.  
 In addition we can also propose, to exchange experiences, of organizing and realizing a table top exercise.
 
-#### Registration
+##### When
+
+14 November 2018
+
+##### Time and place
+
+The session starts at 17:30 at Security made in Lëtzebuerg | 16, bd. d'Avranches | L-1160 Luxembourg
+
+##### Registration
 
 before Tuesday 13 November 2018 noon by [email](mailto:margot.hartman@securitymadein.lu)

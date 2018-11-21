@@ -11,13 +11,13 @@ sponsors: ''
 link: https://survey.clusil.lu/
 
 ---
-#### **Make your voice heard**
+#### Make your voice heard
 
 Fill-in the gap with the first ever local benchmark made by experts for the experts, all sectors combined, exclusively focused on the information security controls landscape in Luxembourg and its greater region.
 
 [**Take part**](https://survey.clusil.lu/) in our 1st bench mark. Time to complete: ± 15 mins
 
-#### **Information security controls - 1st edition**
+#### Information security controls - 1st edition
 
 With the support of 28 **CLUSIL** members, a questionnaire addressing a large spectrum of categories of information security controls have been drafted and are now disseminated towards the community to get answers.
 

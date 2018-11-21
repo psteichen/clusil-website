@@ -20,10 +20,10 @@ When speaking about Blockchain security, one mainly thinks of integrity and priv
 * Hervé Hansen (Lawyer): “Smart Contracts and the Law”
 * Jean Lancrenon (Head of R&D, itrust consulting): “How Blockchain scalability solutions include security”
 
-#### When
+##### When
 
 November 9th, 2017
 
-#### Where
+##### Where
 
 Security made in Lëtzebuerg, HSBC building 2nd floor, 16 boulevard d’Avranches, Luxembourg

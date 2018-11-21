@@ -1,5 +1,5 @@
 ---
-title: Working Group BCMS
+title: WG-BCMS - session 2
 categories:
 - event
 date: 2018-10-10 15:30:00 +0000

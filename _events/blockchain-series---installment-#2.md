@@ -19,10 +19,10 @@ For the second event, we are pleased to welcome two speakers who have a solid ba
 Antoine DETANTE (Manager at InTech), “Security key points for blockchain based applications”  
 Frank ROESSIG (Head Financial Solutions at Telindus): "Securing BlockChain for the Application by the Financial Sector"
 
-#### When
+##### When
 
 Wednesday, 5th April 2017 starting at 17:30
 
-#### Where
+##### Where
 
 SnT – 29, avenue J.F. Kennedy - L-1855 Luxembourg-Kirchberg

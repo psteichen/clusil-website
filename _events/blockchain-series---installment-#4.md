@@ -19,10 +19,10 @@ The fourth session provides an insight on two specific aspects of Blockchain. Th
 * Sergei Tikhomirov (CryptoLUX group, SnT, University of Luxembourg): “Security challenges in Ethereum smart contract programming”
 * Laurent de la Vaissière (Director, Deloitte Luxembourg) and Ismaël Cissé (Senior Manager, Deloitte Luxembourg): “Blockchain: A Cybersecurity perspective”
 
-#### When
+##### When
 
 September 7th, 2017
 
-#### Where
+##### Where
 
-SnT Campus Kirchberg, 6 Rue Richard Coudenhove-Kalergi, L-1359 Luxembourg-Kirchberg
+SnT Campus Kirchberg | 6 Rue Richard Coudenhove-Kalergi | L-1359 Luxembourg-Kirchberg

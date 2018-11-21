@@ -23,7 +23,7 @@ More information will follow soon
 
 ##### Place
 
-Security made in Lëtzebuerg | 16 bd. d'Avranches | L-1160 Luxembourg
+Security made in Lëtzebuerg, 16 boulevard d'Avranches, L-1160 Luxembourg
 
 ##### Registration
 

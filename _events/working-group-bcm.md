@@ -11,6 +11,7 @@ sponsors: ''
 link: ''
 
 ---
+
 **CLUSIL** is pleased to announce you once again the creation of a working group dedicated to **Business Continuity Management** (BCM) by Werner ANSORGE.
 
 #### Goal

@@ -11,7 +11,6 @@ sponsors: ''
 link: ''
 
 ---
-
 **CLUSIL** is pleased to announce you once again the creation of a working group dedicated to **Business Continuity Management** (BCM) by Werner ANSORGE.
 
 #### Goal
@@ -36,7 +35,7 @@ As well, during the first working session, you can express your interest in supp
 
 #### Time
 
-The WG starts at 17:30 till 19:00
+The session starts at 17:30 till 19:00
 
 #### Place
 

@@ -49,6 +49,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/working-group-bcm.md
 - _events/survey-benchmark-of-information-security-controls.md
 - _events/blockchain-series---installment-#5.md
 - _events/database-security-and-big-data.md

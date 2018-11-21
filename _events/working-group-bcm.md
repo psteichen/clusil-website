@@ -29,18 +29,18 @@ During the first working session, we will define together the topics of interest
    
 As well, during the first working session, you can express your interest in supporting Werner as co-leader for this new working group.
 
-#### When
+##### When
 
 12 September 2018
 
-#### Time
+##### Time
 
 The session starts at 17:30 till 19:00
 
-#### Place
+##### Place
 
-Security made in Lëtzebuerg, 16 bd d’Avranches | L-1160 Luxembourg 
+Security made in Lëtzebuerg, 16 bd d’Avranches | L-1160 Luxembourg
 
-#### Registration
+##### Registration
 
 Before Tuesday 11 September 2018 noon to [email](mailto:margot.hartman@securitymadein.lu)

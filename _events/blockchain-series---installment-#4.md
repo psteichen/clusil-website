@@ -25,4 +25,4 @@ September 7th, 2017
 
 ##### Where
 
-SnT Campus Kirchberg | 6 Rue Richard Coudenhove-Kalergi | L-1359 Luxembourg-Kirchberg
+SnT Campus Kirchberg, 6 Rue Richard Coudenhove-Kalergi, L-1359 Luxembourg-Kirchberg

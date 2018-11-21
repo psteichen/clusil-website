@@ -1,7 +1,7 @@
 ---
 title: Database Security and Big Data
-date: 2017-06-07 13:51:00 +0200
-teaser: A joint CLUSIL-ISACA even)
+date: 2017-06-07 11:51:00 +0000
+teaser: A joint CLUSIL-ISACA event
 startime: '17:30'
 endtime: '19:00'
 tags: []
@@ -10,7 +10,7 @@ sponsors: SnT
 link: www.snt.lu
 
 ---
-CLUSIL and ISACA are honoured to invite you for a conference in the context of the new GDPR! Database Security and Big Data are an important element within data privacy. The conference will give you the opportunity to get hands-on information on database security and big data with international recognized experts. Topics that will be covered are:
+**CLUSIL** and **ISACA** are honoured to invite you for a conference in the context of the new GDPR! Database Security and Big Data are an important element within data privacy. The conference will give you the opportunity to get hands-on information on database security and big data with international recognized experts. Topics that will be covered are:
 
 #### Database Security
 

@@ -14,7 +14,6 @@ sponsors: ''
 link: ''
 
 ---
-
 During the first session, the following was decided:
 
 * Address questions on BIA
@@ -34,4 +33,4 @@ Security made in Lëtzebuerg | 16, bd d'Avranches | L-1160 Luxembourg
 
 #### Registration
 
-via [email]() before 9 October noon
+via [email](mailto:margot.hartman@securitymadein.lu) before 9 October noon

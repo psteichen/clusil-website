@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain series - Installment #5'
-date: 2017-11-09 13:57:00 +0100
+date: 2017-11-09 12:57:00 +0000
 teaser: 'The CLUSIL series of conferences on Blockchain security aims at surveying
   current status of Blockchain security, focusing on sector-specific and national
   initiatives. '
@@ -23,8 +23,8 @@ When speaking about Blockchain security, one mainly thinks of integrity and priv
 
 #### When
 
-November 9th
+November 9th, 2017
 
 #### Where
 
-Security made in Lëtzebuerg, HSBC building 2nd floor, 16 boulevard d’Avranches, Luxembourg 
+Security made in Lëtzebuerg, HSBC building 2nd floor, 16 boulevard d’Avranches, Luxembourg

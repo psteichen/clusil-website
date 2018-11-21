@@ -19,18 +19,18 @@ During the first session, the following was decided:
 * Address questions on BIA
 * Create a fictive company, to exercise the creation of DRPs/BCPs, BIA realization (final extend of scope to be defined during the next session)
 
-#### When
+##### When
 
 10 October 2018
 
-#### Time
+##### Time
 
 The meeting will start at 17:30 till 19:00
 
-#### Place
+##### Place
 
 Security made in Lëtzebuerg | 16, bd d'Avranches | L-1160 Luxembourg
 
-#### Registration
+##### Registration
 
 via [email](mailto:margot.hartman@securitymadein.lu) before 9 October noon

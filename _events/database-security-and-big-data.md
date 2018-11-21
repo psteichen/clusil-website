@@ -33,7 +33,7 @@ link: www.snt.lu
 
 ##### When
 
-June 7th - conference starts at 17:30
+June 7th, 2017 - conference starts at 17:30
 
 ##### Where
 

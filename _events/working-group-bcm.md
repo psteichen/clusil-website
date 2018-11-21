@@ -13,7 +13,7 @@ link: ''
 ---
 **CLUSIL** is pleased to announce you once again the creation of a working group dedicated to **Business Continuity Management** (BCM) by Werner ANSORGE.
 
-#### Goal 
+#### Goal
 
 The goal of the working group could be among others to:
 
@@ -23,7 +23,7 @@ The goal of the working group could be among others to:
 * How to organise DRP and BCP tests
 * How to carry out a Business Impact Analysis
 
-With the **final goal** to create supporting material for all of us to ease our life as BCM managers.  
+With the **final goal** to create supporting material for all of us to ease our lives as BCM managers.  
    
 During the first working session, we will define together the topics of interests for the next coming months, and which deliverable we would like to create together.  
    

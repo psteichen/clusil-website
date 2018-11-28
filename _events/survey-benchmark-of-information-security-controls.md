@@ -25,4 +25,4 @@ We encourage you to fill out or forward this invitation to your company’s (Chi
 
 **5** respondents, _chosen randomly_, will win a **one-year CLUSIL membership** (see conditions at the end of the survey)
 
-**We would be pleased if you can answer the questionnaire by the 30/11/2018.**
+**We would be pleased if you can answer the questionnaire by the 30/12//2018.**

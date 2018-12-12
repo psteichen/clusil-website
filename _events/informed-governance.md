@@ -13,7 +13,7 @@ published: false
 ---
 The first event of 2019 with be a joint event with **ISACA**. Join us to a stunning evening with **François THILL**, Director Information Security, Ministry of the Economy, Luxembourg.
 
-##### **Agenda**
+##### Agenda
 
 17:45 – Registration on site  
 18:15 – Welcome by **Roland Bastin**, ISACA president  
@@ -22,7 +22,7 @@ The first event of 2019 with be a joint event with **ISACA**. Join us to a stunn
 18:30 – **Keynote on Informed Governance by François Thill**  
 The conference is followed by a networking cocktail.
 
-##### **Registration**: [here](https://www.eventbrite.co.uk/e/informed-governance-tickets-53472652142?mc_eid=%5BUNIQID%5D&mc_cid=81cbf68902)
+##### Registration: [here](https://www.eventbrite.co.uk/e/informed-governance-tickets-53472652142?mc_eid=%5BUNIQID%5D&mc_cid=81cbf68902)
 
 **Setting the scene**  
 Quote: "On 8th May 2018, Luxembourg presented its 3rd National Cybersecurity Strategy. The challenge: to provide an environment conducive to digital development, while ensuring maximum security for all stakeholders.  

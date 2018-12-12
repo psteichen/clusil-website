@@ -39,4 +39,10 @@ The conference is free of charge for ISACA and CLUSIL members, our partner asso
 
 Note: No-show will be invoiced 25€
 
- 
+##### When**:** 
+
+17/01/2019
+
+##### Where**:**
+
+ Pâtisserie Namur, 2 rue de Bitburg, L-1273 Luxembourg-Hamm

@@ -8,7 +8,6 @@ tags: []
 location: Pâtisserie Namur, 2 rue de Bitburg, L-1273 Luxembourg-Hamm
 sponsors: ISACA.lu
 link: https://www.eventbrite.co.uk/e/informed-governance-a-joint-clusil-isaca-event-tickets-53472652142?mc_eid=%5BUNIQID%5D&mc_cid=81cbf68902
-published: false
 
 ---
 The first event of 2019 with be a joint event with **ISACA**. Join us to a stunning evening with **François THILL**, Director Information Security, Ministry of the Economy, Luxembourg.

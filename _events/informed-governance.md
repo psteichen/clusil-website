@@ -35,8 +35,8 @@ After 10 years of IT experience in international banking, Francois joined the M
    
 Furthermore, François Thill represents Luxembourg on the management board of the European Network and Information Security Agency (ENISA) since 2003; he is member of the board of LuxTrust, chair of the board of [Securitymadein.lu](https://securitymadein.lu/ "SecurityMadeIn.lu"), member of the Luxembourg Cyber Security Board, and an alternate member of the Data Protection Authority in Luxembourg.  
    
-The conference is free of charge for ISACA and CLUSIL members, our partner associations as well as anyone interested in the topic.   
-   
- NO-SHOWS WIL BE INVOICED 25,00€
+The conference is free of charge for ISACA and CLUSIL members, our partner associations as well as anyone interested in the topic. 
+
+Note: No-show will be invoiced 25€
 
  

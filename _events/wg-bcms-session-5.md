@@ -12,3 +12,20 @@ link: ''
 published: false
 
 ---
+......
+
+##### When: 
+
+13/02/2019
+
+##### Time:
+
+17:30 - 19:00
+
+##### Where:
+
+Security made in Lëtzebuerg, 16 boulevard d’Avranches, L-1160 Luxembourg
+
+##### Registration: 
+
+Before Tuesday 12/02/2019 noon by [email]()

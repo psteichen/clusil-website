@@ -5,7 +5,8 @@ teaser: The working group dedicated to Business Continuity Management (BCMS) is 
 date: 2019-02-13 17:30:00 +0100
 startime: '17:30'
 endtime: '19:00'
-tags: []
+tags:
+- featured
 location: Security made in Lëtzebuerg, 16 boulevard d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

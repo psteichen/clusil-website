@@ -13,9 +13,9 @@ link: ''
 published: false
 
 ---
-......
+The first WG-BCMS meeting of 2019. Join us to continue the discussions.....
 
-##### When: 
+##### When:
 
 13/02/2019
 
@@ -27,6 +27,6 @@ published: false
 
 Security made in Lëtzebuerg, 16 boulevard d’Avranches, L-1160 Luxembourg
 
-##### Registration: 
+##### Registration:
 
 Before Tuesday 12/02/2019 noon by [email]()

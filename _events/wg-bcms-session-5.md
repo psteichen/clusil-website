@@ -10,7 +10,6 @@ tags:
 location: Security made in Lëtzebuerg, 16 boulevard d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 The first WG-BCMS meeting of 2019. Join us to continue the discussions.....

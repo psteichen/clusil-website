@@ -8,7 +8,6 @@ tags: []
 location: Bar Banana's, 9 Avenue Monterey, L-2163 Luxembourg
 sponsors: CERT.lu, CIRCL et Excellium
 link: https://www.eventbrite.fr/e/billets-after-work-decouverte-des-metiers-de-la-cybersecurite-55221694575
-published: false
 
 ---
 Sous l'initiative [CERT.lu](http://CERT.lu), [CIRCL](https://www.circl.lu/ "CIRCL") et Excellium, un workshop est organisé pour expliquer le travail d’un CERT sous une image neutre afin d'avoir plus de visibilité sur ces métiers.

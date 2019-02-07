@@ -20,8 +20,8 @@ Cette session est un rendez-vous privilégié vous permettant de :
 * Rencontrer nos équipes CSIRT et découvrir leur métier au quotidien
 * Découvrir les différentes formations du secteur
 * Parler de vos expériences et de vos projets futurs
-* Échanger avec vos pairs  
-     
-  Si tu es étudiant, nous t'invitons à partager un workshop de mise en situation "Comment s'opère une investigation informatique" **le 9 mars** durant l'événement Game of Code ([http://www.gameofcode.eu/](http://www.gameofcode.eu/ "http://www.gameofcode.eu/"))
+* Échanger avec vos pairs
+
+Si tu es étudiant, nous t'invitons à partager un workshop de mise en situation "Comment s'opère une investigation informatique" **le 9 mars** durant l'événement Game of Code ([http://www.gameofcode.eu/](http://www.gameofcode.eu/ "http://www.gameofcode.eu/"))
 
 Register [here](https://www.eventbrite.fr/e/billets-after-work-decouverte-des-metiers-de-la-cybersecurite-55221694575 "Afterwork")

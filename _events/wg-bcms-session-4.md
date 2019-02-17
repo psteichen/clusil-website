@@ -11,7 +11,8 @@ sponsors: ''
 link: ''
 
 ---
-More information will follow soon
+We will continue the discussion around the topic BIA.  
+In addition we continue to exchange experiences, of organizing and realizing a table top exercise on DRP BCP Tests.
 
 ##### When
 

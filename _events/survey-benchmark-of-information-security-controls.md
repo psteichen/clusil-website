@@ -1,11 +1,10 @@
 ---
 title: Survey - Benchmark of Information Security Controls
-date: 2018-11-30 12:00:00 +0100
+date: 2018-12-30 12:00:00 +0100
 teaser: The 1st edition of the only benchmark made by the experts for the experts.
 startime: ''
-endtime: ''
-tags:
-- featured
+endtime: '23:59'
+tags: []
 location: ''
 sponsors: ''
 link: https://survey.clusil.lu/
@@ -25,4 +24,8 @@ We encourage you to fill out or forward this invitation to your company’s (Chi
 
 **5** respondents, _chosen randomly_, will win a **one-year CLUSIL membership** (see conditions at the end of the survey)
 
+<<<<<<< HEAD
 **We would be pleased if you can answer the questionnaire by the 30/11/2018.**
+=======
+**We would be pleased if you can answer the questionnaire by the 30/12/2018.**
+>>>>>>> 20a06642dfc7982d3f0922af7fb46baca1f201c6

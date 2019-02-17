@@ -2,13 +2,6 @@
 title: Team
 intro: Most active and board members
 members:
-- name: Jean GOETZINGER
-  title: Head of Risk Prevention Section at BCL
-  function: Honorary President
-  photo: "/assets/img/jeanGoetzinger2.jpeg"
-  social:
-    tw: jgoetzin
-    ln: jean-goetzinger-8425679
 - name: Pascal STEICHEN
   title: CEO at SECURITYMADEIN.LU
   function: President
@@ -16,6 +9,15 @@ members:
   social:
     tw: _pst
     ln: psteichen
+    gh: 
+    fb: 
+- name: Cédric MAUNY
+  title: Senior Manager of Cybersecurity at Telindus Luxembourg
+  function: Vice-president
+  photo: "/assets/img/cedricMauny.jpg"
+  social:
+    tw: S_Team_Approved
+    ln: cedricmauny
     gh: 
     fb: 
 - name: Yves DE PRIL
@@ -36,6 +38,13 @@ members:
     ln: rtaban
     gh: 
     fb: 
+- name: Jean GOETZINGER
+  title: Head of Risk Prevention Section at BCL
+  function: Honorary President
+  photo: "/assets/img/jeanGoetzinger2.jpeg"
+  social:
+    tw: jgoetzin
+    ln: jean-goetzinger-8425679
 - name: Werner ANSORGE
   title: Business Continuity Manager at Telindus
   function: Board member
@@ -43,15 +52,6 @@ members:
   social:
     tw: 
     ln: 
-    gh: 
-    fb: 
-- name: Cédric MAUNY
-  title: Senior Manager of Cybersecurity at Telindus Luxembourg
-  function: Vice-president
-  photo: "/assets/img/cedricMauny.jpg"
-  social:
-    tw: S_Team_Approved
-    ln: cedricmauny
     gh: 
     fb: 
 - name: Steve MÜLLER

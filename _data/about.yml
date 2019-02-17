@@ -9,9 +9,8 @@ features:
   left:
   - title: Collaboration
     icon: flask
-    desc: Private collaboration platforms, such as Atlassian Confluence and Seafile,
-      are made available on-demand to members to create, share, and collaborate all
-      in one place.
+    desc: Private collaboration platforms are made available on-demand to members
+      to create, share, and collaborate all in one place.
   - title: Networking
     icon: glass
     desc: CLUSIL events are usually followed by a networking cocktail. This is THE

@@ -21,7 +21,7 @@
               <!-- Title -->
               <h4 class="card-title">{{ p.title }}</h4>
               <!-- Text -->
-              <p class="card-text">{{ p.description }}</p>
+              <p class="card-text">{{ p.description | markdownify }}</p>
               <!-- Button -->
               <a href="{{ p.url }}" class="btn btn-primary">View</a>
             </div>

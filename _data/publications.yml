@@ -1,9 +1,9 @@
 ---
 title: Publications
-intro: 'CLUSIL Security Sheets : publications about security technologies, concepts
+intro: 'CLUSIL Security Sheets (CSS): publications about security technologies, concepts
   or practices.'
 publications:
-- title: Blockchain Security Infographic
+- title: CSS on blockchain
   description: A 4-pager sheet about security in and about the blockchain
   thumb: "/assets/img/DCBDFA77-AB6B-46ED-AE2F-E60E5D7BAC63.jpeg"
   url: "/assets/img/Blockhain%20Infographic%20copy.pdf"

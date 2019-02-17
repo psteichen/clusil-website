@@ -6,7 +6,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
                 
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="#home">
         <img alt="clusil logo" src="/assets/img/logo.png" class="d-inline-block align-top" style="width: 7em;">
       </a>
                 
@@ -14,7 +14,7 @@
         <ul class="navbar-nav mr-auto smooth-scroll">
           {% for n in site.data.header.navigation %}
           <li class="nav-item">
-            <a class="nav-link waves-effect waves-light" href="{{ n.url }}">{{ n.title }}</a>
+            <a class="nav-link waves-effect waves-light" href="{{ n.url }}">{{ n.title|safe }}</a>
           </li>
           {% endfor %}
         </ul>

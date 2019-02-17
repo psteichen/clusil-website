@@ -1,13 +1,16 @@
 <div class="container pt-4" id="events">
   <section class="section">
     <!--Section heading-->
-    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Events</h1>
+    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Events & Activities</h1>
                 
     <div class="row wow fadeIn" data-wow-delay="0.4s">
       <div class="col-md-2">
+
+      {% assign events =  site.events | reverse %}
+
       <!-- Nav tabs -->
         <ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">
-          {% for d in site.events reversed %}
+          {% for d in events limit:7 %}
           <li class="nav-item waves-effect waves-light">
             <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
           </li>
@@ -17,7 +20,7 @@
       <div class="col-md-10">
         <!-- Tab panels -->
         <div class="tab-content vertical">
-          {% for e in site.events reversed %}
+          {% for e in events limit:7 %}
           <!-- Panel -->
           <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">
             <h2 class="feature-title">{{ e.title }}</h2>

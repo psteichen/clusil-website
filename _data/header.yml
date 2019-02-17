@@ -1,21 +1,17 @@
 ---
 navigation:
-- url: '#home'
-  title: Home
 - url: '#events'
-  title: Events
+  title: Events & Activities
+- url: '#pubs'
+  title: Publications
 - url: '#about'
   title: About
-- url: '#partners'
-  title: Partners
-- url: '#statistics'
-  title: Statistics
 - url: '#team'
   title: Team
 - url: '#contact'
   title: Contact
 - url: '#join-us'
-  title: Join Us
+  title: <b class="text-danger"><i>Join Us</i></b>
 social:
   tw: clusil_lu
   ln: groups/3852540

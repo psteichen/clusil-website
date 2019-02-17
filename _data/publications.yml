@@ -1,0 +1,21 @@
+---
+title: Security Sheets
+intro: |-
+  Publications about security technologies, concepts or practices.
+publications:
+- title: Blockchain Security
+  description: A 2-pager sheet about security in and about the blockchain
+  thumb: "/assets/img/cpsi.jpg"
+  url: "/assets/media/blockchain.pdf"
+- title: Blockchain Security
+  description: A 2-pager sheet about security in and about the blockchain
+  thumb: "/assets/img/cpsi.jpg"
+  url: "/assets/media/blockchain.pdf"
+- title: Blockchain Security
+  description: A 2-pager sheet about security in and about the blockchain
+  thumb: "/assets/img/cpsi.jpg"
+  url: "/assets/media/blockchain.pdf"
+- title: Blockchain Security
+  description: A 2-pager sheet about security in and about the blockchain
+  thumb: "/assets/img/cpsi.jpg"
+  url: "/assets/media/blockchain.pdf"

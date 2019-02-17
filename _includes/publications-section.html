@@ -1,0 +1,36 @@
+<div class="container-fluid pt-6 dark lighten-1" id="pubs">
+  <div class="container">
+            
+    <!--Heading-->
+    <div class="text-center">
+      <h1 class="mb-1 wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ site.data.publications.title }}</h1>
+      <h3 class="mb-4 wow fadeIn" data-wow-delay="0.2s">{{ site.data.publications.intro | markdownify }}</h3>
+    </div>
+            
+    <!--Items wrapper-->
+    <div class="mb-2 flex-center">  
+      <div class="row mb-3 wow fadeIn flex-center" data-wow-delay="0.4s">
+        {% for p in site.data.publications.publications %}
+        <div class="col-md-4">
+          <!-- Card -->
+          <div class="card wider">
+            <!-- Card image -->
+            <img class="card-img-top" src="{{ p.thumb  }}">
+
+            <!-- Card content -->
+            <div class="card-body">
+              <!-- Title -->
+              <h4 class="card-title"><a>{{ p.title }}</a></h4>
+              <!-- Text -->
+              <p class="card-text">{{ p.description }}</p>
+              <!-- Button -->
+              <a href="{{ p.url }}" class="btn btn-primary">View</a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div> 
+  </div>
+</div>
+

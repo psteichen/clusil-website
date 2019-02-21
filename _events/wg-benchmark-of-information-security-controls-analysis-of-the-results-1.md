@@ -1,6 +1,6 @@
 ---
-title: WG-Benchmark of Information Security Controls - Analysis of the results
-teaser: A total of 42 participants completed the survey...
+title: WG-Benchmark - Session 1
+teaser: A total of 42 participants completed the survey and now the analysis starts.
 date: 2019-03-12 12:00:00 +0100
 startime: '12:00'
 endtime: '14:00'

@@ -1,5 +1,5 @@
 ---
-title: WG-Benchmark - Session 1
+title: WG-Benchmark - Session 2
 teaser: A total of 42 participants completed the survey and now the analysis starts.
 date: 2019-03-12 12:00:00 +0100
 startime: '12:00'

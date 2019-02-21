@@ -9,7 +9,6 @@ tags:
 location: C3, 16 bd d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 CLUSIL welcomes you to take part in the analysis of the results of the Benchmark.  

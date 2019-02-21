@@ -49,8 +49,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _events/wg-benchmark-of-information-security-controls-analysis-of-the-results.md
 - _events/wg-benchmark-of-information-security-controls-analysis-of-the-results-1.md
+- _events/wg-benchmark-of-information-security-controls-analysis-of-the-results.md
 - _events/20-years-of-clusil.md
 - _events/blockchain-series---installment-#3.md
 - _events/blockchain-series---installment-#1.md

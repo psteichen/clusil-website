@@ -4,8 +4,7 @@ teaser: A total of 42 participants completed the survey and now the analysis sta
 date: 2019-03-12 12:00:00 +0100
 startime: '12:00'
 endtime: '14:00'
-tags:
-- featured
+tags: []
 location: C3, 16 bd d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

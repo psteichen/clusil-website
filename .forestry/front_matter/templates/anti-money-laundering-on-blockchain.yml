@@ -48,6 +48,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/wg-bcms-session-6.md
 - _events/wg-benchmark-of-information-security-controls-analysis-of-the-results.md
 - _events/wg-benchmark-of-information-security-controls-analysis-of-the-results-1.md
 - _events/survey-benchmark-of-information-security-controls.md

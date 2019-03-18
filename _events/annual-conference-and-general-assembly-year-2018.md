@@ -16,11 +16,11 @@ This year’s Annual Conference and Ordinary General Assembly (fiscal year 2018)
 
 ##### Program:
 
-* Welcome address by Grégory Nou (CISO-of-the-year 2018)
-* Presentation of first results of the first Benchmark on Information Security Controls by Cédric Mauny
-* Presentation of the WG Business Continuity Management System by Werner Ansorge
-* Ordinary General Assembly - fiscal year 2018
-* Closing address by Pascal Steichen
-* Networking Cocktail
+* - Welcome address by Grégory Nou (CISO-of-the-year 2018)
+* - Presentation of the first results of the first Benchmark on Information Security Controls by Cédric Mauny
+* - Presentation of the WG Business Continuity Management System by Werner Ansorge
+* - Ordinary General Assembly - fiscal year 2018
+* - Closing address by Pascal Steichen
+* - Networking Cocktail
 
 We hope to have you with us at the Annual Conference and General Assembly. To register, please send an email to [CLUSIL](mailto:secgen@clusil.lu).

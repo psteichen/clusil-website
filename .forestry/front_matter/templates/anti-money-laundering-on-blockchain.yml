@@ -48,6 +48,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/annual-conference-and-general-assembly-year-2018.md
 - _events/wg-benchmark-of-information-security-controls-analysis-of-the-results-1.md
 - _events/general-assembly-ago-year-2018.md
 - _events/wg-bcms-session-6.md

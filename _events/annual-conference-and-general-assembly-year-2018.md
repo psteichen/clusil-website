@@ -9,7 +9,6 @@ tags:
 location: BGL-BNP Paribas (KRONOS building), 50 avenue JF Kennedy, L-2951 LUXEMBOURG
 sponsors: ''
 link: ''
-published: false
 
 ---
 This year’s Annual Conference and Ordinary General Assembly (fiscal year 2018) will be held on Wednesday, 27 March, 2019 at the BGL-BNP Paribas (KRONOS Building), 50 avenue J.F. Kennedy, L-1855 Luxembourg, starting at 5:30 PM.

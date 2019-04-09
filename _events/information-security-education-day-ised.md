@@ -14,15 +14,15 @@ link: ''
 ---
 **Programme ISED 2019**
 
-* -9:00 Welcome and opening, 
+* -9:00 Welcome and opening,
 
   **_Yves le Traon_**_, Professor, University of Luxembourg_
 
   **_Nicolas Mayer_**_, Senior R&T Associate at IT for Innovative Services (ITIS), LIST_
-* -9:15 Machine learning in a nutshell, 
+* -9:15 Machine learning in a nutshell,
 
   **_Tégawendé Bissyandé_**_, Research Scientist, University of Luxembourg_
-* -9:45 Artificial intelligence in banks: business opportunities and security compliance: the case of BGL. 
+* -9:45 Artificial intelligence in banks: business opportunities and security compliance: the case of BGL.
 
   **_Anne Goujon_**_, Director of Data Science Lab, BGL BNP Paribas: the business innovation's viewpoint_
 
@@ -37,7 +37,7 @@ link: ''
 
   **_Jean-Yves Mathieu_**_, CISO_
 * -12:15 Lunch
-* -13:30 New technologies – buzzwords or true CISO helpers? 
+* -13:30 New technologies – buzzwords or true CISO helpers?
 
   **_Emanuel Tanase_**_, Global CISO, Lombard International_
 * -14:15 AI for Cybersecurity: separating the wheat from the chaff
@@ -45,7 +45,7 @@ link: ''
   **Tewfik Toum**, Principal Advisor, Technology & Business Services, IBM
 * -15:00 Coffee break
 * -15:15 Panel discussion_  
-   Moderator: **Pascal Steichen**, CEO, SECURITYMADEIN.LU_
+  Moderator: **Pascal Steichen**, CEO, SECURITYMADEIN.LU_
 * -15:45 Closing
 
-\- See more at: [https://ised.uni.lu/index.php?page=programme#sthash.YyIKmaYF.dpuf](https://ised.uni.lu/index.php?page=programme#sthash.YyIKmaYF.dpuf "https://ised.uni.lu/index.php?page=programme#sthash.YyIKmaYF.dpuf")
+\- See more at: [https://ised.uni.lu/](https://ised.uni.lu/ "https://ised.uni.lu/")

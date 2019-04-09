@@ -13,7 +13,7 @@ sponsors: ''
 link: ''
 
 ---
-**Programme ISED 2019**
+##### **Programme ISED 2019**
 
 * -9:00 Welcome and opening,
 
@@ -48,5 +48,11 @@ link: ''
 * -15:15 Panel discussion_  
   Moderator: **Pascal Steichen**, CEO, SECURITYMADEIN.LU_
 * -15:45 Closing
+
+##### **Practical information:**
+
+* **Date:** Friday, 10 May 2019
+* **Time:** 9:00 to 16:00
+* **Location:** [Belval Campus](http://wwwfr.uni.lu/contact/campus_de_belval "Belval Campus"), Maison du Savoir, room 3.040 (3rd floor), 2, avenue de l'Université, L-4365 Esch-sur-Alzette
 
 \- See more at: [https://ised.uni.lu/](https://ised.uni.lu/ "https://ised.uni.lu/")

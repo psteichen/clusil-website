@@ -29,8 +29,12 @@ published: false
 
   **_David Hagen_**_, Head of IT Supervision and Support PSF, CSSF: the regulator’s viewpoint_
 * -11:00 Coffee break
-* -11:15 Challenge for a big company to adopt AI (Artificial intelligence – Machine learning) vs traditional tools, **_Luc Cottin_**_, CISO, Alter Domus_
-* -11:45 Signed, sealed, delivered… digitally - the legal value of digital exchanges, **_Jean-Yves Mathieu_**_, CISO_
+* -11:15 Challenge for a big company to adopt AI (Artificial intelligence – Machine learning) vs traditional tools
+
+  **_Luc Cottin_**_, CISO, Alter Domus_
+* -11:45 Signed, sealed, delivered… digitally - the legal value of digital exchanges
+
+  **_Jean-Yves Mathieu_**_, CISO_
 * -12:15 Lunch
 * -13:30 New technologies – buzzwords or true CISO helpers?  **_Emanuel Tanase_**_, Global CISO, Lombard International_
 * -14:15 AI for Cybersecurity: separating the wheat from the chaff   

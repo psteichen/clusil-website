@@ -28,4 +28,4 @@ C3, 16 boulevard d’Avranches, L-1160 Luxembourg
 
 ##### Registration:
 
-Before Tuesday 07/05/2019 noon by [email](mailto:secgen@clusil.lu)
+By [email](mailto:secgen@clusil.lu) before Tuesday May 7, 2019, noon.

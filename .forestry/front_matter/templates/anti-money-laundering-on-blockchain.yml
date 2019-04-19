@@ -48,6 +48,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/wg-bcms-session-12.md
 - _events/wg-bcms-session-11.md
 - _events/wg-bcms-session-10.md
 - _events/wg-bcms-session-9.md

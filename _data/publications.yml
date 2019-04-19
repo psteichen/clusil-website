@@ -4,11 +4,8 @@ intro: Publications about security technologies, concepts or practices, so calle
   **CLUSIL Security Sheets (CSS)**
 publications:
 - title: " A new wind flows @ CLUSIL"
-  description: CLUSIL is an ASBL composed of professionals in the field of cyber-/information
-    security. After eight years as President of the association, Jean Goetzinger shall
-    step down from his role in January 2019. We spoke with him to learn more about
-    current cybersecurity issues, as well as CLUSIL’s past achievements and future
-    endeavors.
+  description: 'CLUSIL is an ASBL composed of professionals in the field of cyber-/information
+    security. '
   thumb: ''
   url: "/assets/img/Silicon_JGO interview_FIC2019.pdf"
 - title: Blockchain

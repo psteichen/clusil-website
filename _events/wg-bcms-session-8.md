@@ -13,3 +13,20 @@ link: ''
 published: false
 
 ---
+Session 8 of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
+
+##### When:
+
+12/06/2019
+
+##### Time:
+
+17:30 - 19:00
+
+##### Where:
+
+C3, 16 boulevard d’Avranches, L-1160 Luxembourg
+
+##### Registration:
+
+By [email](mailto:secgen@clusil.lu) before Tuesday June 11, 2019, noon.

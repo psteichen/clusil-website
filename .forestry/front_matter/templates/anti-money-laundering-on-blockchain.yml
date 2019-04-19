@@ -48,6 +48,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/wg-bcms-session-9.md
 - _events/wg-bcms-session-8.md
 - _events/wg-bcms-session-7.md
 - _events/information-security-education-day-ised.md

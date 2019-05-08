@@ -48,13 +48,13 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/information-security-education-day-ised.md
 - _events/wg-bcms-session-7.md
 - _events/wg-bcms-session-12.md
 - _events/wg-bcms-session-11.md
 - _events/wg-bcms-session-10.md
 - _events/wg-bcms-session-9.md
 - _events/wg-bcms-session-8.md
-- _events/information-security-education-day-ised.md
 - _events/annual-conference-and-general-assembly-year-2018.md
 - _events/wg-benchmark-of-information-security-controls-analysis-of-the-results-1.md
 - _events/wg-bcms-session-6.md

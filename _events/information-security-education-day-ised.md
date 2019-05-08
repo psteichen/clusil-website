@@ -7,21 +7,23 @@ startime: '09:00'
 endtime: '16:00'
 tags:
 - featured
-location: University of Luxembourg, on Belval Campus
+location: Belval Campus, Maison du Savoir, room 3.040 (3rd floor), 2, avenue de l'Université,
+  L-4365 Esch-sur-Alzette
 sponsors: ''
-link: https://ised.uni.lu/
-published: false
+link: ''
 
 ---
-**Programme ISED 2019**
+##### **Programme ISED 2019**
 
-* -9:00 Welcome and opening, 
+* -9:00 Welcome and opening,
 
   **_Yves le Traon_**_, Professor, University of Luxembourg_
 
   **_Nicolas Mayer_**_, Senior R&T Associate at IT for Innovative Services (ITIS), LIST_
-* -9:15 Machine learning in a nutshell, **_Tégawendé Bissyandé_**_, Research Scientist, University of Luxembourg_
-* -9:45 Artificial intelligence in banks: business opportunities and security compliance: the case of BGL. 
+* -9:15 Machine learning in a nutshell,
+
+  **_Tégawendé Bissyandé_**_, Research Scientist, University of Luxembourg_
+* -9:45 Artificial intelligence in banks: business opportunities and security compliance: the case of BGL.
 
   **_Anne Goujon_**_, Director of Data Science Lab, BGL BNP Paribas: the business innovation's viewpoint_
 
@@ -36,12 +38,21 @@ published: false
 
   **_Jean-Yves Mathieu_**_, CISO_
 * -12:15 Lunch
-* -13:30 New technologies – buzzwords or true CISO helpers?  **_Emanuel Tanase_**_, Global CISO, Lombard International_
-* -14:15 AI for Cybersecurity: separating the wheat from the chaff   
-   **Tewfik Toum**, Principal Advisor, Technology & Business Services, IBM
+* -13:30 New technologies – buzzwords or true CISO helpers?
+
+  **_Emanuel Tanase_**_, Global CISO, Lombard International_
+* -14:15 AI for Cybersecurity: separating the wheat from the chaff
+
+  **Tewfik Toum**, Principal Advisor, Technology & Business Services, IBM
 * -15:00 Coffee break
 * -15:15 Panel discussion_  
-   Moderator: **Pascal Steichen**, CEO, SECURITYMADEIN.LU_
+  Moderator: **Bertrand Lathoud**, SECURITYMADEIN.LU
 * -15:45 Closing
 
-\- See more at: [https://ised.uni.lu/index.php?page=programme#sthash.YyIKmaYF.dpuf](https://ised.uni.lu/index.php?page=programme#sthash.YyIKmaYF.dpuf "https://ised.uni.lu/index.php?page=programme#sthash.YyIKmaYF.dpuf")
+##### **Practical information:**
+
+* **Date:** Friday, 10 May 2019
+* **Time:** 9:00 to 16:00
+* **Location:** [Belval Campus](http://wwwfr.uni.lu/contact/campus_de_belval "Belval Campus"), Maison du Savoir, room 3.040 (3rd floor), 2, avenue de l'Université, L-4365 Esch-sur-Alzette
+
+\- See more at: [https://ised.uni.lu/](https://ised.uni.lu/ "https://ised.uni.lu/")

@@ -5,8 +5,7 @@ teaser: 'Theme 2019: New challenges for CISO: Artificial intelligence, emerging 
 date: 2019-05-10 09:00:00 +0200
 startime: '09:00'
 endtime: '16:00'
-tags:
-- featured
+tags: []
 location: Belval Campus, Maison du Savoir, room 3.040 (3rd floor), 2, avenue de l'Université,
   L-4365 Esch-sur-Alzette
 sponsors: ''

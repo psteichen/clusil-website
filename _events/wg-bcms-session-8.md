@@ -12,7 +12,14 @@ sponsors: ''
 link: ''
 
 ---
-**Session 8** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
+**Session 8** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. 
+
+During this session we would like to discuss with you your Business Cases, which can give answers to following questions:
+
+* - How can we measure the benefit by Risk Management / Business Continuity / Disaster Recovery?
+* - What is the Business Case (Benefit) and how could this be illustrated? 
+* - Are there synergies with other disciplines when showing the benefit? 
+* - What is the BCAW (Business Continuity Awareness Week)? What can be learned during this week?
 
 ##### When:
 

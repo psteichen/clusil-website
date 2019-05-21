@@ -12,8 +12,6 @@ sponsors: ''
 link: ''
 
 ---
-**Session 8** of the WG-BCMS.
-
 During this session we would like to discuss with you your Business Cases, which can give answers to following questions:
 
 * -How can we measure the benefit by Risk Management / Business Continuity / Disaster Recovery?

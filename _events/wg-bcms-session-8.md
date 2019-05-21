@@ -12,7 +12,7 @@ sponsors: ''
 link: ''
 
 ---
-**Session 8** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general.
+**Session 8** of the WG-BCMS.
 
 During this session we would like to discuss with you your Business Cases, which can give answers to following questions:
 

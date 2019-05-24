@@ -3,6 +3,11 @@ title: Publications
 intro: Publications about security technologies, concepts or practices, so called
   **CLUSIL Security Sheets (CSS)**
 publications:
+- title: Le CLUSIL s'ouvre au travers de sa nouvelle présidence
+  description: Après 8 ans à la tête du CLUSIL, Jean Goetzinger passe le relais à
+    Pascal Steichen
+  thumb: ''
+  url: ''
 - title: " A new wind flows @ CLUSIL"
   description: 'CLUSIL is an ASBL composed of professionals in the field of cyber-/information
     security. '

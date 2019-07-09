@@ -1,18 +1,17 @@
 ---
-title: WG-BCMS - Session 10
+title: WG-BCMS - Session 11
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
 date: 2019-10-09 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
-tags:
-- featured
+tags: []
 location: C3, 16 boulevard d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
 
 ---
-**Session 10** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
+**Session 11** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
 
 ##### When:
 

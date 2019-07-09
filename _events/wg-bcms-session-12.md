@@ -1,5 +1,5 @@
 ---
-title: WG-BCMS - Session 12
+title: WG-BCMS - Session 13
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
 date: 2019-12-11 17:30:00 +0100
@@ -12,7 +12,7 @@ link: ''
 published: false
 
 ---
-**Session 12** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
+**Session 13** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
 
 ##### When:
 

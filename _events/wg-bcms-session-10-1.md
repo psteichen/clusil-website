@@ -12,7 +12,13 @@ sponsors: ''
 link: ''
 
 ---
-**Session 10** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
+**Session 10** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. 
+
+How BCM can fit into an effective incident and crisis management process?
+
+* - Provide guidance and enforce awareness on the existing Crisis Management Processes?
+* - Keep all stakeholders up-to-date about their roles and duties during an incident?
+* - More…. Let’s discuss
 
 ##### When:
 

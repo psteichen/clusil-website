@@ -48,8 +48,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _events/wg-da-digital-alliance-clusil-3-0-kickoff-meeting.md
 - _events/wg-bcms-session-10-1.md
+- _events/wg-da-digital-alliance-clusil-3-0-kickoff-meeting.md
 - _events/wg-bcms-session-12.md
 - _events/wg-bcms-session-8.md
 - _events/annual-conference-and-general-assembly-year-2018.md

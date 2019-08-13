@@ -13,7 +13,7 @@ link: ''
 published: false
 
 ---
-###### Kickoff meeting of the WG-Digital Alliance (DA). The objective of this WG is to fine-tune and work on the LDA paper, presented to the Prime Minister, with the goal to define clear messages and/or requests to address to the different competent ministers that we will meet in the near future.
+Kickoff meeting of the WG-Digital Alliance (DA). The objective of this WG is to fine-tune and work on the LDA paper, presented to the Prime Minister, with the goal to define clear messages and/or requests to address to the different competent ministers that we will meet in the near future.
 
 ##### When:
 
@@ -21,7 +21,7 @@ September 11, 2019
 
 ##### Time:
 
-starts at 12:00 till 14:00 (sandwiches and beverages will be provided)
+starts at 12:00 till 14:00 (sandwiches and beverages will be provided )
 
 ##### Place:
 

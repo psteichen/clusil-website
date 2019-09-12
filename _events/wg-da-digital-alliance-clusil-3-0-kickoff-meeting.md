@@ -5,8 +5,7 @@ teaser: You are a cybersecurity professional, we need you to shape the common fu
 date: 2019-09-11 12:00:00 +0200
 startime: '12:00'
 endtime: '14:00'
-tags:
-- featured
+tags: []
 location: Cybersecurity Competence Center (C3), 16, bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

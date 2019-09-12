@@ -48,6 +48,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _events/wg-bcms-session-10.md
 - _events/wg-da-digital-alliance-clusil-3-0-kickoff-meeting.md
 - _events/wg-bcms-session-10-1.md
 - _events/wg-bcms-session-12.md
@@ -63,7 +64,6 @@ pages:
 - _events/information-security-education-day-ised.md
 - _events/wg-bcms-session-7.md
 - _events/wg-bcms-session-11.md
-- _events/wg-bcms-session-10.md
 - _events/wg-benchmark-of-information-security-controls-analysis-of-the-results-1.md
 - _events/afterwork.md
 - _events/informed-governance.md

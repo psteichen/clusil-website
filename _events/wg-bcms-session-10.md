@@ -2,7 +2,7 @@
 title: WG-BCMS - Session 11
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
-date: 2019-10-09 17:30:00 +0200
+date: 2019-10-16 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
 tags:
@@ -18,7 +18,7 @@ More information will follow soon
 
 ##### When:
 
-09/10/2019
+16/10/2019
 
 ##### Time:
 
@@ -30,4 +30,6 @@ C3, 16 boulevard d’Avranches, L-1160 Luxembourg
 
 ##### Registration:
 
-By [email](mailto:secgen@clusil.lu) before Tuesday October 8, 2019, noon.
+By [email](mailto:secgen@clusil.lu) before Tuesday October 15, 2019, noon.
+
+![](/assets/img/Banner-cwsl-600x100.png)

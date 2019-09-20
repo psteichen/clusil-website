@@ -14,7 +14,14 @@ link: ''
 ---
 **Session 11** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
 
-More information will follow soon
+What do you understood under an effective incident and crisis management process?
+
+* - How to facilitate the co-ordinated and rapid reaction to an incident or disaster in a controlled and effective manner?
+* - How to ensure that the affected services, processes and resources are resumed within the associated recovery time objective?
+* - How to integrate also decision taking on non-mission critical activities under the crisis management process?
+* - And as usual
+  * o How can people be “programmed” to support?
+  * o How can we influence behavior & interest?
 
 ##### When:
 

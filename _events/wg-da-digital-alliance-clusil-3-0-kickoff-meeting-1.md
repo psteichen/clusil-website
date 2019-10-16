@@ -14,7 +14,7 @@ link: ''
 ---
 2nd Session of the **WG-Digital Alliance (DA)**. The objective of this WG is to fine-tune and work on the LDA paper, presented to the Prime Minister, with the goal to define clear messages and/or requests to address to the different competent ministers that we will meet in the near future.
 
-One (1) of the recommendations to our government was the following: recognition of the function of **CISO** as a vital function to the survival of the company. Like the DPO function that is established by the GDPR, the function of CISO could become the focal point of Cybersecurity defense in companies.
+One (1) of the recommendations to our government was the following: **recognition of the function of CISO** as a vital function to the survival of the company. Like the DPO function that is established by the GDPR, the function of CISO could become the focal point of Cybersecurity defense in companies.
 
 ##### When:
 

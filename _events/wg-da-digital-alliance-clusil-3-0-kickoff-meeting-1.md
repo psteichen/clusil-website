@@ -29,3 +29,5 @@ starts at 12:30 till 14:00 (sandwiches and beverages will be provided )
 Cybersecurity Competence Center | c/o Security made in Lëtzebuerg, 16 bd d’Avranches | L-1160 Luxembourg
 
 Registration:  per [email](mailto:secgen@clusil.lu) before October 17, noon. A confirmation email will be sent with further details upon registration.
+
+![](/assets/img/Banner-cwsl-600x100.png)

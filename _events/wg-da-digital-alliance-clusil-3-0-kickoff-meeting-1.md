@@ -1,9 +1,9 @@
 ---
-title: WG-DA (Digital Alliance) CLUSIL 3.0 kickoff meeting
+title: WG-DA (Digital Alliance) CLUSIL 3.0 - session 2
 teaser: You are a cybersecurity professional, we need you to shape the common future
   and address the challenges lying ahead.
-date: 2019-09-11 12:00:00 +0200
-startime: '12:00'
+date: 2019-10-18 12:30:00 +0200
+startime: '12:30'
 endtime: '14:00'
 tags: []
 location: Cybersecurity Competence Center (C3), 16, bd d'Avranches, L-1160 Luxembourg

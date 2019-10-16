@@ -10,7 +10,6 @@ tags:
 location: Cybersecurity Competence Center (C3), 16, bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 2nd Session of the **WG-Digital Alliance (DA)**. The objective of this WG is to fine-tune and work on the LDA paper, presented to the Prime Minister, with the goal to define clear messages and/or requests to address to the different competent ministers that we will meet in the near future.

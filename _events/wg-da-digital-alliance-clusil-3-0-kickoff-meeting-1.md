@@ -16,6 +16,10 @@ link: ''
 
 One (1) of the recommendations to our government was the following: **recognition of the function of CISO** as a vital function to the survival of the company. Like the DPO function that is established by the GDPR, the function of CISO could become the focal point of Cybersecurity defense in companies.
 
+##### Who:
+
+THis session is for CISO only
+
 ##### When:
 
 October 18, 2019

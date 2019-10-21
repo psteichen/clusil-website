@@ -17,10 +17,10 @@ published: false
 
 The main discussion topics for this session are:
 
-* -Third party related BCM tests
+* -**Third party related BCM tests**
 * o How are companies involving third parties (service providers, etc.) to carry out BCP and DRP tests?
 * o How are third parties (service providers, etc.) carrying out BCP and DRP tests with their customers?
-* -ISO 22301:2019
+* -**ISO 22301:2019**
 * o Discussion about changes from ISO 22301:2012 to ISO 22301:2019
 * o How do you follow this standard and what have you already implemented?
 

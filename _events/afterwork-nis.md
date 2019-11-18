@@ -19,7 +19,7 @@ La directive **NIS** a été adoptée par les institutions européennes le 6 jui
 Cette Directive a été transposée en Loi luxembourgeoise le 28 mai 2019 et donne à l’ILR le mandat d’organiser les différents secteurs concernés pour répondre aux exigences de la Loi.  
 Outre les Opérateurs de Services Essentiels qui sont directement contactés par l’ILR, la Loi définit les Fournisseurs de Services Numériques : place de marché en ligne, moteur de recherche en ligne et service informatique en nuage.
 
-Nous vous proposons un **Afterwork dédié aux Fournisseurs de Services Numériques** : l’application de la NIS à leurs activités, les exigences et le mode opératoire et leur apport aux Opérateurs de Services Essentiels, en particulier:
+Nous vous proposons un **Afterwork dédié aux Fournisseurs de Services Numériques** : l’application de la NIS à leurs activités, les exigences et le mode opératoire et leur apport aux **Opérateurs de Services Essentiels**, en particulier:
 
 * • La gestion des risques (Art. 11. (1) de la loi du 28 mai 2019)
 * • La mise en œuvre de mesures de sécurité (prévention des incidents et la continuité de service ) (Art. 11. (2) de la loi du 28 mai 2019)
@@ -32,7 +32,7 @@ Le tout dans le cadre du Règlement d’exécution (UE) 2018/151 portant sur :
 * • Suivi, audit et contrôle
 * • Documentation
 
-Le **CLUSIL** a été invité début octobre 2019 par l’ILR à une session d’information et nous souhaitons vous relayer ce qui a été dit à cette occasion, répondre à vos interrogations et collecter vos questions pour les adresser à l’ILR pour avoir plus de précision. Les éléments liés à l’intégration de la CSSF pour les Fournisseurs de Services Numériques concernés seront également adressés.
+Le **CLUSIL** a été invité début octobre 2019 par l’ILR à une session d’information et nous souhaitons vous relayer ce qui a été dit à cette occasion, répondre à vos interrogations et collecter vos questions pour les adresser à l’ILR pour avoir plus de précision. **Les éléments liés à l’intégration de la CSSF pour les Fournisseurs de Services Numériques concernés seront également adressés**.
 
 **Agenda Afterwork:**
 

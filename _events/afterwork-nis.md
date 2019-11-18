@@ -11,7 +11,6 @@ tags:
 location: Cybersecurity Competence Center (C3) - 16, bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 La directive **NIS** a été adoptée par les institutions européennes le 6 juillet 2016.

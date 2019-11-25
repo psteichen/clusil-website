@@ -14,6 +14,16 @@ published: false
 ---
 **Session 13** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
 
+Main discussion topic for this session is:
+
+* * ISO 22301:2019
+
+
+* o Discussion about changes from ISO 22301:2012 to ISO 22301:2019
+
+
+* o How do you follow this standard and what have you already implemented?
+
 ##### When:
 
 11/12/2019

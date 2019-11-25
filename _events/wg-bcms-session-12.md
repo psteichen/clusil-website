@@ -9,7 +9,6 @@ tags: []
 location: C3, 16 boulevard d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 **Session 13** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..

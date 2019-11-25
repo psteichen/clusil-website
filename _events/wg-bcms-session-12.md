@@ -13,7 +13,7 @@ link: ''
 ---
 **Session 13** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
 
-Main discussion topics for this session are:
+Main discussion topic for this session is:
 
 * 
   * ISO 22301:2019

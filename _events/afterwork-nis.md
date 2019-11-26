@@ -31,7 +31,7 @@ Le tout dans le cadre du Règlement d’exécution (UE) 2018/151 portant sur :
 * • Suivi, audit et contrôle
 * • Documentation
 
-Le **CLUSIL** a été invité début octobre 2019 par l’ILR à une session d’information et nous souhaitons vous relayer ce qui a été dit à cette occasion, répondre à vos interrogations et collecter vos questions pour les adresser à l’ILR pour avoir plus de précision. Les éléments liés à l’intégration de la CSSF pour les Fournisseurs de Services Numériques concernés seront également adressés.
+Le **CLUSIL** a été invité début octobre 2019 par l’ILR à une session d’information et nous souhaitons vous relayer ce qui a été dit à cette occasion, répondre à vos interrogations et collecter vos questions pour les adresser à l’ILR pour avoir plus de précision. 
 
 **Agenda Afterwork:** _l'afterwork est en langue française_
 

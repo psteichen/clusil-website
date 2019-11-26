@@ -48,8 +48,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _events/wg-bcms-session-12.md
 - _events/afterwork-nis.md
+- _events/wg-bcms-session-12.md
 - _events/wg-bcms-session-11.md
 - _events/wg-da-digital-alliance-clusil-3-0-kickoff-meeting-1.md
 - _events/wg-bcms-session-10.md

@@ -49,6 +49,7 @@ fields:
   default: ''
 pages:
 - _events/wg-bcms-session-12.md
+- _events/wg-bcms-session-11.md
 - _events/wg-bcms-session-9.md
 - _events/afterwork-nis.md
 - _events/wg-bcms.md
@@ -76,4 +77,3 @@ pages:
 - _events/wg-bcms-session-6.md
 - _events/wg-bcms-session-8.md
 - _events/wg-bcms-session-10.md
-- _events/wg-bcms-session-11.md

@@ -6,8 +6,7 @@ teaser: 'La directive “Network and Information System Security” (NIS) poursu
 date: 2019-12-10 17:30:00 +0100
 startime: '17:30'
 endtime: '20:30'
-tags:
-- featured
+tags: []
 location: Cybersecurity Competence Center (C3) - 16, bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

@@ -50,8 +50,8 @@ members:
   function: Board member
   photo: "/assets/img/Screen Shot 2018-10-04 at 09.19.58.png"
   social:
-    tw: 
-    ln: 
+    tw: ''
+    ln: ''
     gh: 
     fb: 
 - name: Steve MÜLLER
@@ -59,7 +59,7 @@ members:
   function: Board member
   photo: "/assets/img/steveMuller.jpg"
   social:
-    tw: 
+    tw: ''
     ln: steve-muller-ab9150106
     gh: 
     fb: 
@@ -68,15 +68,10 @@ members:
   function: Assistant Secretary
   photo: "/assets/img/margot_hartman.jpeg"
   social:
-    tw: 
+    tw: ''
     ln: margot-hartman-051b6341
     gh: 
     fb: 
-- name: Ira DOYLE
-  title: Compliance Officer at Volkswagen Finance
-  function: Active member
-  social: ''
-  photo: "/assets/img/SCAN0016(1).jpg"
 - name: Thierry GRANDJEAN
   title: Research engineer at LIST
   function: Board member

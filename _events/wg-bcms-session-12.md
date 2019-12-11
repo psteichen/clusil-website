@@ -5,7 +5,8 @@ teaser: The working group dedicated to Business Continuity Management (BCMS) is 
 date: 2019-12-11 17:30:00 +0100
 startime: '17:30'
 endtime: '19:00'
-tags: []
+tags:
+- featured
 location: C3, 16 boulevard d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

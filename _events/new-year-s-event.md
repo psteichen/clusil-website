@@ -12,3 +12,19 @@ link: ''
 published: false
 
 ---
+Let's get together for our traditional networking cocktail. This is the moment to meet and share ideas for the new year. Come with your story, listen and create bonds.
+
+##### When:
+
+Thursday, January 23, 2020
+
+##### Place:
+
+LHoFT, 9 rue du Laboratoire, L-1911 Luxembourg
+
+##### Agenda:
+
+* - 17:30 registration
+* - 18:00 welcome
+
+More information will follow soon.

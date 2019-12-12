@@ -23,7 +23,11 @@ LHoFT, 9 rue du Laboratoire, L-1911 Luxembourg
 
 ##### Agenda:
 
-* - 17:30 registration
-* - 18:00 welcome
+* 
+  * 17:30 registration
+* 
+  * 18:00 welcome
 
 More information will follow soon.
+
+Registration via [email](mailto:secgen@clusil.lu) before Monday, January 20, 2020 noon.

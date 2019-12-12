@@ -5,14 +5,14 @@ date: 2020-01-23 17:30:00 +0100
 startime: '17:30'
 endtime: '21:00'
 tags:
-- Featured
+- featured
 location: LHoFT, 9 rue du Laboratoire, L-1911 Luxembourg
 sponsors: ''
 link: ''
 published: false
 
 ---
-Let's get together for our traditional networking cocktail. This is the moment to meet and share ideas for the new year. Come with your story, listen and create bonds.
+for our traditional networking cocktail. This is the moment to meet and share ideas for the new year. Come with your story, listen and create bonds.
 
 ##### When:
 

@@ -9,7 +9,6 @@ tags:
 location: LHoFT, 9 rue du Laboratoire, L-1911 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 for our traditional networking cocktail. This is the moment to meet and share ideas for the new year. Come with your story, listen and create bonds.

@@ -12,7 +12,7 @@ link: ''
 published: false
 
 ---
-**Session 14** of the WG-BCMS, addressed to all BCM managers and people interested in BCM in general. Join us to continue the discussions…..
+**Session 14** of the WG-BCMS. Join us to continue the discussions…..
 
 The main discussion topic for this session is:
 

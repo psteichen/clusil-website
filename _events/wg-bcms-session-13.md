@@ -12,11 +12,11 @@ link: ''
 published: false
 
 ---
-**Session 14** of the WG-BCMS. Join us to continue the discussions…..
+##### **Session 14**. Join us to continue the discussions…..
 
 The main discussion topic for this session is:
 
-* BCMS KPIs: How to measure the efficiency of the implemented BCMS
+* _BCMS KPIs: How to measure the efficiency of the implemented BCMS_
 
 ##### When:
 

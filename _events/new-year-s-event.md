@@ -23,15 +23,15 @@ LHoFT, 9 rue du Laboratoire, L-1911 Luxembourg
 
 ##### Agenda:
 
-17:30 Registration on site  
-18:00 Welcome by Pascal Steichen  
-18:10 Presentation CLUSIL activities 2019-2020  
-   - WG-BCMS (business continuity management)  
-   - LetzPwn (cybersecurity talent scouting)  
-18:30 Startup Pitching Session (in collaboration with LHoFT)  
-   - Cyberhedge - Dr Glenn Lawyer  
-   - Lingua Custodia  
-   - Tokeny Solutions - Luc Falempin  
-19:00 Networking cocktail
+* -17:30 Registration on site
+* -18:00 Welcome by Pascal Steichen
+* 18:10 Presentation CLUSIL activities 2019-2020  
+     - WG-BCMS (business continuity management)  
+     - LetzPwn (cybersecurity talent scouting)
+* -18:30 Startup Pitching Session (in collaboration with LHoFT)  
+     - Cyberhedge - Dr Glenn Lawyer  
+     - Lingua Custodia  
+     - Tokeny Solutions - Luc Falempin
+* -19:00 Networking cocktail
 
 Registration via [email](mailto:secgen@clusil.lu) before Monday, January 20, 2020 noon.

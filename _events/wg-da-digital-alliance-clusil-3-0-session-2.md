@@ -14,11 +14,15 @@ published: false
 ---
 L’objectif est de finaliser pour mai 2020 les travaux qui vont **définir les caractéristiques principales de la fonction CISO** et établir les jalons pour légaliser et réguler ce métier. Un premier rapport d’étape est envisagé pour être remis à la fin du premier trimestre 2020 autour des grands lignes directrices suivantes :  
 
-* Dénomination, Objectif, Rôle et Responsabilités
-* Statut et Positionnement au sein de l’entreprise
-* Lien avec les autres fonctions de contrôle et de gouvernance 
-* Expertise 
-* « Empowerement », Ethique et Contrôle de la fonction
+\-Dénomination, Objectif, Rôle et Responsabilités
+
+\-Statut et Positionnement au sein de l’entreprise
+
+\-Lien avec les autres fonctions de contrôle et de gouvernance 
+
+\-Expertise 
+
+\-« Empowerement », Ethique et Contrôle de la fonction
 
 **Cette session est réservée au CISO uniquement**
 

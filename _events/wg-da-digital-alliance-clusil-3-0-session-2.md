@@ -5,7 +5,8 @@ teaser: Working group pour définir les caractéristiques principales de la fonc
 date: 2020-02-13 17:30:00 +0100
 startime: '17:30'
 endtime: '19:00'
-tags: []
+tags:
+- featured
 location: Cybersecurity Competence Center (C3), 16, bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

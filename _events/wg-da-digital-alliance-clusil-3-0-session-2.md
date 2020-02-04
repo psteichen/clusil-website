@@ -9,7 +9,6 @@ tags: []
 location: Cybersecurity Competence Center (C3), 16, bd d'Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''
-published: false
 
 ---
 L’objectif est de finaliser pour mai 2020 les travaux qui vont **définir les caractéristiques principales de la fonction CISO** et établir les jalons pour légaliser et réguler ce métier. Un premier rapport d’étape est envisagé pour être remis à la fin du premier trimestre 2020 autour des grands lignes directrices suivantes :

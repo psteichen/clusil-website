@@ -12,7 +12,7 @@ link: ''
 published: false
 
 ---
-This year’s Annual Conference and Ordinary General Assembly (fiscal year 2019) will be held on Tuesday, 3 March, 2020 at the Alvisse Parc Hotel, 120 route d’Echternach, L-1453 Luxembourg-Dommeldange, starting at 5:30 PM.
+This year’s Ordinary General Assembly (fiscal year 2019) will be held on Tuesday, March 3, 2020 at the Alvisse Parc Hotel, 120 route d’Echternach, L-1453 Luxembourg-Dommeldange, starting at 5:30 PM.
 
 ##### Program:
 

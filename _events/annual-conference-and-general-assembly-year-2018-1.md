@@ -16,18 +16,18 @@ This year’s Annual Conference and Ordinary General Assembly (fiscal year 2019)
 
 ##### Program:
 
-* 1.	Welcome  
-* 2.	Presentation of the Management report by the board of directors 
-* 3.	Approval of the annual report 2019 
-* 4.	Presentation of the financial statements of 2019
-* 5.	Presentation of the report of Auditors 
-* 6.	Approval of the annual accounts of 2019 
-* 7.	Discharge of the Board 
-* 8.	Discharge of the Auditors 
-* 9.	Election of Administrators 
-* 10.	Nomination of the Auditors for the fiscal 2020 
-* 11.	Budget 2020 
-* 12.	Miscellaneous  
+* -1.	Welcome  
+* -2.	Presentation of the Management report by the board of directors 
+* -3.	Approval of the annual report 2019 
+* -4.	Presentation of the financial statements of 2019
+* -5.	Presentation of the report of Auditors 
+* -6.	Approval of the annual accounts of 2019 
+* -7.	Discharge of the Board 
+* -8.	Discharge of the Auditors 
+* -9.	Election of Administrators 
+* -10.	Nomination of the Auditors for the fiscal 2020 
+* -11.	Budget 2020 
+* -12.	Miscellaneous  
 
 Furthermore, we would like to inform you that the first edition of the **Luxembourg Security Summit** will be held on March 3rd and 4th, 2020 at the Alvisse Parc Hotel and registration is open. 
 

@@ -4,7 +4,8 @@ teaser: The annual event...
 date: 2020-03-03 17:30:00 +0100
 startime: '17:30'
 endtime: '19:30'
-tags: []
+tags:
+- featured
 location: Alvisse Parc Hotel, 120 route d’Echternach, L-1453 Luxembourg-Dommeldange
 sponsors: ''
 link: ''

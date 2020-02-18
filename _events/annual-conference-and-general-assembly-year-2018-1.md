@@ -31,6 +31,6 @@ This year’s Ordinary General Assembly (fiscal year 2019) will be held on Tuesd
 
 Furthermore, we would like to inform you that the first edition of the **Luxembourg Security Summit** will be held on March 3rd and 4th, 2020 at the Alvisse Parc Hotel and registration is open. 
 
-Further information, **agenda and registration via the link** [http://luxembourg-security-summit.evenium.net](http://luxembourg-security-summit.evenium.net "http://luxembourg-security-summit.evenium.net") (Free Access for this first edition.
+**More information on the LSS, the agenda and registration via the link** [http://luxembourg-security-summit.evenium.net](http://luxembourg-security-summit.evenium.net "http://luxembourg-security-summit.evenium.net") (Free Access for this first edition.
 
 We hope to have you with us at the General Assembly.

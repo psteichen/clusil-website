@@ -14,9 +14,7 @@ link: ''
 ---
 ##### **Session 15**: Join us to continue the discussions…..
 
-No session in March, the next session is scheduled for April 8, 2020.
-
-###### More information will follow soon.:
+Pandemic - _Pandemic plan and measurements, what we should take in to consideration_
 
 ##### When:
 

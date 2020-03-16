@@ -13,6 +13,8 @@ sponsors: ''
 link: ''
 
 ---
+![](/assets/img/Screen Shot 2020-03-16 at 15.52.55.png)
+
 ##### **Session 15**: Join us to continue the discussions…..
 
 Pandemic - _Pandemic plan and measurements, what we should take in to consideration_

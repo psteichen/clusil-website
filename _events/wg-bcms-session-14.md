@@ -4,8 +4,7 @@ teaser: POSTPONED UNTIL FURTHER NOTICE
 date: 2020-04-08 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
-tags:
-- featured
+tags: []
 location: C3, 16 boulevard d’Avranches, L-1160 Luxembourg
 sponsors: ''
 link: ''

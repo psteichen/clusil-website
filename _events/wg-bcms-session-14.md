@@ -1,6 +1,7 @@
 ---
 title: WG-BCMS - Session 15
-teaser: POSTPONED UNTIL FURTHER NOTICE
+teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
+  to all BCM managers and people interested in BCM in general.
 date: 2020-06-10 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'

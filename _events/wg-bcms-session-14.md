@@ -1,7 +1,7 @@
 ---
 title: WG-BCMS - Session 15
 teaser: POSTPONED UNTIL FURTHER NOTICE
-date: 2020-04-08 17:30:00 +0200
+date: 2020-06-10 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
 tags: []
@@ -10,15 +10,15 @@ sponsors: ''
 link: ''
 
 ---
-![](/assets/img/Screen Shot 2020-03-16 at 15.52.55.png "Postponed")
+##### **Session 15**: 
 
-##### **Session 15**: Join us to continue the discussions…..
-
-Pandemic - _Pandemic plan and measurements, what we should take in to consideration_
+The main discussion topics for this session are:  
+\- Experience exchange of the current Covid-19 situation  
+\- How to organize a collaboration for creating a BCMS KPI deliverable.
 
 ##### When:
 
-08/04/2020
+10/06/2020
 
 ##### Time:
 
@@ -26,8 +26,8 @@ Pandemic - _Pandemic plan and measurements, what we should take in to considerat
 
 ##### Where:
 
-C3, 16 boulevard d’Avranches, L-1160 Luxembourg
+Virtual
 
 ##### Registration:
 
-By [email](mailto:secgen@clusil.lu) before Tuesday April 7, 2020, noon.
+By [email](mailto:secgen@clusil.lu) before Tuesday June 9, 2020, noon. The link for the meeting will be sent on Tuesday afternoon to all regsitered participants.

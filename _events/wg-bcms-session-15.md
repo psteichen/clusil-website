@@ -5,8 +5,7 @@ teaser: The working group dedicated to Business Continuity Management (BCMS) is 
 date: 2020-09-09 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
-tags:
-- featured
+tags: []
 location: ''
 sponsors: ''
 link: ''

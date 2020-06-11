@@ -9,7 +9,6 @@ tags: []
 location: ''
 sponsors: ''
 link: ''
-published: false
 
 ---
 ![](/assets/img/banner-ciso-survey_bat.png)

@@ -8,7 +8,7 @@ endtime: ''
 tags: []
 location: ''
 sponsors: ''
-link: http://survey.pwc.lu/efm/itw/answer/s/iofl5nito7/k/Out_of_the_shadows_CISOs_in_the_spotlight_2020
+link: ''
 published: false
 
 ---

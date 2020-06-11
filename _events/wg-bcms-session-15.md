@@ -28,8 +28,8 @@ The discussion topics will be added soon.
 
 ##### Where:
 
-This needs to be confirmed.
+Either at C3 or as virtual meeting
 
 ##### Registration:
 
-By [email](mailto:secgen@clusil.lu) before Tuesday September 8, 2020, noon. The link for the meeting will be sent on Tuesday afternoon to all regsitered participants.
+By [email](mailto:secgen@clusil.lu) before Tuesday September 8, 2020, noon. The information for the meeting will be sent on Tuesday afternoon to all regsitered participants.

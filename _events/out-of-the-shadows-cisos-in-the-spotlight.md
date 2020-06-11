@@ -2,7 +2,7 @@
 title: "“Out of the shadows: CISOs in the spotlight!” "
 teaser: CLUSIL and PwC Luxembourg are happy to launch the third edition of the only
   survey dedicated to CISOs / ISOs in Luxembourg
-date: 
+date: 2020-06-12 09:00:00 +0200
 startime: ''
 endtime: ''
 tags: []

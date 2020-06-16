@@ -9,7 +9,6 @@ tags: []
 location: Paris - France
 sponsors: ''
 link: https://clusif.fr/conferences/conferences-mips2020/
-published: false
 
 ---
 ![](/assets/img/logo_clusif_blanc.jpg)

@@ -20,7 +20,7 @@ Cet événement sera présenté par **Lionel Mourer** (Manika, administrateur du
 
 Cette année, les différents volets de l’étude seront restitués au cours de trois courtes web-conférences:  
 _– Entreprises de plus de 100 salariés : le 25 juin 2020 de 15h à 16h,_  
-**– Collectivités territoriales : le 30 juin 2020 de 15h à 16h,**_  
-– Internautes : le 7 juillet 2020 de 15h à 16h._
+**– Collectivités territoriales : le 30 juin 2020 de 15h à 16h,**  
+– Internautes : le 7 juillet 2020 de 15h à 16h.
 
 Pour plus d'information et les modalités d'inscription, veuillez consulter le site de [CLUSIF]()

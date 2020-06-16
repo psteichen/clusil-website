@@ -11,7 +11,6 @@ sponsors: ''
 link: https://clusif.fr/conferences/conferences-mips2020/
 
 ---
-![](/assets/img/logo_clusif_blanc.jpg)
 
 Le **CLUSIF** (l’association de référence de la sécurité du numérique en France) a le plaisir de vous inviter à sa présentation des résultats de l’étude Menaces Informatiques et Pratiques de sécurité (**MIPS**), l’enquête de référence sur les pratiques de cybersécurité en France.
 
@@ -23,3 +22,5 @@ _– Collectivités territoriales : le 30 juin 2020 de 15h à 16h,_
 **– Internautes : le 7 juillet 2020 de 15h à 16h**.
 
 Pour plus d'information et les modalités d'inscription, veuillez consulter le site de [CLUSIF]()
+
+![](/assets/img/logo_clusif_blanc.jpg)

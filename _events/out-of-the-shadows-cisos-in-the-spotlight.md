@@ -5,8 +5,7 @@ teaser: CLUSIL and PwC Luxembourg are happy to launch the third edition of the o
 date: 2020-07-03 09:00:00 +0200
 startime: ''
 endtime: ''
-tags:
-- featured
+tags: []
 location: ''
 sponsors: ''
 link: ''

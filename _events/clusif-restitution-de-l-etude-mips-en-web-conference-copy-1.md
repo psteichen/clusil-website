@@ -5,7 +5,8 @@ teaser: Menaces Informatiques et Pratiques de sécurité (MIPS) est l’enquête
 date: 2020-07-07 15:00:00 +0200
 startime: '15:00'
 endtime: '16:00'
-tags: []
+tags:
+- featured
 location: Paris - France
 sponsors: ''
 link: https://clusif.fr/conferences/conferences-mips2020/

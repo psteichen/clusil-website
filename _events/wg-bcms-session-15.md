@@ -5,7 +5,8 @@ teaser: The working group dedicated to Business Continuity Management (BCMS) is 
 date: 2020-09-09 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
-tags: []
+tags:
+- featured
 location: ''
 sponsors: ''
 link: ''
@@ -19,7 +20,7 @@ The discussion topics will be added soon.
 
 ##### When:
 
-09/09/2020
+Thursday 10/09/2020
 
 ##### Time:
 
@@ -31,4 +32,4 @@ Either at C3 or as virtual meeting
 
 ##### Registration:
 
-By [email](mailto:secgen@clusil.lu) before Tuesday September 8, 2020, noon. The information for the meeting will be sent on Tuesday afternoon to all regsitered participants.
+By [email](mailto:secgen@clusil.lu) before Wednesday September 9, 2020, noon. The information for the meeting will be sent on Wednesday afternoon to all registered participants.

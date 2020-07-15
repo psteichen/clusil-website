@@ -2,7 +2,7 @@
 title: WG-BCMS - Session 16
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
-date: 2020-09-09 17:30:00 +0200
+date: 2020-09-10 17:30:00 +0200
 startime: '17:30'
 endtime: '19:00'
 tags:

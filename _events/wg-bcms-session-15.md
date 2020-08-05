@@ -14,9 +14,7 @@ link: ''
 ---
 ##### **Session 16**:
 
-....Let's continue the discussion where we left of in June.
-
-The discussion topics will be added soon.
+As it will be our first physical meeting since March 2020 due to the COVID-19 crisis, let's discuss together and collect new topics of interest and, at the same time, discuss how to proceed for the next sessions (video conference, physical meeting and location).
 
 ##### When:
 

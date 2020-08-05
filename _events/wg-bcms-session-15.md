@@ -26,7 +26,7 @@ Thursday 10/09/2020
 
 ##### Where:
 
-Either at C3 or as virtual meeting
+Brasserie l'[Avenue](https://www.lavenue.lu/), Kirchberg
 
 ##### Registration:
 

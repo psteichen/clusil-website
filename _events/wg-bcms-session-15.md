@@ -30,4 +30,4 @@ Either at C3 or as virtual meeting
 
 ##### Registration:
 
-By [email](mailto:secgen@clusil.lu) before Wednesday September 9, 2020, noon. The information for the meeting will be sent on Wednesday afternoon to all registered participants.
+By [email](mailto:secgen@clusil.lu) before Wednesday September 9, 2020, noon. The final confirmation with information for the meeting will be sent on Wednesday afternoon to all registered participants.

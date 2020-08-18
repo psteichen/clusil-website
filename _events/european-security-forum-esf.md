@@ -9,7 +9,6 @@ tags: []
 location: 100% digital
 sponsors: ''
 link: https://www.europeansecurityforum.com/
-published: false
 
 ---
 ![](/assets/img/website_600x300.jpg)Due to the developments of the Covid-19, the Luxembourg government imposes to make the event 100% digital. A redefined edition of European Security Forum (formerly known as Information Security Day, or ISD), will be organized on 15​ & 16​ September 2020 online.

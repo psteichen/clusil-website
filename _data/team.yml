@@ -38,13 +38,6 @@ members:
     ln: rtaban
     gh: 
     fb: 
-- name: Jean GOETZINGER
-  title: Head of Risk Prevention Section at BCL
-  function: Honorary President
-  photo: "/assets/img/jeanGoetzinger2.jpeg"
-  social:
-    tw: jgoetzin
-    ln: jean-goetzinger-8425679
 - name: Werner ANSORGE
   title: Business Continuity Manager at Telindus
   function: Board member
@@ -52,15 +45,6 @@ members:
   social:
     tw: ''
     ln: ''
-    gh: 
-    fb: 
-- name: Margot HARTMAN
-  title: Administrative Assistant at SECURITYMADEIN.LU
-  function: Assistant Secretary
-  photo: "/assets/img/margot_hartman.jpeg"
-  social:
-    tw: ''
-    ln: margot-hartman-051b6341
     gh: 
     fb: 
 - name: Thierry GRANDJEAN
@@ -72,3 +56,19 @@ members:
     ln: thierrygrandjean
     gh: 
     fb: 
+- name: Margot HARTMAN
+  title: Administrative Assistant at SECURITYMADEIN.LU
+  function: Assistant Secretary
+  photo: "/assets/img/margot_hartman.jpeg"
+  social:
+    tw: ''
+    ln: margot-hartman-051b6341
+    gh: 
+    fb: 
+- name: Jean GOETZINGER
+  title: Head of Risk Prevention Section at BCL
+  function: Honorary President
+  photo: "/assets/img/jeanGoetzinger2.jpeg"
+  social:
+    tw: jgoetzin
+    ln: jean-goetzinger-8425679

@@ -21,7 +21,7 @@ Stay tuned for more information.
 
 ##### When:
 
-Wednesday 11/11/2020
+11/11/2020
 
 ##### Time:
 

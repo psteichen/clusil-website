@@ -15,7 +15,7 @@ published: false
 ---
 ##### **Session 17**:
 
-After the first physical meeting since March 2020 due to the COVID-19 crisis, we discussed and came up with new topics of interest.
+After the first physical meeting in September, the next session is planned for November.
 
 Stay tuned for more information.
 

@@ -18,7 +18,7 @@ published: false
 
 The **CISO Corner** will offer information security experts the chance to gain technical updates, discover promising cybersecurity solutions and attend interactive workshops and you will also benefit from international renowned speakers who will focus on cybersecurity challenges they are facing in today's sophisticated digital world.
 
-###### Agenda CISO Corner Workshops
+###### [Agenda](https://www.pwc.lu/en/cybersecurityday/docs/agenda-2020-ciso.pdf) CISO Corner Workshops
 
 **_Workshop 2:_** Insights of the “Out of the shadows: CISOs in the spotlight!” survey, 2020 edition, **Maxime Pallez**, Cybersecurity Manager, PwC Luxembourg
 

@@ -11,7 +11,6 @@ tags:
 location: ''
 sponsors: ''
 link: https://www.pwc.lu/en/advisory/digital-tech-impact/cyber-security/cybersecurityday/event-programme/ciso-corner.html
-published: false
 
 ---
 ![](/assets/img/banner-ciso-survey_bat.png)The survey was launched in June 2020. The Insights of the “Out of the shadows: CISOs in the spotlight!” survey, 2020 edition will be presented during the PWC Cybersecurity Days **CISO Corner** on Tuesday, October 27, 2020, starting at 4 PM.

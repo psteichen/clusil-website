@@ -17,3 +17,9 @@ published: false
 ![](/assets/img/banner-ciso-survey_bat.png)The survey was launched in June 2020. The Insights of the “Out of the shadows: CISOs in the spotlight!” survey, 2020 edition will be presented during the PWC Cybersecurity Days **CISO Corner** on Tuesday, October 27, 2020, starting at 4 PM.
 
 The **CISO Corner** will offer information security experts the chance to gain technical updates, discover promising cybersecurity solutions and attend interactive workshops and you will also benefit from international renowned speakers who will focus on cybersecurity challenges they are facing in today's sophisticated digital world.
+
+###### Agenda CISO Corner Workshops
+
+**_Workshop 2:_** Insights of the “Out of the shadows: CISOs in the spotlight!” survey, 2020 edition, **Maxime Pallez**, Cybersecurity Manager, PwC Luxembourg
+
+![](/assets/img/banner-ecsm.png)

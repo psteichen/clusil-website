@@ -8,7 +8,8 @@ endtime: '19:00'
 tags: []
 location: ''
 sponsors: ''
-link: https://www.clusil.lu/#panel1
+link: ''
+published: false
 
 ---
 ##### **Session 17**:

@@ -10,7 +10,7 @@ tags:
 - featured
 location: ''
 sponsors: ''
-link: https://www.clusil.lu/#panel1
+link: https://www.clusil.lu/#panel2
 
 ---
 ![](/assets/img/banner-ciso-survey_bat.png)

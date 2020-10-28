@@ -9,7 +9,7 @@ endtime: '16:50'
 tags: []
 location: ''
 sponsors: ''
-link: https://www.clusil.lu/#panel1
+link: ''
 
 ---
 ![](/assets/img/banner-ciso-survey_bat.png)

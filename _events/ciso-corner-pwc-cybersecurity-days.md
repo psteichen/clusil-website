@@ -6,8 +6,7 @@ teaser: 'Presentation of the results of the third edition of the only survey ded
 date: 2020-10-27 16:00:00 +0100
 startime: '16:00'
 endtime: '16:50'
-tags:
-- featured
+tags: []
 location: ''
 sponsors: ''
 link: https://www.clusil.lu/#panel1

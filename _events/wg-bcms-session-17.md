@@ -14,9 +14,15 @@ link: https://www.clusil.lu/#panel1
 ---
 ##### **Session 17**:
 
-After the first physical meeting in September, the next session is planned for November. 
+After our physical meeting in September this session will, unfortunately, be a virtual one due to the current sanitary restrictions.
 
-Stay tuned for more information.
+The main discussion topics are
+
+\- Business Continuity requirements for underlying ICT systems to stay operational in case of disaster.
+
+\- Open discussion, how to identify, manage and test the depeding ICT systems.
+
+Furthermore, we will again exchange lessons learned and what we experienced during the last weeks
 
 ##### When:
 
@@ -28,4 +34,4 @@ Stay tuned for more information.
 
 ##### Registration:
 
-By [email](mailto:secgen@clusil.lu) before Tuesday 10, 2020, noon. The final confirmation with information for the meeting will be sent on Tuesday afternoon to all registered participants.
+By [email](mailto:secgen@clusil.lu) before Tuesday 10, 2020, noon. The final confirmation with access information for the meeting will be sent on Tuesday afternoon to all registered participants.

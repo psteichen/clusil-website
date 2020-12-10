@@ -17,7 +17,7 @@ published: false
 
 The first working group meeting of 2021 is scheduled in March.
 
-For information will follow soon
+More information will follow soon
 
 ##### When:
 

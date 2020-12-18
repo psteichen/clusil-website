@@ -5,11 +5,10 @@ teaser: The working group dedicated to Business Continuity Management (BCMS) is 
 date: 2020-11-11 17:30:00 +0100
 startime: '17:30'
 endtime: '19:00'
-tags:
-- featured
+tags: []
 location: ''
 sponsors: ''
-link: https://www.clusil.lu/#panel1
+link: ''
 
 ---
 ##### **Session 17**:

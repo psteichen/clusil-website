@@ -13,22 +13,21 @@ link: https://www.clusil.lu/#panel1
 published: false
 
 ---
-Kick-off session for the new working group on IoT and 5G.
+**Kick-off session** for the new working group on IoT and 5G.
 
 This session will be organized as part of the [Safer Internet Days](https://www.saferinternetday.org/), which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide.
 
 ##### Agenda:
 
-* 
-  * Part 1 (20 min): 5G Fundamental Presentation - Technical behaviour compare to previous technologies.
+* -Part 1 (20 min): 5G Fundamental Presentation - Technical behaviour compare to previous technologies.
 * Speaker: Vahid Joroughi
 * Q&A (10 min)
 * 
-  * Part 2 (20 min): Challenges and applications for Luxembourg
+* -Part 2 (20 min): Challenges and applications for Luxembourg
 * Speaker: Sébastien Faye
 * Q&A (10 min)
 * 
-  * Part 3 (20 min): Security Related Topic
+* -Part 3 (20 min): Security Related Topic
 * Speaker: Thierry Grandjean
 * Q&A (10 min)
 

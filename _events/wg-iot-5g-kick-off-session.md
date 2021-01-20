@@ -44,4 +44,4 @@ The session will start at 5:30 PM
 
 Per email to [secgen@clusil.lu](mailto:secgen@clusil.lu) by Monday 08/02/2021 noon at the latest. The link to join the session will be provided by the confirmation email on Monday 08/02/2021.
 
-![](/assets/img/logo-sid2021.svg)
+![](/assets/img/logo-sid2021.svg)![](/assets/img/screenshot-2021-01-20-at-09-02-53.png)

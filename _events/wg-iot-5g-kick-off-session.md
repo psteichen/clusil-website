@@ -10,7 +10,6 @@ tags:
 location: ''
 sponsors: ''
 link: https://www.clusil.lu/#panel1
-published: false
 
 ---
 **Kick-off session** for the new working group on IoT and 5G.

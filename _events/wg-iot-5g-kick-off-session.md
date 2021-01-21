@@ -9,26 +9,34 @@ tags:
 - featured
 location: ''
 sponsors: ''
-link: https://www.clusil.lu/#panel1
-
+link: /#panel2
 ---
 **Kick-off session** for the new working group on IoT and 5G.
 
-This session will be organized as part of the [Safer Internet Days](https://www.saferinternetday.org/), which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide.
+This session will be organized as part of the [Safer Internet Days](https://www.bee-secure.lu/de/event/safer-internet-day-2021/), which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide.
 
 ##### Agenda:
 
-* -Part 1 (20 min): 5G Fundamental Presentation - Technical behaviour compare to previous technologies.
-* Speaker: Vahid Joroughi
-* Q&A (10 min)
-* 
-* -Part 2 (20 min): Challenges and applications for Luxembourg
-* Speaker: Sébastien Faye
-* Q&A (10 min)
-* 
-* -Part 3 (20 min): Security Related Topic
-* Speaker: Thierry Grandjean
-* Q&A (10 min)
+_Part 1 (20 min):_
+
+    5G Fundamental Presentation - Technical behaviour compare to previous technologies.
+    Speaker: Vahid Joroughi
+
+_Q&A (10 min)_
+
+_Part 2 (20 min):_
+
+    Challenges and applications for Luxembourg
+    Speaker: Sébastien Faye
+
+_Q&A (10 min)_
+
+_Part 3 (20 min):_
+
+    Security Related Topic
+    Speaker: Thierry Grandjean
+
+_Q&A (10 min)_
 
 ##### When:
 
@@ -42,4 +50,5 @@ The session will start at 5:30 PM
 
 Per email to [secgen@clusil.lu](mailto:secgen@clusil.lu) by Monday 08/02/2021 noon at the latest. The link to join the session will be provided by the confirmation email on Monday 08/02/2021.
 
-![](/assets/img/logo-sid2021.svg)![](/assets/img/screenshot-2021-01-20-at-09-02-53.png)
+[![](/assets/img/logo-sid2021.svg)](https://www.bee-secure.lu/de/event/safer-internet-day-2021/)
+

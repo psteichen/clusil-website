@@ -1,4 +1,5 @@
 ---
+layout: event
 title: WG-IoT / 5G - kick-off session
 teaser: Together for a better internet is the slogan for this year's Safer Internet
   Days.

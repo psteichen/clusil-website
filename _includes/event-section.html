@@ -10,7 +10,7 @@
 
       <!-- Nav tabs -->
         <ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">
-          {% for d in events limit:7 %}
+          {% for d in events limit:5 %}
           <li class="nav-item waves-effect waves-light">
             <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
           </li>
@@ -32,6 +32,9 @@
         </div>
       </div>
     </div>
+   
+    <a href="/events">All events</a>
+
   </section>
 </div>
 

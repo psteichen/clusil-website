@@ -1,0 +1,13 @@
+---
+layout: base
+---
+<div class="container mt-6">
+  <section class="section">
+    <!--Section heading-->
+    <h2><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ page.title }}</h2>
+    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+    {{ content }}
+
+  </section>
+</div>

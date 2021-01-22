@@ -1,7 +1,7 @@
 ---
-title: Become a member
-intro: 'CLUSIL - “cybersecurity for all” ! Many different professionals will find
-  their added value by becoming a member of the CLUSIL:'
+title: 'Become a member'
+subtitle: 'all for cybersecurity and cybersecurity for all'
+intro: 'Many different professionals will find their added value by becoming a member of the CLUSIL:'
 memberships:
 - type: student
   title: Student Membership
@@ -18,3 +18,4 @@ memberships:
   desc: 'For organisations:'
   fee: 400 EUR for 6 people
   button: default
+---

@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<div class="container pt-4" id="events">
+  <section class="section">
+    <!--Section heading-->
+    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Events & Activities</h1>
+ 
+    <ul>
+      {% for event in site.events reversed %}
+      <li>
+        <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
+        {{ event.excerpt }}
+      </li>
+      {% endfor %}
+  </ul>
+  </section>
+</div>

@@ -8,13 +8,16 @@ memberships:
   desc: 'A proof is required:'
   fee: 25 EUR
   button: pink
+  form: "ml_webform_3413677('show')"
 - type: individual
   title: Individual Membership
   desc: 'As an individual person:'
   fee: 100 EUR
   button: pink
+  form: "ml_webform_3413893('show')"
 - type: organisation
   title: Corporate Membership
   desc: 'For organisations:'
   fee: 400 EUR for 6 people
   button: default
+  form: "ml_webform_3413899('show')"

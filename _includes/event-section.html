@@ -6,7 +6,7 @@
     <div class="row wow fadeIn" data-wow-delay="0.4s">
       <div class="col-md-2">
 
-      {% assign events =  site.events | reverse %}
+      {% assign events =  site.posts | where_exp:"item", "item.categories contains 'event'" %}
 
       <!-- Nav tabs -->
         <ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">

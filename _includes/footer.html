@@ -31,10 +31,9 @@
           <div class="col-lg-6 offset-lg-3 text-center smooth-scroll">
             <h5 class="title">Stay in touch</h5>
             <ul class="inline-ul">
-              {% if social.tw %}<li><a class="btn-floating btn-small btn-tw waves-effect waves-light" href="https://twitter.com/{{ social.tw }}"><i class="fa fa-twitter"></i></a></li>{% endif %}
-              {% if social.ln %}<li><a class="btn-floating btn-small btn-fb waves-effect waves-light" href="https://www.linkedin.com/{{ social.ln }}"><i class="fa fa-linkedin"></i></a></li>{% endif %}
-	          {% if social.login %}<li><a href="{{ social.login.url }}" class="btn-floating btn-small btn-pin waves-effect waves-light"><i class="fa fa-sign-in"> </i></a></li>{% endif %}
-            </ul>
+              {% for s in social %}
+              {% if s.button %}<li><a class="btn-floating btn-small {{ s.button }} waves-effect waves-light" href="{{ s.link }}" target="_blank"><i class="{{ s.icon }}"></i></a></li>{% endif %}
+              {% endfor %}
           </div>
         </div>
         {% endif %}

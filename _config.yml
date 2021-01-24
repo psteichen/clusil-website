@@ -7,9 +7,11 @@ description: >- # this means to ignore newlines until next parameter
 baseurl: ""
 url: "https://clusil.lu"
 
-collections:
-  events:
-    output: true
+#collections:
+#  events:
+#    output: true
+#  publications:
+#    output: true
 
 # Build settings
 markdown: kramdown

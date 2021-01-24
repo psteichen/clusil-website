@@ -3,9 +3,9 @@
     <div class="full-bg-img flex-center">
       <div class="container smooth-scroll">
         <div class="row">
-          {% assign featured = site.events | where_exp:"item","item.tags contains 'featured'" | sort: 'date' | reverse %}
+          {% assign featured = site.posts | where_exp:"item","item.tags contains 'featured'" %}
 	      <div class="col-md-12 white-text text-center smooth-scroll">
-          {% for f in featured  | limit:1 %}
+          {% for f in featured | limit:1 %}
             <div class="wow fadeInDown" data-wow-delay="0.2s">
               <h2 class="brand-name font-bold mb-2"><span style="color: red; font-weight: bold; font-size: 2em; vertical-align: middle; padding-bottom: 0.15em;">/</span>{{ f.title }}<span style="color: red; font-weight: bold; font-size: 0.2em;">_____</span></h2>
               <h5 class="mb-2"><i>{{ f.teaser }}</i></h5> 
@@ -13,7 +13,7 @@
               {% if location %}<h4 class="mb-2"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;{{ f.location }}</h4>{% endif %}
               <h5 class="mb-2">{{ f.sponsors }}</h5>
             </div>
-            <a href="{{ f.link }}" data-offset="100" class="btn btn-secondary wow fadeInRight waves-effect waves-light mb-2" data-wow-delay="0.2s"><i class="fa fa-external-link left"></i>More details</a>
+            <a href="{{ f.url }}" data-offset="100" class="btn btn-secondary wow fadeInRight waves-effect waves-light mb-2" data-wow-delay="0.2s"><i class="fa fa-external-link left"></i>More details</a>
           {% endfor %}
           </div>
 	</div>

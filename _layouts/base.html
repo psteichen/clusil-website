@@ -1,16 +1,19 @@
 {% include head.html %}
 
-<body class="light-blue-skin intro-page">
+<body class="light-blue-skin">
+  <!-- Navigation -->
+  {% include navigation.html %}
 
-  <!-- Main content-->
   <main>
     {{ content }}
   </main>
+    
+  <!-- Footer -->
+  {% include footer.html %}
 
   <!-- Scripts -->
   {% include javascripts.html %}
 
   <div class="hiddendiv common"></div>
-   
 </body>
 </html>

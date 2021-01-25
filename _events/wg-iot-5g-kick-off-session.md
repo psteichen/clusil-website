@@ -4,21 +4,20 @@ title: WG-IoT / 5G - kick-off session
 teaser: Together for a better internet is the slogan for this year's Safer Internet
   Days.
 date: 2021-02-09T17:30:00.000+01:00
-startime: '17:30'
+starttime: '17:30'
 endtime: '19:00'
 tags:
 - featured
-location: ''
+location: 'ONLINE via BBB platform'
 sponsors: ''
-link: "/#panel1"
-
+banner: /assets/img/logo-sid2021.svg
+banner-link: https://www.bee-secure.lu/de/event/safer-internet-day-2021/
+registration: mailto:secgen@clusil.lu
+registration-info: "Please register by Monday 08/02/2021 noon at the latest. The link to join the session will be provided by the confirmation email on Monday 08/02/2021."
+description: "**Kick-off session** for the new working group on IoT and 5G.
+  This session will be part of the [Safer Internet Days](https://www.bee-secure.lu/de/event/safer-internet-day-2021/),
+  which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide."
 ---
-**Kick-off session** for the new working group on IoT and 5G.
-
-This session will be organized as part of the [Safer Internet Days](https://www.bee-secure.lu/de/event/safer-internet-day-2021/), which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide.
-
-##### Agenda:
-
 _Part 1 (20 min):_
 
     5G Fundamental Presentation - Technical behaviour compare to previous technologies.
@@ -39,17 +38,3 @@ _Part 3 (20 min):_
     Speaker: Thierry Grandjean
 
 _Q&A (10 min)_
-
-##### When:
-
-Tuesday, February 9, 2021
-
-##### Time:
-
-The session will start at 5:30 PM
-
-##### Registration:
-
-Per email to [secgen@clusil.lu](mailto:secgen@clusil.lu) by Monday 08/02/2021 noon at the latest. The link to join the session will be provided by the confirmation email on Monday 08/02/2021.
-
-[![](/assets/img/logo-sid2021.svg)](https://www.bee-secure.lu/de/event/safer-internet-day-2021/)

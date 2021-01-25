@@ -2,12 +2,37 @@
 layout: base
 ---
 <div class="container mt-6">
-  <section class="section">
-    <!--Section heading-->
-    <h2><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ page.title }}</h2>
-    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
-
-    {{ content }}
-
-  </section>
+  <div class="card m-4">
+    <div class="card-header text-white pb-0">
+      <dl class="list-inline m-0 p-0">
+        <dt class="list-inline-item">Date:</dt> <dd class="list-inline-item"><i>{{ page.date | date_to_string }}</i></dd>
+        <dt class="list-inline-item">Time:</dt> <dd class="list-inline-item"><i>{{ page.starttime }} - {{ page.endtime }}</i></dd>
+        <dt class="list-inline-item">Venue:</dt> <dd class="list-inline-item"><i>{{ page.location }}</i></dd>
+      </dl> 
+    </div>
+    <a href="{{ page.link }}"><img src="{{ page.banner }}" class="card-img-top" alt="event banner" /></a>
+    <div class="card-body p-4">
+      <h1 class="card-title text-center"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ page.title }}</h1>
+      <p class="card-text text-center">{{ page.description | markdownify }}</p>
+      <div class="row mr-4 ml-4">
+        <div class="col-8 p-2">
+          <h3>Agenda</h3>
+          <p>{{ content }}</p>
+        </div>
+        <div class="col-4 p-2 border-start">
+          <h4>Event details</h4>
+          <dl class="">
+            <dt class="">Date:</dt> <dd class=""><i>{{ page.date | date_to_string }}</i></dd>
+            <dt class="">Time:</dt> <dd class=""><i>{{ page.starttime }} - {{ page.endtime }}</i></dd>
+            <dt class="">Venue:</dt> <dd class=""><i>{{ page.location }}</i></dd>
+          </dl> 
+       </div>
+      </div>
+    </div>
+    <div class="card-footer text-muted text-center text-small">
+      <a href="{{ page.registration }}" class="btn btn-primary">Register</a>
+      <p>{{ page.registration-info }}</p>
+    </div>
+    </div>
+  </div>
 </div>

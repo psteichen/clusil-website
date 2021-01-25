@@ -2,7 +2,8 @@
 navigation:
 - url: '#events'
   title: Events & Activities
-- url: '#pubs'
+#- url: '#pubs'
+- url: '#publications'
   title: Publications
 - url: '#about'
   title: About
@@ -13,9 +14,16 @@ navigation:
 - url: '#join-us'
   title: <b class="text-danger"><i>Join Us</i></b>
 social:
-  tw: clusil_lu
-  ln: groups/3852540
-  login:
-    url: 'https://cms.clusil.lu/'
-    title:  Member Login
+- icon: fa fa-twitter
+  button: btn-tw
+  link: https://twitter.com/clusil_lu
+- icon: fa fa-linkedin
+  button: btn-fb
+  link: https://linkedin.com/groups/3852540
+- icon: fa fa-envelope
+  link: mailto:info©clusil.lu
+  button: btn-pin
+- title:  Member Login
+  icon: fa fa-sign-in
+  link: 'https://cms.clusil.lu/'
 ---

@@ -9,7 +9,7 @@ tags:
 - featured
 location: ''
 sponsors: ''
-link: "/#panel2"
+link: "/#panel1"
 
 ---
 **Kick-off session** for the new working group on IoT and 5G.

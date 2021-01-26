@@ -1,5 +1,6 @@
 ---
 title: 20 YEARS OF CLUSIL
+layout: event
 date: 2016-05-30 13:45:00 +0200
 teaser: Under the high patronage of the Vice-Prime Minister, Etienne Schneider, CLUSIL,
   celebrates its 20 years of existence on May 30th and 31st in Luxembourg with an
@@ -7,6 +8,7 @@ teaser: Under the high patronage of the Vice-Prime Minister, Etienne Schneider, 
 startime: ''
 endtime: ''
 tags: []
+category: event
 location: Confiserie Namur, in Hamm
 sponsors: ''
 link: https://20.clusil.lu/

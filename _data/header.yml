@@ -1,8 +1,7 @@
 ---
-navigation:
+homenav:
 - url: '#events'
   title: Events & Activities
-#- url: '#pubs'
 - url: '#publications'
   title: Publications
 - url: '#about'
@@ -13,6 +12,21 @@ navigation:
   title: Contact
 - url: '#join-us'
   title: <b class="text-danger"><i>Join Us</i></b>
+
+navigation:
+- url: '/events'
+  title: Events & Activities
+- url: '/publications'
+  title: Publications
+- url: '/#about'
+  title: About
+- url: '/#team'
+  title: Team
+- url: '/#contact'
+  title: Contact
+- url: '#join-us'
+  title: <b class="text-danger"><i>Join Us</i></b>
+
 social:
 - icon: fa fa-twitter
   button: btn-tw

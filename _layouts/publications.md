@@ -1,31 +1,33 @@
 ---
 layout: base
 ---
-DEBUG
------
-Tags:
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-{% endfor %}
-Categories:
-{% for cat in site.categories %}
-  <h3>{{ cat[0] }}</h3>
-{% endfor %}
 
-<section>
-  <h1>Publications</h1>
-  <div class="row">
-  {% assign pubs = site.posts | where_exp:"item","item.categories contains 'publication'" | sort: 'date' | reverse %}
-  {% for pub in pubs %}
-    <div class="col-4">
-      <div class="card">
-        <h2 class="card-title"><a href="{{ pub.url }}">{{ pub.title }}</a></h2>
-        <h3>{{ pub.subtitle }}</h3>
-        <div class="card-body">
-          <p>{{ pub.teaser | markdownify }}</p>
+<div class="container pt-4" id="events">
+  <section class="section">
+    <h1 class="section-heading"><i class="big-red">/</i><span class="align-middle">{{ page.title }}</span></h1>
+    <div class="row mb-3 flex-center">
+      {% assign pubs = site.posts | where_exp:"item","item.categories contains 'publication'" %}
+      {% for p in pubs reversed %}
+      <div class="col-md-4">
+        <div class="card p-2">
+          <!-- Card image -->
+          <a href="{{ p.url }}">
+          <img class="card-img-top" src="{{ p.image }}">
+          </a>
+          <!-- Card content -->
+          <div class="card-body">
+            <!-- Title -->
+            <a href="{{ p.url }}" class="lead">
+            <h4 class="card-title">{{ p.title }}</h4>
+            </a>
+            <!-- Text -->
+            <p class="card-text">{{ p.excerpt }}</p>
+            <!-- Button -->
+          </div>
         </div>
       </div>
+      {% endfor %}
     </div>
-  {% endfor %}
-  </div>
-</section>
+  </section>
+</div>
+

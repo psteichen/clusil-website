@@ -22,3 +22,12 @@ between-sections {
 @media only screen and (min-width:768px){.streak-large{height:450px}}
 @media only screen and (max-width:450px){.tab-content.vertical{padding-top:4rem;}}
 @media only screen and (max-width:767px){.img-fluid{max-width:50%;padding-bottom:2rem;padding-top:2rem;text-align:center;margin:auto;}}
+
+i.big-red  {
+  vertical-align: middle;
+  color: red; 
+  letter-spacing: 8px; 
+  font-weight: 900; 
+  font-size: 1.5em;
+  font-style: normal;
+}

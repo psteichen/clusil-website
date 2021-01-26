@@ -4,16 +4,18 @@ layout: base
 
 <div class="container pt-4" id="events">
   <section class="section">
-    <!--Section heading-->
-    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Events & Activities</h1>
- 
-    <ul>
-      {% for event in site.events reversed %}
-      <li>
-        <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
-        {{ event.excerpt }}
-      </li>
+    <h1 class="section-heading"><i class="big-red">/</i><span class="align-middle">{{ page.title }}</span></h1>
+    <div class="row mb-3 flex-left">
+      {% assign events =  site.posts | where_exp:"item", "item.categories contains 'event'" %}
+      {% for e in events %}
+      <div class="col-md-6 p-2">
+        <i class="float-right text-small text-muted mr-4">Date: {{ e.date | date_to_string }}</i>
+        <a href="{{ e.url }}">
+          <h4>{{ e.title }}</h4>
+        </a>
+        <p class="text-justify">{{ e.teaser }}</p>
+      </div>
       {% endfor %}
-  </ul>
+    </div>
   </section>
 </div>

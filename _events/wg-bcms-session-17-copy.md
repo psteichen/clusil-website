@@ -8,7 +8,7 @@ endtime: '19:00'
 tags: []
 location: ''
 sponsors: ''
-link: ''
+link: "/#panel1"
 
 ---
 ##### **Session 18**:

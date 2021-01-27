@@ -2,6 +2,8 @@
 title: General Assembly (year 2020)
 teaser: The annual event...
 date: 2021-03-17 17:30:00 +0100
+layout: event
+category: event
 startime: '17:30'
 endtime: '19:30'
 tags: []

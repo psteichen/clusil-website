@@ -2,6 +2,8 @@
 title: Informed Governance
 date: 2019-01-17 17:45:44 +0100
 teaser: CLUSIL & ISACA.lu joint event
+layout: event
+category: event
 startime: '17:45'
 endtime: '21:30'
 tags: []

@@ -2,6 +2,8 @@
 title: New Year's Event
 teaser: Let's get together
 date: 2020-01-23 17:30:00 +0100
+layout: event
+category: event
 startime: '17:30'
 endtime: '21:00'
 tags: []

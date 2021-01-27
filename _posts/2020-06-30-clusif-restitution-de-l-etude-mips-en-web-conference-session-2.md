@@ -2,7 +2,9 @@
 title: CLUSIF - Restitution de l'étude MIPS en web-conférence
 teaser: Menaces Informatiques et Pratiques de sécurité (MIPS) est l’enquête de référence
   sur les pratiques de cybersécurité en France
-date: 2020-06-25 15:00:00 +0200
+date: 2020-06-30 15:00:00 +0200
+layout: event
+category: event
 startime: '15:00'
 endtime: '16:00'
 tags: []
@@ -17,9 +19,9 @@ Le **CLUSIF** (l’association de référence de la sécurité du numérique en 
 Cet événement sera présenté par **Lionel Mourer** (Manika, administrateur du Clusif), **Cyril Bras** (RSSI de Grenoble-Alpes Métropole) et **Jérôme Notin** (Directeur général de Cybermalveillance.gouv.fr)
 
 Cette année, les différents volets de l’étude seront restitués au cours de trois courtes web-conférences:  
-– **Entreprises de plus de 100 salariés : le 25 juin 2020 de 15h à 16h**,  
-_– Collectivités territoriales : le 30 juin 2020 de 15h à 16h,  
-– Internautes : le 7 juillet 2020 de 15h à 16h._
+_– Entreprises de plus de 100 salariés : le 25 juin 2020 de 15h à 16h,_  
+**– Collectivités territoriales : le 30 juin 2020 de 15h à 16h,**  
+– Internautes : le 7 juillet 2020 de 15h à 16h.
 
 Pour plus d'information et les modalités d'inscription, veuillez consulter le site de [CLUSIF]()
 

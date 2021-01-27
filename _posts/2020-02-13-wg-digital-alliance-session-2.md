@@ -3,6 +3,8 @@ title: WG-DA (Digital Alliance) - Think tank CISO
 teaser: Working group pour définir les caractéristiques principales de la fonction
   CISO
 date: 2020-02-13 17:30:00 +0100
+layout: event
+category: event
 startime: '17:30'
 endtime: '19:00'
 tags: []

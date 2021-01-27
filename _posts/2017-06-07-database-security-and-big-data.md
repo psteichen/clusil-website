@@ -2,6 +2,8 @@
 title: Database Security and Big Data
 date: 2017-06-07 11:51:00 +0000
 teaser: A joint CLUSIL-ISACA event
+layout: event
+category: event
 startime: '17:30'
 endtime: '19:00'
 tags: []

@@ -2,39 +2,37 @@
   <section class="section">
     <!--Section heading-->
     <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><i class="big-red">/</i> Upcoming Events & Activities</h1>
-                
+
+    {% assign events =  site.posts | where_exp:"item", "item.categories contains 'event'" %}
+
     <div class="row wow fadeIn" data-wow-delay="0.4s">
-      <div class="col-md-2">
 
-      {% assign events =  site.posts | where_exp:"item", "item.categories contains 'event'" %}
-
-      <!-- Nav tabs -->
-        <ul class="nav nav-tabs md-pills pills-primary flex-column" role="tablist">
-          {% for d in events limit:5 %}
-          <li class="nav-item waves-effect waves-light">
-            <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="col-md-10">
-        <!-- Tab panels -->
-        <div class="tab-content vertical">
-          {% for e in events limit:7 %}
-          <!-- Panel -->
-          <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">
-            <h2 class="feature-title">{{ e.title }}</h2>
-            <h3 class="feature-title">{{ e.teaser }}</h3>
-            {{ e.content }}
-          </div>
-          <!-- /Panel -->
-          {% endfor %}
+      <ul class="nav nav-tabs md-pills pills-primary p-0 mx-auto">
+        {% for d in events limit:5 %}
+        <li class="nav-item">
+          <a class="nav-link {% if forloop.first %}active{% endif%}" data-toggle="tab" href="#panel{{ forloop.index }}" role="tab" aria-expanded="true">{{ d.date |date:"%d %b %Y"}}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      <!-- Tab panels -->
+      <div class="tab-content p-0">
+        {% for e in events limit:7 %}
+        <!-- Panel -->
+        <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">
+          <h2>{{ e.title }}</h2>
+          <h4>{{ e.teaser }}</h4>
+          <a href="e.url" class="float-right">Read more</a>
         </div>
-      </div>
-    </div>
-   
-    <a href="/events">All events</a>
+        <!-- /Panel -->
+        {% endfor %}
+        </div>
+      </div>   
 
+      <center>
+      <a class="btn btn-outline-primary mt-4" href="/events">All events</a>
+      </center>
+
+    </div>
   </section>
 </div>
 

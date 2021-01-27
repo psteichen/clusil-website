@@ -4,6 +4,8 @@ teaser: 'Presentation of the results of the third edition of the only survey ded
   to CISOs / ISOs in Luxembourg “Out of the shadows: CISOs in the spotlight!” by CLUSIL
   and PwC Luxembourg.'
 date: 2020-10-27 16:00:00 +0100
+layout: event
+category: event
 startime: '16:00'
 endtime: '16:50'
 tags: []

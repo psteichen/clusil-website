@@ -3,6 +3,8 @@ title: WG-DA (Digital Alliance) CLUSIL 3.0 kickoff meeting
 teaser: You are a cybersecurity professional, we need you to shape the common future
   and address the challenges lying ahead.
 date: 2019-09-11 12:00:00 +0200
+layout: event
+category: event
 startime: '12:00'
 endtime: '14:00'
 tags: []

@@ -3,16 +3,15 @@ title: WG-IoT / 5G - kick-off session
 teaser: Together for a better internet is the slogan for this year's Safer Internet
   Days.
 date: 2021-02-09
+layout: event
+category: event
 startime: '17:30'
 endtime: '19:00'
 tags:
 - featured
-categories:
-- event
-location: ''
+location: 'BBB (online platform)'
 sponsors: ''
-link: "/#panel1"
-
+banner: /assets/img/iot.jpg
 ---
 **Kick-off session** for the new working group on IoT and 5G.
 

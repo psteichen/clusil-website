@@ -3,6 +3,8 @@ title: CLUSIF - Restitution de l'étude MIPS en web-conférence
 teaser: Menaces Informatiques et Pratiques de sécurité (MIPS) est l’enquête de référence
   sur les pratiques de cybersécurité en France
 date: 2020-07-07 15:00:00 +0200
+layout: event
+category: event
 startime: '15:00'
 endtime: '16:00'
 tags: []

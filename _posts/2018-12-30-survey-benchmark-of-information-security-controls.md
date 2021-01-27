@@ -2,6 +2,8 @@
 title: Survey - Benchmark of Information Security Controls
 date: 2018-12-30 12:00:00 +0100
 teaser: The 1st edition of the only benchmark made by the experts for the experts.
+layout: event
+category: event
 startime: ''
 endtime: '23:59'
 tags: []

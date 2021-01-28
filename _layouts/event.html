@@ -1,5 +1,7 @@
 ---
 layout: base
+pagination:
+  enabled: true
 ---
 <div class="container mt-6">
   <div class="card m-4">
@@ -27,13 +29,18 @@ layout: base
             <dt class="">Time:</dt> <dd class=""><i>{{ page.startime }} - {{ page.endtime }}</i></dd>
             <dt class="">Location:</dt> <dd class=""><i>{{ page.location }}</i></dd>
           </dl> 
+          <a href="{{ page.registration }}" class="btn btn-primary">Register</a>
+          <p>{{ page.registration-info }}</p>
        </div>
       </div>
     </div>
-    <div class="card-footer text-muted text-center text-small">
-      <a href="{{ page.registration }}" class="btn btn-primary">Register</a>
-      <p>{{ page.registration-info }}</p>
-    </div>
+    <div class="card-footer">
+      {% if page.previous %}
+        <a href="{{ page.previous.url }}" class="btn btn-outline-primary float-left">&laquo;&nbsp;&nbsp;&nbsp;{{ page.previous.title  }}</a>
+      {% endif %}
+      {% if page.next %}
+        <a class="btn btn-outline-primary float-right" href="{{ page.next.url }}">{{ page.next.title  }}&nbsp;&nbsp;&nbsp;&raquo;</a>
+      {% endif %}
     </div>
   </div>
 </div>

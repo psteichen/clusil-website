@@ -5,9 +5,22 @@ layout: base
 <div class="container pt-4" id="events">
   <section class="section">
     <h1 class="section-heading"><i class="big-red">/</i><span class="align-middle">{{ page.title }}</span></h1>
+
+    {% if paginator.page_trail %}
+    <nav aria-label="pagination">
+      <ul class="pagination pg-blue justify-content-center">
+      {% for trail in paginator.page_trail %}
+        <li class="page-item {% if page.url == trail.path %}active{% endif %}">
+          <a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
+
     <div class="row mb-3 flex-left">
       {% assign events =  site.posts | where_exp:"item", "item.categories contains 'event'" %}
-      {% for e in events %}
+      {% for e in paginator.posts %}
       <div class="col-md-6 p-2">
         <i class="float-right text-small text-muted mr-4">Date: {{ e.date | date_to_string }}</i>
         <a href="{{ e.url }}">
@@ -17,5 +30,18 @@ layout: base
       </div>
       {% endfor %}
     </div>
+
+    {% if paginator.page_trail %}
+    <nav aria-label="pagination">
+      <ul class="pagination pg-blue justify-content-center">
+      {% for trail in paginator.page_trail %}
+        <li class="page-item {% if page.url == trail.path %}active{% endif %}">
+          <a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
+
   </section>
 </div>

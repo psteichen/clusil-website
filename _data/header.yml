@@ -16,7 +16,7 @@ homenav:
 navigation:
 - url: '/events'
   title: Events & Activities
-- url: '/publications'
+- url: '/#publications'
   title: Publications
 - url: '/#about'
   title: About

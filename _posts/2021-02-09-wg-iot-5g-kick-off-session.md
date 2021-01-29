@@ -12,44 +12,30 @@ tags:
 location: 'BBB (online platform)'
 sponsors: ''
 banner: /assets/img/iot.jpg
+registration: mailto:secgen@clusil.lu?Subject=WG-IoT / 5G - kick-off session
+registration-info: Registration by Monday 08/02/2021 noon at the latest. The link to join the session will be provided by the confirmation email on Monday 08/02/2021.
+description: "**Kick-off session** for the new working group on IoT and 5G."
+footer: |
+  This session will be organized as part of the [Safer Internet Days](https://www.bee-secure.lu/de/event/safer-internet-day-2021/), which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide.
+  [![](/assets/img/logo-sid2021.svg)](https://www.bee-secure.lu/de/event/safer-internet-day-2021/)
 ---
-**Kick-off session** for the new working group on IoT and 5G.
 
-This session will be organized as part of the [Safer Internet Days](https://www.bee-secure.lu/de/event/safer-internet-day-2021/), which is organized every year since 2004 in February and it is now celebrated in approximately 170 countries worldwide.
+Part 1 (20 min)
+- _5G Fundamental Presentation - Technical behaviour compare to previous technologies._
+- Speaker: **Vahid Joroughi**
 
-##### Agenda:
+Q&A (10 min)
 
-_Part 1 (20 min):_
+Part 2 (20 min)
+- _Challenges and applications for Luxembourg_
+- Speaker: **Sébastien Faye**
 
-    5G Fundamental Presentation - Technical behaviour compare to previous technologies.
-    Speaker: Vahid Joroughi
+Q&A (10 min)
 
-_Q&A (10 min)_
+Part 3 (20 min)
+- _Security Related Topic_
+- Speaker: **Thierry Grandjean**
 
-_Part 2 (20 min):_
+&A (10 min)
 
-    Challenges and applications for Luxembourg
-    Speaker: Sébastien Faye
 
-_Q&A (10 min)_
-
-_Part 3 (20 min):_
-
-    Security Related Topic
-    Speaker: Thierry Grandjean
-
-_Q&A (10 min)_
-
-##### When:
-
-Tuesday, February 9, 2021
-
-##### Time:
-
-The session will start at 5:30 PM
-
-##### Registration:
-
-Per email to [secgen@clusil.lu](mailto:secgen@clusil.lu) by Monday 08/02/2021 noon at the latest. The link to join the session will be provided by the confirmation email on Monday 08/02/2021.
-
-[![](/assets/img/logo-sid2021.svg)](https://www.bee-secure.lu/de/event/safer-internet-day-2021/)

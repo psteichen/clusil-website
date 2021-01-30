@@ -5,8 +5,21 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: description
+- type: list
+  name: categories
+  label: categories
+  config:
+    use_select: false
+    source:
+      type: simple
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
   label: description
 - type: file
   name: thumb
@@ -14,6 +27,3 @@ fields:
 - type: file
   name: file
   label: file
-- type: list
-  name: categories
-  label: categories

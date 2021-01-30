@@ -3,20 +3,24 @@ label: event
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
-- type: text
-  name: teaser
-  label: teaser
-- type: datetime
-  name: date
-  label: date
-- type: text
   name: layout
   label: layout
+  default: event
+  hidden: true
 - type: text
   name: category
   label: category
+  default: event
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: file
+  name: banner
+  label: banner
+- type: datetime
+  name: date
+  label: date
 - type: text
   name: startime
   label: startime
@@ -29,12 +33,6 @@ fields:
 - type: text
   name: location
   label: location
-- type: text
-  name: sponsors
-  label: sponsors
-- type: file
-  name: banner
-  label: banner
 - type: text
   name: registration
   label: registration

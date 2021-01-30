@@ -1,0 +1,49 @@
+---
+label: event
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: teaser
+  label: teaser
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: category
+  label: category
+- type: text
+  name: startime
+  label: startime
+- type: text
+  name: endtime
+  label: endtime
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: location
+  label: location
+- type: text
+  name: sponsors
+  label: sponsors
+- type: file
+  name: banner
+  label: banner
+- type: text
+  name: registration
+  label: registration
+- type: textarea
+  name: registration-info
+  label: registration-info
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: footer
+  label: footer

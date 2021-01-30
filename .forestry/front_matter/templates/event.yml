@@ -45,3 +45,5 @@ fields:
 - type: textarea
   name: footer
   label: footer
+pages:
+- _posts/2021-02-09-wg-iot-5g-kick-off-session.md

@@ -19,8 +19,6 @@ registration: ''
 registration-info: ''
 
 ---
-##### Program:
-
 1\.	Welcome
 
 2\.	Presentation of the Management report by the board of directors

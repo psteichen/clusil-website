@@ -39,11 +39,19 @@ fields:
 - type: textarea
   name: registration-info
   label: registration-info
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: description
   label: description
 - type: textarea
   name: footer
   label: footer
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _posts/2021-02-09-wg-iot-5g-kick-off-session.md

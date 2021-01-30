@@ -29,15 +29,18 @@ navigation:
 
 social:
 - icon: fa fa-twitter
+  title: '@clusil_lu'
   button: btn-tw
   link: https://twitter.com/clusil_lu
 - icon: fa fa-linkedin
+  title: 'CLUSIL Group'
   button: btn-fb
   link: https://linkedin.com/groups/3852540
 - icon: fa fa-envelope
+  title: info©clusil.lu
   link: mailto:info©clusil.lu
   button: btn-pin
-- title:  Member Login
-  icon: fa fa-sign-in
-  link: 'https://cms.clusil.lu/'
+#- title:  Member Login
+#  icon: fa fa-sign-in
+#  link: 'https://cms.clusil.lu/'
 ---

@@ -24,7 +24,7 @@
           {% assign social = site.data.header.social %}
           <ul class="navbar-nav nav-flex-icons">
             {% for s in social %}
-            <li class="nav-item"><a class="nav-link waves-effect" href="{{ s.link }}" alt="{{ s.title }}" target="_blank"><i class="{{ s.icon }}"></i>{% if s.title %}&nbsp;{{ s.title }}{% endif %}</a></li>
+            <li class="nav-item"><a class="nav-link waves-effect" href="{{ s.link }}" alt="{{ s.title }}" target="_blank"><i class="{{ s.icon }}"></i></a></li>
             {% endfor %}
 	  </ul>
         {% endif %}

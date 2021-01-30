@@ -5,20 +5,26 @@
 
     <div class="row wow fadeIn" data-wow-delay="0.4s">
 
-      <div class="col-md-6">
+      <div class="col-md-3">
         <ul class="contact-icons">
           <li><i class="fa fa-map-marker fa-2x" style=""></i>
-            <p style="margin-top: 2em;">CLUSIL a.s.b.l. <br>co/ SECURITYMADEIN.LU <br>16, boulevard d'Avranches<br>L-1160 Luxembourg </p>
+            <p>CLUSIL a.s.b.l. <br>co/ SECURITYMADEIN.LU <br>16, boulevard d'Avranches<br>L-1160 Luxembourg </p>
           </li>
         </ul>
       </div>
-      <div class="col-md-6">
+      {% if site.data.header.social %}
+      {% assign social = site.data.header.social %}
+      {% for s in social %}
+      <div class="col-md-3">
         <ul class="contact-icons">
-          <li><i class="fa fa-envelope fa-2x"></i>
-            <p style="margin-top: 2em;"><a href="mailto:info@clusil.lu">info@clusil.lu</a></p>
+          <li><a href="{{ s.link }}"><i class="{{ s.icon }} fa-2x" style=""></i>
+            <p>{{ s.title }}</p></a>
           </li>
         </ul>
+        </ul>
       </div>
+      {% endfor %}
+      {% endif %}
     </div>
 
     <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>Ethical charter & Bylaws</h1>

@@ -9,5 +9,4 @@ pagination:
     before: 2 # The number of links before the current page
     after: 2 # The number of links before the current page
 permalink: '/publications/'
--
 ---

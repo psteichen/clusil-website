@@ -11,17 +11,17 @@ layout: base
       <div class="col-md-4">
         <div class="card p-2">
           <!-- Card image -->
-          <a href="{{ p.url }}">
-          <img class="card-img-top" src="{{ p.image }}">
+          <a href="{{ p.file }}">
+          <img class="card-img-top" src="{{ p.thumb }}">
           </a>
           <!-- Card content -->
-          <div class="card-body">
+          <div class="card-body pt-2">
             <!-- Title -->
-            <a href="{{ p.url }}" class="lead">
+            <a href="{{ p.file }}" class="lead">
             <h4 class="card-title">{{ p.title }}</h4>
             </a>
             <!-- Text -->
-            <p class="card-text">{{ p.excerpt }}</p>
+            <p class="card-text">{{ p.description }}</p>
             <!-- Button -->
           </div>
         </div>

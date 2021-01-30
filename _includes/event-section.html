@@ -1,7 +1,7 @@
 <div class="container pt-4" id="events">
   <section class="section">
     <!--Section heading-->
-    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><i class="big-red">/</i> Upcoming Events & Activities</h1>
+    <h1 class="section-heading wow fadeIn" data-wow-delay="0.2s"><i class="big-red">/</i> {{ site.data.homepage.events.title }}</h1>
 
     {% assign events =  site.posts | where_exp:"item", "item.categories contains 'event'" %}
 
@@ -15,7 +15,7 @@
         {% endfor %}
       </ul>
       <!-- Tab panels -->
-      <div class="tab-content p-0">
+      <div class="tab-content p-0 m-0 ml-5 mr-5 pr-5 pl-5">
         {% for e in events limit:7 %}
         <!-- Panel -->
         <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">

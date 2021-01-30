@@ -1,0 +1,19 @@
+---
+label: css
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: thumb
+  label: thumb
+- type: file
+  name: file
+  label: file
+- type: list
+  name: categories
+  label: categories

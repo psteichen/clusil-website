@@ -1,0 +1,55 @@
+---
+layout: base
+pagination:
+  enabled: true
+---
+<div class="container mt-6">
+  <div class="card m-4">
+    <ul class="nav">
+  {% if page.previous %}
+    <li class="nav-item"><a class="nav-link text-muted small" href="{{ page.previous.url }}">&lsaquo;&lsaquo;&nbsp;&nbsp;&nbsp;{{ page.previous.title }}</a></li>
+  {% endif %}
+  {% if page.next %}
+    <li class="nav-item ml-auto"><a class="nav-link text-muted small" href="{{ page.next.url }}">{{ page.next.title }}&nbsp;&nbsp;&nbsp;&rsaquo;&rsaquo;</a></li>
+  {% endif %}
+  </ul>
+    <div class="card-header text-white pb-0">
+      <dl class="list-inline m-0 p-0 text-center">
+        <dt class="list-inline-item pl-4">Date:</dt> <dd class="list-inline-item"><i>{{ page.date | date_to_string }}</i></dd>
+        <dt class="list-inline-item pl-4">Time:</dt> <dd class="list-inline-item"><i>{{ page.startime }} - {{ page.endtime }}</i></dd>
+        <dt class="list-inline-item pl-4">Location:</dt> <dd class="list-inline-item"><i>{{ page.location }}</i></dd>
+      </dl> 
+     {% if page.banner %}<h4 class="text-center"><i>{{ page.title }}</i></h4>{% endif %}
+    </div>
+    {% if page.banner %}<img src="{{ page.banner }}" class="card-img-top" alt="event banner" />{% endif %}
+    <div class="card-body p-4">
+      <h1 class="card-title text-center"><span style="color: red; letter-spacing: 8px; vertical-align: middle; font-weight: 900; font-size: 1.5em;">/</span>{{ page.title }}</h1>
+      <p class="card-text text-center">{{ page.description | markdownify }}</p>
+      <div class="row mr-4 ml-4">
+        <div class="col-md-8 p-2">
+          <h3>Agenda</h3>
+          <p>{{ content }}</p>
+        </div>
+        <div class="col-md-4 p-2 border-top">
+          <h4>Event details</h4>
+          <dl class="">
+            <dt class="">Date:</dt> <dd class=""><i>{{ page.date | date_to_string }}</i></dd>
+            <dt class="">Time:</dt> <dd class=""><i>{{ page.startime }} - {{ page.endtime }}</i></dd>
+            <dt class="">Location:</dt> <dd class=""><i>{{ page.location }}</i></dd>
+          </dl> 
+          <a href="{{ page.registration }}" class="btn btn-primary">Register</a>
+          <p class="small text-justify">{{ page.registration-info }}</p>
+       </div>
+      </div>
+      <p class="card-text text-center">{{ page.footer | markdownify }}</p>
+    </div>
+    <div class="card-footer">
+      {% if page.previous %}
+        <a class="btn btn-outline-primary float-left mb-2" href="{{ page.previous.url }}">&lsaquo;&lsaquo;&nbsp;&nbsp;&nbsp;{{ page.previous.title  }}</a>
+      {% endif %}
+      {% if page.next %}
+        <a class="btn btn-outline-primary float-right mb-2" href="{{ page.next.url }}">{{ page.next.title  }}&nbsp;&nbsp;&nbsp;&rsaquo;&rsaquo;</a>
+      {% endif %}
+    </div>
+  </div>
+</div>

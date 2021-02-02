@@ -12,7 +12,7 @@ tags:
 location: BBB (online platform)
 sponsors: ''
 banner: "/assets/img/iot.jpg"
-registration: mailto:secgen@clusil.lu?Subject=WG-IoT / 5G - kick-off session
+registration: https://cms.clusil.lu/events/reg/7dd7f89a38
 registration-info: Registration by Monday 08/02/2021 noon at the latest. The link
   to join the session will be provided by the confirmation email on Monday 08/02/2021.
 description: "**Kick-off session** for the new working group on IoT and 5G."

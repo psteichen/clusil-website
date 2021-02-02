@@ -30,7 +30,7 @@ Q&A (10 min)
 
 Part 2 (20 min)
 
-* _Key cCallenges and Applications for Luxembourg_
+* _Key Challenges and Applications for Luxembourg_
 * Speaker: **Sébastien Faye**
 
 Q&A (10 min)

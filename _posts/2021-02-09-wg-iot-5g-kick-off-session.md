@@ -23,21 +23,21 @@ footer: |
 ---
 Part 1 (20 min)
 
-* _5G Fundamental Presentation - Technical behaviour compare to previous technologies._
+* _5G Fundamental Presentation - Technical behaviour compared to previous technologies._
 * Speaker: **Vahid Joroughi**
 
 Q&A (10 min)
 
 Part 2 (20 min)
 
-* _Challenges and applications for Luxembourg_
+* _Key cCallenges and Applications for Luxembourg_
 * Speaker: **Sébastien Faye**
 
 Q&A (10 min)
 
 Part 3 (20 min)
 
-* _Security Related Topic_
+* _5G Security Related Challenges - examples_
 * Speaker: **Thierry Grandjean**
 
 Q&A (10 min)

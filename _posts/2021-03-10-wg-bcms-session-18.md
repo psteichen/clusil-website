@@ -18,22 +18,14 @@ link: ''
 
 2020 was an interesting and challenging year for CLUSIL and our working group BCMS.
 
-All means were put in place so that we were able to meet despite the lockdown. I admit, sometimes bandwidth problems decreased the sound and video quality, but overall it was possible to continue with our WG BCMS sessions.
+A presentation will be held by Marc Tielemans, RealCGR.
 
-In September, we even managed to meet each other in person and have a drink together, and I hope that, in 2021, we will have the opportunity to have more face-to-face meetings.
+Agenda:
 
-For 2021 we would like to inform you, that we are planning a session in March to present a solution for managing BCMS and an on-site visit of a data center in Q3 or Q4.
-
-The scheduled dates for 2021 so far are:
-
-* 
-  * Session #19 - 12/05
-* 
-  * Session #20 - 07/07
-* 
-  * Session #21 - 08/09
-* 
-  * Session #22 - 10/11
+* - The benefits of an integrated BCMS
+* - What does integrated means in this context? (automation, communication, maintenance, security, usability,...)
+* - What maturity level is required when stepping to a integrated BCMS?
+* - What do you need to pay attention to? (security, vendor lock-in, availability of services, availability of consultants,...)
 
 ##### When:
 
@@ -46,3 +38,12 @@ March 10, 2021
 ##### Registration:
 
 By [email](mailto:secgen@clusil.lu) before Tuesday 9 March, 2021, noon. The final confirmation with access information for the meeting will be sent on Tuesday afternoon to all registered participants.
+
+The scheduled dates for 2021 so far are:
+
+* Session #19 - 12/05
+* Session #20 - 07/07
+* Session #21 - 08/09
+* Session #22 - 10/11
+
+For Q3 or Q4, 2021 we are also planning an on-site visit of a data center.

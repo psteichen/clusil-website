@@ -11,7 +11,7 @@ tags:
 - featured
 location: on remote via BBB
 sponsors: ''
-link: ''
+link: mailto:secgen@clusil.lu
 
 ---
 ##### **Session 18**:
@@ -22,7 +22,7 @@ A presentation will be held by Marc Tielemans, RealCGR.
 
 Agenda:
 
-* - The benefits of an integrated BCMS
+* -The benefits of an integrated BCMS
 * - What does integrated means in this context? (automation, communication, maintenance, security, usability,...)
 * - What maturity level is required when stepping to a integrated BCMS?
 * - What do you need to pay attention to? (security, vendor lock-in, availability of services, availability of consultants,...)

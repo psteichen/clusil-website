@@ -26,13 +26,14 @@ For 2021 we would like to inform you, that we are planning a session in March to
 
 The scheduled dates for 2021 so far are:
 
-* - Session #18 - 10/03
-* - Session #19 - 12/05
-* - Session #20 - 07/07
-* - Session #21 - 08/09
-* - Session #22 - 10/11
-
-Wishing all of you a very nice Christmas time and a happy new year.
+* 
+  * Session #19 - 12/05
+* 
+  * Session #20 - 07/07
+* 
+  * Session #21 - 08/09
+* 
+  * Session #22 - 10/11
 
 ##### When:
 

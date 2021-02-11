@@ -2,13 +2,14 @@
 title: WG-BCMS - Session 18
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
-date: 2021-03-10 17:30:00.000+01:00
+date: 2021-03-10T17:30:00.000+01:00
 layout: event
 category: event
 startime: '17:30'
 endtime: '19:00'
-tags: []
-location: ''
+tags:
+- featured
+location: on remote via BBB
 sponsors: ''
 link: ''
 

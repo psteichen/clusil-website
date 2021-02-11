@@ -26,6 +26,7 @@ Agenda:
 * - What does integrated means in this context? (automation, communication, maintenance, security, usability,...)
 * - What maturity level is required when stepping to a integrated BCMS?
 * - What do you need to pay attention to? (security, vendor lock-in, availability of services, availability of consultants,...)
+* - Look and feel of RealBCP as integrated BCMS
 
 ##### When:
 

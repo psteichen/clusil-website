@@ -18,10 +18,10 @@
       <div class="tab-content p-0 m-0 ml-5 mr-5 pr-5 pl-5">
         {% for e in events limit:7 %}
         <!-- Panel -->
-        <div class="tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">
+        <div class="pt-2 tab-pane fade {% if forloop.first %}active show{% endif %}" id="panel{{ forloop.index }}" role="tabpanel" aria-expanded="false">
           <h2>{{ e.title }}</h2>
           <h4>{{ e.teaser }}</h4>
-          <a href="e.url" class="float-right">Read more</a>
+          <a href="{{ e.url }}" class="float-right">Read more</a>
         </div>
         <!-- /Panel -->
         {% endfor %}

@@ -7,8 +7,7 @@ layout: event
 category: event
 startime: '17:30'
 endtime: '19:00'
-tags:
-- featured
+tags: []
 location: BBB (online platform)
 sponsors: ''
 banner: "/assets/img/iot.jpg"

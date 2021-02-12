@@ -9,6 +9,9 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
+  templates:
+  - css
+  - event
 - type: directory
   path: _data
   label: Data

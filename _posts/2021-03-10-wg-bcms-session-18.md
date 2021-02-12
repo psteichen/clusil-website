@@ -24,9 +24,12 @@ footer: "The scheduled dates for 2021 so far are:\n\n* Session #19 - 12/05\n* Se
 banner: "/assets/img/nikita-kachanovsky-bly5jqp_ldw-unsplash.jpg"
 
 ---
-
 * The benefits of an integrated BCMS
+* 
 * What does integrated mean in this context? (automation, communication, maintenance, security, usability,...)
+* 
 * What maturity level is required when stepping to an integrated BCMS?
+* 
 * What do you need to pay attention to? (security, vendor lock-in, availability of services, availability of consultants,...)
+* 
 * Look and feel of RealBCP as integrated BCMS

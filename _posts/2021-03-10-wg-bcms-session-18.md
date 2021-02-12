@@ -21,7 +21,7 @@ description: 2020 was an interesting and challenging year for CLUSIL and our wor
 footer: "The scheduled dates for 2021 so far are:\n\n* Session #19 - 12/05\n* Session
   #20 - 07/07\n* Session #21 - 08/09\n* Session #22 - 10/11\n\nFor Q3 or Q4, 2021
   we are also planning an on-site visit of a data center. "
-banner: ''
+banner: "/assets/img/nikita-kachanovsky-bly5jqp_ldw-unsplash.jpg"
 
 ---
 

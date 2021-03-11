@@ -17,8 +17,6 @@ description: An online round table, open as well to non-members, on "Dealing wit
 footer: ''
 
 ---
-##### Agenda
-
 17:15 - visio session (via BBB) opens  
 17:30 - Ordinary General Meeting (members only)
 

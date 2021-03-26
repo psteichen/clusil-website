@@ -10,7 +10,7 @@ tags:
 - featured
 location: ''
 registration: ''
-registration-info: appel à cotisation pour l'année 2021
+registration-info: Appel à cotisation pour l'année 2021
 description: As you know, and have experienced yourself, 2020 was a challenging year.
   Therefore, we are very thankful for your continuing support to our cause. This year
   has started out to be just as challenging. This won't stop us, from keeping you
@@ -33,5 +33,3 @@ Please be so kind and pay the membership fee (indicating your name or company an
 This request for renewal is to be considered as invoice.
 
 \* _VAT not applicable – Article 57, paragraph 1 of the law of 12 February 1979 regarding value added taxes (VAT)._
-
-[https://clusil.lu/#join-us](https://clusil.lu/#join-us "https://clusil.lu/#join-us")

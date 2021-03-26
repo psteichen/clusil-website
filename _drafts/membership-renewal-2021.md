@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Membership renewal 2021
-banner: ''
+banner: "/assets/img/screenshot-2021-03-26-at-12-03-20.png"
 date: 
 startime: ''
 endtime: ''

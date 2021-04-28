@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Information Security Education Day (ISED)
+title: Information Security Education Day (ISED) 2021
 banner: "/assets/img/image002-1.png"
 date: 2021-05-21 09:00:00 +0200
 startime: '09:00'

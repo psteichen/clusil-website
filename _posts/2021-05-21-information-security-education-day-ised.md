@@ -28,17 +28,17 @@ footer: |-
 
 * _Yves le Traon, Professor, University of Luxembourg_
 * _Nicolas Mayer, Senior R&T Associate at IT for Innovative Services (ITIS), LIST_
-* _Pascal Steichen, CEO, SECURITYMADEIN.LU_
+* _Cédric Mauny, Président of CLUSIL_
 
 **09:15 Playing with lives: cyberattacks on healthcare are attacks on people**  
 _Stéphane Duguin, Chief Executive Officer, CyberPeace Institute_
 
-**09:45 Disinformation during a pandemic, lesson's learnt from the MISP Covid-19 community_  
+**09:45 Disinformation during a pandemic, lesson's learned from the MISP Covid-19 community_  
 _**_Alexandre Dulaunoy, Security Researcher, CIRCL_
 
 **10:15 Break**
 
-**10:30 Best practices applied for continuity and resilience: what went smooth**   
+**10:30 Best practices applied for continuity and resilience: what went smooth**  
 _Werner Ansorge, Business Continuity Manager, Proximus / Head of the BCM working group, CLUSIL_
 
 **11:00 Panel discussion: Digital transformation due to Covid-19: how security is addressed?**  

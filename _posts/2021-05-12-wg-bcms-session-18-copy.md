@@ -7,7 +7,8 @@ layout: event
 category: event
 startime: '17:30'
 endtime: '19:00'
-tags: []
+tags:
+- featured
 location: on remote via BBB
 sponsors: ''
 link: mailto:secgen@clusil.lu

@@ -8,7 +8,7 @@ description: Le club des professionnels de la cybersécurité du Luxembourg, a e
   ayant permis de recenser les défis rencontrés par les entreprises membres dans un
   monde post « Schrems 2 » (fameux arrêt de la Cour de Justice de l’Union Européenne
   du 16 juillet 2020).
-thumb: "/assets/img/clusil-pr.png"
+thumb: "/assets/img/clusil-cp.png"
 file: "/assets/img/clusil_ag-pr_fr_03052021.pdf"
 
 ---

@@ -27,3 +27,5 @@ fields:
 - type: file
   name: file
   label: file
+pages:
+- _posts/un-nouveau-cap-a-ete-donne-pour-le-clusil.md

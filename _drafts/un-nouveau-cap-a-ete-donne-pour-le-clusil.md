@@ -1,5 +1,6 @@
 ---
-title: Un nouveau cap a été donné pour le CLUSIL
+title: Un nouveau cap a été donné pour le CLUSIL - Assemblée Générale Ordinaire du
+  17 mars 2021
 categories:
 - publication
 description: Le club des professionnels de la cybersécurité du Luxembourg, a eu son

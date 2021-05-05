@@ -6,7 +6,8 @@ banner: "/assets/img/image002-1.png"
 date: 2021-05-21 09:00:00 +0200
 startime: '09:00'
 endtime: '12:15'
-tags: []
+tags:
+- featured
 location: online
 registration: https://ulsurvey.uni.lu/index.php/942579?lang=en
 registration-info: |-

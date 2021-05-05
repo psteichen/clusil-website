@@ -29,4 +29,4 @@ footer: |-
 banner: "/assets/img/marvin-meyer-syto3xs06fu-unsplash.jpg"
 
 ---
-More information will follow soon
+Let's continue our WG BCMS session this year with reviewing together the CSSF circular 21/769 - "Governance and security requirements for Supervised Entities to perform tasks or activities through Telework" and to analyze, how it will apply in future our way of working and our implemented BCP solutions.

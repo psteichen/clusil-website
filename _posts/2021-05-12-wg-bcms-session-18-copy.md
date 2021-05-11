@@ -1,8 +1,8 @@
 ---
-title: WG-BCMS - Session 19
+title: WG-BCMS - Session 19 - Reschedule
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
-date: 2021-05-12 17:30:00 +0200
+date: 2021-06-09 17:30:00 +0200
 layout: event
 category: event
 startime: '17:30'
@@ -12,7 +12,7 @@ location: on remote via BBB
 sponsors: ''
 link: mailto:secgen@clusil.lu
 registration: mailto:secgen@clusil.lu
-registration-info: Register before Tuesday 11 May, 2021, noon. The final confirmation
+registration-info: Register before Tuesday 8 June, 2021, noon. The final confirmation
   with access information for the meeting will be sent on Tuesday afternoon to all
   registered participants.
 description: The working group dedicated to Business Continuity Management (BCMS)

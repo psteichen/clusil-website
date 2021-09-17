@@ -1,11 +1,11 @@
 ---
 layout: event
 category: event
-title: CLUSIL - 25th anniversary
+title: CLUSIL - 25th anniversary (online edition)
 banner: "/assets/img/already-25-years-together.png"
-date: 2021-10-20 17:00:00 +0200
-startime: '17:00'
-endtime: '22:00'
+date: 2021-10-20 18:00:00 +0200
+startime: '18:00'
+endtime: '19:30'
 tags:
 - slider
 location: Proximus, Z.A. Bourmicht, 18 Rue du puits Romain, 8070 Bertrange

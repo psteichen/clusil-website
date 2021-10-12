@@ -12,7 +12,7 @@ tags:
 - slider
 location: Proximus, Z.A. Bourmicht, 18 Rue du puits Romain, 8070 Bertrange
 registration: https://landing.mailerlite.com/webforms/landing/k3t4n1
-registration-info: ''
+registration-info: Registration is free but mandatory
 description: social event
 footer: ''
 

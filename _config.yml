@@ -74,7 +74,7 @@ future: True
 #plugins:
 
 deploy:
-  - rsync -aze --delete ./ /var/www/clusil.lu/www/
+  - rsync -azv --delete ./ pst@clusil.lu:/var/www/clusil.lu/www/
 
 exclude:
   - Gemfile

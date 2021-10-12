@@ -7,6 +7,8 @@ date: 2021-10-20 18:00:00 +0200
 startime: '18:00'
 endtime: '19:30'
 tags:
+- ''
+- event
 - slider
 location: Proximus, Z.A. Bourmicht, 18 Rue du puits Romain, 8070 Bertrange
 registration: https://landing.mailerlite.com/webforms/landing/k3t4n1

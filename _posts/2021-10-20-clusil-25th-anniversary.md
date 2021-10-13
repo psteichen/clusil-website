@@ -8,7 +8,7 @@ startime: '18:00'
 endtime: '19:30'
 tags:
 - featured
-location: https://bbb.secin.lu/
+location: Online (BBB platform)
 registration: https://landing.mailerlite.com/webforms/landing/k3t4n1
 registration-info: Registration is free but mandatory
 description: 25th anniversary

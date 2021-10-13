@@ -15,14 +15,15 @@ description: 25th anniversary
 footer: ''
 
 ---
-The CLUSIL invites its members, friends, and partners to its 25th anniversary!****
+**The CLUSIL invites its members, friends, and partners to its 25th anniversary!**
 
-\- Sujet no1 : Convaincre une organisation et implémenter un SMSI, retour d'expérience sur 10 ans de pratiques.
+- Sujet no1 : Convaincre une organisation et implémenter un SMSI, retour d'expérience sur 10 ans de pratiques.
 
-\- Sujet no2 : La signature électronique : évolutions des besoins et des pratiques sur ces 5 dernières années.
+- Sujet no2 : La signature électronique : évolutions des besoins et des pratiques sur ces 5 dernières années.
 
-\- Sujet no3 : Support du Clusil sur les initiatives de formation continue au Luxembourg (MSSI, autres)
+- Sujet no3 : Support du Clusil sur les initiatives de formation continue au Luxembourg (MSSI, autres)
 
-\- Sujet no4 : Echange sur l'évolution des pratiques en matière de "serious games"
+- Sujet no4 : Echange sur l'évolution des pratiques en matière de "serious games"
 
-\- Sujet no5 : Constituency building via essential services
+- Sujet no5 : Constituency building via essential services
+

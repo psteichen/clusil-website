@@ -17,7 +17,7 @@ footer: ''
 ---
 The CLUSIL invites its members, friends, and partners to its 25th anniversary!****
 
-\- Sujet no1 : Convaincre une organisation et implémenter un SMSI, retour d'expérience sur 10 ans de pratiques au CTIE.
+\- Sujet no1 : Convaincre une organisation et implémenter un SMSI, retour d'expérience sur 10 ans de pratiques.
 
 \- Sujet no2 : La signature électronique : évolutions des besoins et des pratiques sur ces 5 dernières années.
 

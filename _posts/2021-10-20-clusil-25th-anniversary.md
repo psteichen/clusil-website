@@ -35,7 +35,7 @@ Agenda et intervenants:
 
 18h40 - 18h55 - Sujet no3 : Support du Clusil sur les initiatives de formations continue au Luxembourg (MSSI, BTS, etc.). Cédric Mauny, David Hagen, Clusil.
 
-18h55 - 19h05 - Sujet no4 : Echange sur l'évolution des pratiques en matière de "serious games". Pascal Steichen, Raphaël Taban, Clusil.
+18h55 - 19h05 - Sujet no4 : Echange sur l'évolution des pratiques en matière de "serious games". Pascal Steichen, Raphaël Taban, Clusil et Cédric Muller, CTIE
 
 19h05 - 19h20 - Sujet no5 : Constituency building via essential services. Eric Romang, GOVCERT
 

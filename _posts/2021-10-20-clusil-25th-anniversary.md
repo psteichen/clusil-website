@@ -40,3 +40,5 @@ Agenda et intervenants:
 19h05 - 19h20 - Sujet no5 : Constituency building via essential services. Eric Romang, GOVCERT
 
 19h20 - 19h30 - Clôture par le Président du Clusil, Cédric Mauny
+
+modération par Raphaël Taban, sécrétaire général CLUSIL

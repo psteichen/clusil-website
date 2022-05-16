@@ -6,8 +6,7 @@ banner: "/assets/img/already-25-years-together-2.png"
 date: 2021-10-20T18:00:00.000+02:00
 startime: '18:00'
 endtime: '19:30'
-tags:
-- featured
+tags: []
 location: Online (BBB platform)
 registration: https://landing.mailerlite.com/webforms/landing/k3t4n1
 registration-info: Registration is free but mandatory

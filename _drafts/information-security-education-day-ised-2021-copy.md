@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Information Security Education Day (ISED) 2022
-banner: ''
+banner: "/assets/img/32d6c153-2920-4d5f-8f12-83018ef04e47_4_5005_c.jpeg"
 date: 2022-05-20 09:00:00 +0200
 startime: '09:00'
 endtime: '12:15'

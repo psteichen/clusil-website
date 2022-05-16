@@ -6,7 +6,8 @@ banner: "/assets/img/32d6c153-2920-4d5f-8f12-83018ef04e47_4_5005_c.jpeg"
 date: 2022-05-20 09:00:00 +0200
 startime: '09:00'
 endtime: '12:15'
-tags: []
+tags:
+- featured
 location: 'Belval Campus, Maison du Savoir, room 3.350 (3rd floor), 2, avenue de l''Université,
   L-4365 Esch-sur-Alzette - See more at: https://ised.uni.lu/practical-information/#sthash.gD88kUP1.dpuf'
 registration: http://ulsurvey.uni.lu/index.php/988283?lang=en

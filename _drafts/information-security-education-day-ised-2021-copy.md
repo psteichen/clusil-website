@@ -1,53 +1,48 @@
 ---
 layout: event
 category: event
-title: Information Security Education Day (ISED) 2021-(copy)
-banner: "/assets/img/image002-1.png"
-date: 2021-05-21T09:00:00.000+02:00
+title: Information Security Education Day (ISED) 2022
+banner: ''
+date: 2022-05-20 09:00:00 +0200
 startime: '09:00'
 endtime: '12:15'
 tags: []
-location: online
-registration: https://ulsurvey.uni.lu/index.php/942579?lang=en
+location: 'Belval Campus, Maison du Savoir, room 3.350 (3rd floor), 2, avenue de l''Université,
+  L-4365 Esch-sur-Alzette - See more at: https://ised.uni.lu/practical-information/#sthash.gD88kUP1.dpuf'
+registration: http://ulsurvey.uni.lu/index.php/988283?lang=en
 registration-info: |-
   **Registration for the Information Security Education Day (ISED) is free but mandatory.**
 
-  Please register before 19 May 2021
+  Please register before 16 May 2022
 description: 'The Information Security Education Day (ISED) is a yearly one-day event
   co-organised by the University of Luxembourg (Department of Computer Science) and
   the Luxembourg Institute of Science and Technology (LIST), sponsored by the Club
   de la sécurité de l’information Luxembourg (CLUSIL) and the Interdisciplinary Centre
   for Security, Reliability and Trust (SnT).  '
-footer: |-
-  **Theme 2021: Impact of Covid-19 on Cybersecurity: national review and associated challenges**
-
-  The sixth edition of the Information Security Education Day (ISED) will take place virtually on 21 May 2021 from 9:00 to 12:30. This year, the organisers invite all interested participants to exchange about the impact of Covid-19 on cybersecurity.
+footer: "**Theme 2022: Demystifying the Dark Web: Challenges & Threats**"
 
 ---
 **09:00 Welcome and opening**
 
 * _Yves le Traon, Professor, University of Luxembourg_
 * _Nicolas Mayer, Senior R&T Associate at IT for Innovative Services (ITIS), LIST_
-* _Cédric Mauny, Président of CLUSIL_
+* Pascal Steichen, Chairperson of the ECCC Governing Board, CLUSIL
 
-**09:15 Playing with lives: cyberattacks on healthcare are attacks on people**  
-_Stéphane Duguin, Chief Executive Officer, CyberPeace Institute_
-
-**09:45 Disinformation during a pandemic, lesson's learned from the MISP Covid-19 community_  
-_**_Alexandre Dulaunoy, Security Researcher, CIRCL_
-
-**10:15 Break**
-
-**10:30 Best practices applied for continuity and resilience: what went smooth**  
-_Werner Ansorge, Business Continuity Manager, Proximus / Head of the BCM working group, CLUSIL_
-
-**11:00 Panel discussion: Digital transformation due to Covid-19: how security is addressed?**  
-_Convener: Pascal Steichen, CEO, SECURITYMADEIN.LU_
-
-_Participants:_
-
-* _Stéphane Bianchin, CISO, Raiffeisen_
-* _Eric Bedell, Chief Privacy Officer, Franklin Templeton_
-* _Cécile Gellenoncourt, Service Line Head Supervision of Information systems and Support PFS, CSSF_
-
-**12:15 Closing**
+**09:15 Showcase: accessing the dark web - Improving semantic analysis of dark web for operational and strategic CTI  
+**_Alexandre Dulaunoy, Security researcher, Computer Incident Response Center Luxembourg (CIRCL)_  
+  
+**10:00 DarkNet: usage & myths in incident response & threat prevention**  
+_Paul Jung, CERT-XLM Team leader_   
+  
+**10:30 Coffee Break**  
+  
+**10:45 Presentation of the Digital Forensics unit at the Police and some Dark Web related cases**   
+_Police of Luxembourg_   
+  
+**11:15 Winning the Cyber Fight: Good vs Evil**   
+_Dr. Dalia Khader, divisional CISO of Swiss Life Global Solution and award winner of CISO 2021._  
+  
+**11:45 How to act / react correctly, negotiating with hackers  
+**_Patrick Wheeler, Cybersecurity expert, Co-founder of CyberWayFinder_  
+  
+**12:15 Closing and followed by a free lunch**

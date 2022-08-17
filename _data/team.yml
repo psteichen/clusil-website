@@ -2,6 +2,13 @@
 title: Team
 intro: Most active and board members
 members:
+- name: William Robinet
+  title: Director of Conostix
+  function: Treasurer
+  photo: ''
+  social:
+    tw: ''
+    ln: ''
 - name: Cédric MAUNY
   title: Cybersecurity Lead at Telindus Luxembourg
   function: President
@@ -73,7 +80,7 @@ members:
     tw: jgoetzin
     ln: jean-goetzinger-8425679
 - name: David HAGEN
-  title: Honorary president
+  title: 'Honorary president '
   photo: "/assets/img/3babee10-9c80-4301-a131-db30155505f7_1_201_a.jpeg"
   social:
     tw: ''

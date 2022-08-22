@@ -2,13 +2,6 @@
 title: Team
 intro: Most active and board members
 members:
-- name: Yves Redding
-  title: Honorary President
-  function: 1996 - 2000
-  photo: "/assets/img/ahr0chm6ly9tywlzb24tbw9kzxjuzs1wyxblcmphbs1zywxlc2zvcmnllw1tchjvzc5zmy5lds1jzw50cmfslteuyw1hem9uyxdzlmnvbs9ndwlkzs9mawxlcy81ndi2yjbhmgzinzg4n2i1n2ixmduzodriowexnwm2nc5qcgc.jpg"
-  social:
-    tw: ''
-    ln: ''
 - name: Cédric MAUNY
   title: Cybersecurity Lead at Telindus Luxembourg
   function: President
@@ -86,3 +79,10 @@ members:
     tw: ''
     ln: ''
   function: 2000 - 2010
+- name: Yves Redding
+  title: Founder and Honorary President
+  function: 1996 - 2000
+  photo: "/assets/img/ahr0chm6ly9tywlzb24tbw9kzxjuzs1wyxblcmphbs1zywxlc2zvcmnllw1tchjvzc5zmy5lds1jzw50cmfslteuyw1hem9uyxdzlmnvbs9ndwlkzs9mawxlcy81ndi2yjbhmgzinzg4n2i1n2ixmduzodriowexnwm2nc5qcgc.jpg"
+  social:
+    tw: ''
+    ln: ''

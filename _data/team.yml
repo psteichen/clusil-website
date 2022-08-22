@@ -2,13 +2,6 @@
 title: Team
 intro: Most active and board members
 members:
-- name: William Robinet
-  title: Director of Conostix
-  function: Treasurer
-  photo: ''
-  social:
-    tw: ''
-    ln: ''
 - name: Cédric MAUNY
   title: Cybersecurity Lead at Telindus Luxembourg
   function: President
@@ -20,7 +13,7 @@ members:
     fb: 
 - name: Yves DE PRIL
   title: Director at SONN PSF
-  function: Vice-president, treasurer, and CLUSIL representative at ICTLuxembourg
+  function: Vice-president, and CLUSIL representative at ICTLuxembourg
   photo: "/assets/img/yvesDePril.jpg"
   social:
     tw: conostix

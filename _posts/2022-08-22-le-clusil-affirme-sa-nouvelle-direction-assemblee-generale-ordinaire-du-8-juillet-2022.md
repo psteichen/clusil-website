@@ -18,7 +18,7 @@ file: ''
 layout: event
 category: event
 banner: "/assets/img/clusil-ago-2022.png"
-date: 2022-07-08 00:00:00 +0200
+date: 2022-07-10 00:00:00 +0200
 startime: ''
 endtime: ''
 tags:

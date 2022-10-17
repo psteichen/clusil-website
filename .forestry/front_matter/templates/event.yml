@@ -21,6 +21,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: DD/MM/YYYY
 - type: text
   name: startime
   label: startime

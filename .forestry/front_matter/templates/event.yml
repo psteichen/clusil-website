@@ -45,8 +45,14 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: text
-  name: description
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
   label: description
 - type: textarea
   name: footer

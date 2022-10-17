@@ -15,5 +15,16 @@ description: Le club des professionnels de la cybersécurité du Luxembourg, a e
   de se tourner vers les défis futurs.
 thumb: "/assets/img/clusil-ago-2022.png"
 file: ''
+layout: event
+category: event
+banner: "/assets/img/clusil-ago-2022.png"
+date: 2022-07-08 00:00:00 +0200
+startime: ''
+endtime: ''
+tags: []
+location: ''
+registration: ''
+registration-info: ''
+footer: ''
 
 ---

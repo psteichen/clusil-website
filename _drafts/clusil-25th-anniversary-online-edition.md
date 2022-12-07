@@ -9,7 +9,8 @@ endtime: '19:30'
 tags: []
 location: https://bbb.secin.lu/
 registration: ''
-registration-info: ''
+registration-info: '[https://landing.mailerlite.com/webforms/landing/k3t4n1](https://landing.mailerlite.com/webforms/landing/k3t4n1
+  "Register")'
 description: |-
   ### Agenda
 

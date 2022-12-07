@@ -40,11 +40,13 @@ description: |-
 
   Subject #4: Exchange on the evolution of "serious games" practices
 
-  Guests: Pascal Steichen, Raphaël Taban
+  * Guests: Pascal Steichen, Raphaël Taban, Cédric Muller
 
-  Language: EN
 
-  Link with Clusil retrospective of the last 25 years: Keynote by Raphaël Taban of the Clusil event "End-of-year clusil 2015" on "Serious games";
+  * Language: EN
+
+
+  * Link with Clusil retrospective of the last 25 years: Keynote by Raphaël Taban of the Clusil event "End-of-year clusil 2015" on "Serious games";
 
   Subject #5: Constituency building via essential services
 

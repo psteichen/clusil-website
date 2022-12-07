@@ -40,7 +40,7 @@ description: |-
 
   Subject #4: Exchange on the evolution of "serious games" practices
 
-  * Guests: Pascal Steichen, Raphaël Taban, Cédric Muller
+  * Guests: Pascal Steichen, Cédric Muller, Raphaël Taban
 
 
   * Language: EN

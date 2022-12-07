@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: CLUSIL - 25th anniversary (online edition)
-banner: ''
+banner: "/assets/img/already-25-years-together-1.png"
 date: 2021-10-20 00:00:00 +0200
 startime: '18:00'
 endtime: '19:30'

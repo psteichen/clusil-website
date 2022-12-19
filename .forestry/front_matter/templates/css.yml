@@ -1,0 +1,31 @@
+---
+label: css
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+  config:
+    use_select: false
+    source:
+      type: simple
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: description
+- type: file
+  name: thumb
+  label: thumb
+- type: file
+  name: file
+  label: file
+pages:
+- _posts/2021-05-03-un-nouveau-cap-a-ete-donne-pour-le-clusil.md

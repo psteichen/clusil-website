@@ -2,48 +2,73 @@
 label: event
 hide_body: false
 fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
+- type: text
+  name: layout
+  label: layout
+  default: event
+  hidden: true
+- type: text
+  name: category
+  label: category
+  default: event
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: file
+  name: banner
+  label: banner
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
+- type: text
+  name: startime
+  label: startime
+- type: text
+  name: endtime
+  label: endtime
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: location
+  label: location
+- type: text
+  name: registration
+  label: registration
+- type: textarea
+  name: registration-info
+  label: registration-info
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- name: description
+  type: textarea
   default: ''
-- name: teaser
-  label: Teaser
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
-- name: startime
-  label: Startime
-  type: text
-  hidden: false
-  default: ''
-- name: endtime
-  label: Endtime
-  type: text
-  hidden: false
-  default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
-- name: location
-  label: Location
-  type: text
-  hidden: false
-  default: ''
-- name: sponsors
-  label: Sponsors
-  type: text
-  hidden: false
-  default: ''
-- name: link
-  label: Link
-  type: text
-  hidden: false
-  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: description
+- type: textarea
+  name: footer
+  label: footer
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+pages:
+- _posts/2021-02-09-wg-iot-5g-kick-off-session.md
+- _posts/2021-03-10-wg-bcms-session-18.md
+- _posts/2021-03-17-general-meeting-2020-followed-by-a-round-table.md
+- _posts/2021-05-12-wg-bcms-session-18-copy.md
+- _posts/2021-05-21-information-security-education-day-ised.md
+- _posts/2021-07-07-wg-bcms-session-20.md
+- _posts/2021-10-20-clusil-25th-anniversary-online-edition.md
+- _posts/2022-05-20-information-security-education-day-ised-2021-copy.md
+- _posts/2022-08-22-le-clusil-affirme-sa-nouvelle-direction-assemblee-generale-ordinaire-du-8-juillet-2022.md
+- _posts/2022-11-15-stand-at-lu-cix.md

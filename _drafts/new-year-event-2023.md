@@ -1,0 +1,48 @@
+---
+layout: event
+category: event
+title: New Year Event 2023
+banner: ''
+date: 2023-01-26 00:00:00 +0100
+startime: '17:00'
+endtime: '19:00'
+tags:
+- featured
+location: Luxembourg House of Cybersecurity (LHC), 122 rue Adolphe Fischer, L-1521
+  Luxembourg.
+registration: info@clusil.lu
+registration-info: ''
+description: "**Programme** :\n\n* 17h Accueil des participants\n* 17h30 Introduction
+  et roadmap **CLUSIL** pour 2023\n* 17h45 Keynote de Jean-Jacques Quisquater titrée
+  **Pourquoi il est temps de vous occuper de cryptographie ? L'impact potentiel des
+  ordinateurs quantiques pour votre société**\n* 18h45 Q&A\n* 19h Cocktail\n\n**Language**
+  : FR (slides en EN)\n\n**Inscription** : avant le 20 janvier à midi.\n\n**Abstract
+  du keynote :**  \nL'apparition possible d'ordinateurs quantiques puissants pourrait
+  poser des problèmes graves de sécurité informatique dans un futur assez proche (>
+  2030 ?). Depuis 2015, la question se pose du côté des standards cryptographiques
+  en usage (algorithmes RSA, ECC, DH) puisque des techniques de cassage de ceux-ci
+  ont été publiées sur base de ces ordinateurs quantiques (Shor 1994, Grover 1996,
+  ...). L'impact est que les algorithmes cryptographiques à clé publique utilisés
+  partout seraient en danger quelque soient leurs paramètres, notamment longueurs
+  de clé secrète, à long terme.  \nUn appel public aux chercheurs du monde entier
+  a été lancé par le NIST, organisme officiel de standards aux USA, en 2016, et les
+  premières propositions concrètes, après analyses approfondies par la communauté
+  scientifique, ont été approuvées en août 2022. Ces algorithmes, dits post-quantiques
+  ou quantum résistants, vont aussi être repris par la plupart des organismes mondiaux
+  de standardisation (IETF, ISO, ETSI, etc) et sont déjà implémentés par de grands
+  industriels (Google, Amazon, Microsoft, Infineon, NXP, ...).  \nPeu après, la Maison
+  Blanche USA a publié une directive qui rend obligatoire très prochainement (entre
+  l'an prochain et 2030 selon les cas, d'abord de façon hybride avec les algorithmes
+  actuels) l'utilisation de tels algorithmes dans les produits destinés aux USA et
+  d'abord dans son administration. Il est probable que d'autres pays vont suivre et
+  déjà la migration vers ces nouveaux algorithmes se préparent partout. Ceci concerne
+  donc directement l'Europe si elle veut encore exporter ses produits de sécurité.
+  \ \nNous ferons le point de façon pédagogique sans présupposé."
+footer: |-
+  N’oubliez pas que votre présence à cet évènement peut être invoqué comme CPE de vos certifications ISC2, ISACA et autres.
+
+  Salutations et bonnes fêtes de fin d'année,
+
+  _Le Conseil d'Administration de l'a.s.b.l. CLUSIL_
+
+---

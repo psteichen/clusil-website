@@ -2,13 +2,12 @@
 title: WG-BCMS - Session 20
 teaser: The working group dedicated to Business Continuity Management (BCMS) is addressed
   to all BCM managers and people interested in BCM in general.
-date: 2021-07-07 17:30:00 +0200
+date: 2021-07-07T17:30:00.000+02:00
 layout: event
 category: event
 startime: '17:30'
 endtime: '19:00'
-tags:
-- featured
+tags: []
 location: Brasserie L’Avenue, 41b avenue John F. Kennedy , L-1855 Luxembourg
 sponsors: ''
 link: mailto:secgen@clusil.lu

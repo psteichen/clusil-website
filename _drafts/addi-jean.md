@@ -15,3 +15,20 @@ description: ''
 footer: ''
 
 ---
+Le **CLUSIL** est triste.
+
+Nous venons d’apprendre le décès de **Jean GOETZINGER**survenu ce 10 février 2023.
+
+L’ensemble du Board du CLUSIL, de ses Présidents Honoraires et de ses Membres pense à son épouse, ses enfants, ses proches et toute sa famille dans cette épreuve douloureuse et s’associe à leur peine.
+
+![](/assets/img/screenshot-2023-02-16-at-19-32-40.png)
+
+Membre de longue date, Jean a présidé le CLUSIL entre 2010 et 2018. Au cours de son mandat il s’est impliqué dans le rapprochement entre les Associations sœurs du CLUSIL au sein de la Galaxie des CLUSIX et a organisé au Luxembourg la première conférence internationale des CLUSIX en juin 2013 en complément de ses participations à multiples reprises aux tables-rondes du FIC.
+
+Jean était également le Président de l’Association au passage de ses 20-ans et a su organiser avec le Board et les Membres un évènement magistral sur deux jours avec de nombreux speakers nationaux et internationaux pour rester sur sa volonté d’étendre l’impact de notre Association au-delà de nos frontières. Jean a laissé son empreinte et toujours présent au travers de ses multiples actions au niveau national et de la refonte du logo de l’Association tel qu’il est aujourd’hui, Jean sera toujours au CLUSIL et ce fût un plaisir d’avoir eu ses mots lors des 25-ans de l’Association.
+
+Si vous voulez laisser un mot ou une pensée à Jean, vous pouvez le faire par retour de mail sur l’adresse [info@clusil.lu](mailto:info@clusil.lu?subject=Hommage%20à%20Jean).
+
+**Avec notre tristesse partagée,**
+
+**Le Board du CLUSIL et ses Présidents Honoraires**

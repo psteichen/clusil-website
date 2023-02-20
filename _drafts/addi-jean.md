@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Addi Jean
-banner: "/assets/img/screenshot-2023-02-16-at-19-32-40.png"
+banner: "/assets/img/screenshot-2023-02-16-at-19-36-19.png"
 date: 
 startime: ''
 endtime: ''
@@ -20,6 +20,8 @@ Le **CLUSIL** est triste.
 Nous venons d’apprendre le décès de **Jean GOETZINGER** survenu ce 10 février 2023.
 
 L’ensemble du Board du CLUSIL, de ses Présidents Honoraires et de ses Membres pense à son épouse, ses enfants, ses proches et toute sa famille dans cette épreuve douloureuse et s’associe à leur peine.
+
+![](/assets/img/screenshot-2023-02-16-at-19-32-40.png)
 
 Membre de longue date, Jean a présidé le CLUSIL entre 2010 et 2018. Au cours de son mandat il s’est impliqué dans le rapprochement entre les Associations sœurs du CLUSIL au sein de la Galaxie des CLUSIX et a organisé au Luxembourg la première conférence internationale des CLUSIX en juin 2013 en complément de ses participations à multiples reprises aux tables-rondes du FIC.
 

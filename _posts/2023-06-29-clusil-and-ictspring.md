@@ -11,8 +11,8 @@ tags:
 location: LuxExpo the Box
 registration: http://www.ictpring.com/
 registration-info: ''
-description: We are glad thrilled to announce a collaboration with the global tech
-  conference ICT Spring!
+description: We are glad and thrilled to announce a collaboration with the global
+  tech conference ICT Spring!
 footer: ''
 
 ---

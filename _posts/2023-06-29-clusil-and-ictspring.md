@@ -3,7 +3,7 @@ layout: event
 category: event
 title: CLUSIL and ICTspring
 banner: ''
-date: 2023-06-29 00:00:00 +0200
+date: 
 startime: ''
 endtime: ''
 tags:

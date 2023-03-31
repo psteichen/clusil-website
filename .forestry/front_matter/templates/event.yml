@@ -23,6 +23,9 @@ fields:
   label: date
   config:
     date_format: DD/MM/YYYY
+    required: true
+    display_utc: true
+  default: now
 - type: text
   name: startime
   label: startime

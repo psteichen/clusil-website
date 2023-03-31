@@ -16,6 +16,8 @@ description: We are glad thrilled to announce a collaboration with the global te
 footer: ''
 
 ---
+![](/assets/img/visual-ict-spring-300x300.png)
+
 One of ICT Spring's main topics is hunting down emerging & future cyber threats. Getting a comprehensive overview of existing security vulnerabilities is strategic and offers a serious competitive advantage. With quantum computing on the horizon, the entire security chain is at risk including public infrastructures, blockchain-based systems and encrypted data.
 
 **Date**: 29-30 June 2023
@@ -25,5 +27,3 @@ One of ICT Spring's main topics is hunting down emerging & future cyber threats.
 To better understand the cyber challenges:
 
 Get your ticket now by registering at [www.ictpring.com](http://www.ictpring.com/) – stay tuned for more information
-
-![](/assets/img/visual-ict-spring-300x300.png)

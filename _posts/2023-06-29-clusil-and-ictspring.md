@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: CLUSIL and ICTspring
-banner: "/assets/img/visual-ict-spring-300x300.png"
+banner: ''
 date: 2023-06-30 00:00:00 +0200
 startime: ''
 endtime: ''
@@ -25,3 +25,5 @@ One of ICT Spring's main topics is hunting down emerging & future cyber threats.
 To better understand the cyber challenges:
 
 Get your ticket now by registering at [www.ictpring.com](http://www.ictpring.com/) – stay tuned for more information
+
+![](/assets/img/visual-ict-spring-300x300.png)

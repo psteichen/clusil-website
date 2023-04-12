@@ -4,13 +4,10 @@ intro: |-
   Helpful and easy to work with!
   They believe in the central role of an independent actor.
 partners:
-- title: CPSI
-  img: "/assets/img/cpsi.jpg"
-  url: http://cpsi.lu/
 - title: ISACA
   img: "/assets/img/isaca_logo_luxembourg_rgb.png"
   url: https://engage.isaca.org/luxembourgchapter/home
-- title: SECURITYMADEIN.LU
+- title: Luxembourg House of Cybersecurity
   img: "/assets/img/smile-logo.png"
   url: https://securitymadein.lu/
 - title: SnT
@@ -19,3 +16,6 @@ partners:
 - title: CERT.LU
   img: "/assets/img/certLu.png"
   url: https://www.cert.lu
+- title: CPSI
+  img: "/assets/img/cpsi.jpg"
+  url: http://cpsi.lu/

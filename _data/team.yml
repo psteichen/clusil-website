@@ -45,6 +45,13 @@ members:
   social:
     ln: https://www.linkedin.com/in/didier-barzin-36bbbb/
     tw: https://twitter.com/dbarzin/
+- name: Maxime VANKIEKEN
+  title: Administrator
+  function: Information Security Officer at Crédit Agricole Indosuez Wealth Europe
+  photo: "/assets/img/image002.jpg"
+  social:
+    tw: ''
+    ln: ''
 - name: Margot HARTMAN
   title: Administrative Assistant at SECURITYMADEIN.LU
   function: Assistant Secretary

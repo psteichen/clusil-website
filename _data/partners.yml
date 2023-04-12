@@ -4,12 +4,12 @@ intro: |-
   Helpful and easy to work with!
   They believe in the central role of an independent actor.
 partners:
-- title: ISACA
-  img: "/assets/img/isaca_logo_luxembourg_rgb.png"
-  url: https://engage.isaca.org/luxembourgchapter/home
 - title: Luxembourg House of Cybersecurity
   img: "/assets/img/sm-luxembourg-house-of-cybersecurity_full.jpeg"
   url: https://lhc.lu/
+- title: ISACA
+  img: "/assets/img/isaca_logo_luxembourg_rgb.png"
+  url: https://engage.isaca.org/luxembourgchapter/home
 - title: SnT
   img: "/assets/img/snt.png"
   url: https://www.snt.lu

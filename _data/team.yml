@@ -38,15 +38,13 @@ members:
     ln: ''
     gh: 
     fb: 
-- name: Thierry GRANDJEAN
-  title: Research engineer at LIST
-  function: Administrator
-  photo: "/assets/img/thierryGrandjean.jpg"
+- name: Didier BARZIN
+  title: Administrator
+  function: RSSI au Centre Hospitalier Emile Mayrisch
+  photo: "/assets/img/image001.png"
   social:
-    tw: thierrygrandjean
-    ln: thierrygrandjean
-    gh: 
-    fb: 
+    ln: https://www.linkedin.com/in/didier-barzin-36bbbb/
+    tw: https://twitter.com/dbarzin/
 - name: Margot HARTMAN
   title: Administrative Assistant at SECURITYMADEIN.LU
   function: Assistant Secretary
